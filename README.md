@@ -199,21 +199,21 @@ SQL was used for exploratory analysis and business-oriented analysis.
 
 Key areas analyzed include:
 
---Customer eligibility
---Application approval and rejection
---Card adoption
---Card type distribution
---Transaction volume
---Transaction value
---Monthly transaction trends
---Merchant category performance
---City-level customer activity
---Customer spending behavior
---Default risk
---CIBIL-based risk segmentation
---Salary-based risk segmentation
---Existing-loan-based risk segmentation
---High-value customers
+- Customer eligibility
+- Application approval and rejection
+- Card adoption
+- Card type distribution
+- Transaction volume
+- Transaction value
+- Monthly transaction trends
+- Merchant category performance
+- City-level customer activity
+- Customer spending behavior
+- Default risk
+- CIBIL-based risk segmentation
+- Salary-based risk segmentation
+- Existing-loan-based risk segmentation
+- High-value customers
 
 ---
 
@@ -221,39 +221,39 @@ Key areas analyzed include:
 
 The final Power BI dashboard contains four analytical pages:
 
--Page 1 - Credit Card Sales Overview
--Page 2 - Customer & Card Analysis
--Page 3 - Transaction & Spending Analysis
--Page 4 - Credit Risk Analysis
+- Page 1: Credit Card Sales Overview
+- Page 2: Customer & Card Analysis
+- Page 3: Transaction & Spending Analysis
+- Page 4:  Credit Risk Analysis
 
 ## Key Insights
 
 ###Customer & Card Adoption:
 
--824 customers participated in transactions.
--418 customers were approved.
--The overall application approval rate was approximately 50.7%.
--Hyderabad had the highest customer count.
--Pune recorded the highest customer adoption rate.
--Platinum was the most widely used card type.
+- 824 customers participated in transactions.
+- 418 customers were approved.
+- The overall application approval rate was approximately 50.7%.
+- Hyderabad had the highest customer count.
+- Pune recorded the highest customer adoption rate.
+- Platinum was the most widely used card type.
 >Note: Not only Eligible customers got approval, but some exceptional customers from Ineligible customer data also got approval.
 
 
 ### Transaction & Spending
 
---Approximately 2,330 transactions were analyzed.
---Total transaction value was approximately ₹28.7M.
---Electronics generated the highest transaction value among merchant categories.
---Transaction activity varied significantly across cities and card types.
---Higher transaction activity was observed during selected festive-period months.
+- Approximately 2,330 transactions were analyzed.
+- Total transaction value was approximately ₹28.7M.
+- Electronics generated the highest transaction value among merchant categories.
+- Transaction activity varied significantly across cities and card types.
+- Higher transaction activity was observed during selected festive-period months.
 
 ### Credit Risk
 
---Customers in the Average CIBIL segment showed higher observed default risk than Good-CIBIL customers.
---The ₹4L–₹8L salary segment recorded the highest observed default rate.
---Customers with two existing loans showed the highest observed default rate.
---Risk patterns varied across employment, age, salary, and geographic segments.
---Poor-CIBIL customers were generally not eligible for credit card approval under the defined eligibility criteria; therefore, their observed default rate should not be interpreted as a meaningful card-default comparison.
+- Customers in the Average CIBIL segment showed higher observed default risk than Good-CIBIL customers.
+- The ₹4L–₹8L salary segment recorded the highest observed default rate.
+- Customers with two existing loans showed the highest observed default rate.
+- Risk patterns varied across employment, age, salary, and geographic segments.
+- Poor-CIBIL customers were generally not eligible for credit card approval under the defined eligibility criteria; therefore, their observed default rate should not be interpreted as a meaningful card-default comparison.
 
 ---
 
@@ -263,8 +263,8 @@ Based on the analysis:
 
 - Target high-adoption cities with personalized card campaigns and cross-selling strategies.
 - Reward high-value customers by providing limit enhancement and charge waiver
---Monitor customers with multiple existing loans as a potentially higher-risk segment.
---Strengthen credit assessment for customers with weaker CIBIL profiles who meet eligibility criteria.
+- Monitor customers with multiple existing loans as a potentially higher-risk segment.
+- Strengthen credit assessment for customers with weaker CIBIL profiles who meet eligibility criteria.
 
 ---
 
