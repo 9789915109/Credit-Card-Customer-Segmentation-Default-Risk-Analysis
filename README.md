@@ -179,6 +179,8 @@ The dashboard analyses customer demographics, employment characteristics, credit
 
 **Excel Key Tools: Pivot Tables, Pivot chart, Slicers**
 
+![Excel Dashboard Analysis](datasets/Credit_card_excel_dashboard.png)
+
 1. Gender Distribution- Distribution of customers across different genders to understand the overall customer composition.
 
 2. Age Group Analysis- Customers are segmented into different age groups to identify the major customer segments within the dataset.
@@ -224,9 +226,15 @@ The final Power BI dashboard contains four analytical pages:
 ### Page 1: Credit Card Sales Overview
 ![Credit Card Sales Overview](Screenshots/Creditcard_overview_dashboard.png)
 
-- Page 2: Customer & Card Analysis
-- Page 3: Transaction & Spending Analysis
-- Page 4:  Credit Risk Analysis
+### Page 2: Customer & Card Analysis
+![Customer & Card Analysis](Screenshots/customercard_dashboard.png)
+
+### Page 3: Transaction & Spending Analysis
+![Transaction & Spending Analysis](Screenshots/Transactionanalysis_dashboard.png)
+
+### Page 4:  Credit Risk Analysis
+![Credit Risk Analysis](Screenshots/credit_risk_dashboard.png)
+
 
 ## Key Insights
 
