@@ -261,8 +261,8 @@ The final Power BI dashboard contains four analytical pages:
 
 Based on the analysis:
 
---Target high-adoption cities with personalized card campaigns and cross-selling strategies.
---Reward high-value customers by providing limit enhancement and charge waiver
+- Target high-adoption cities with personalized card campaigns and cross-selling strategies.
+- Reward high-value customers by providing limit enhancement and charge waiver
 --Monitor customers with multiple existing loans as a potentially higher-risk segment.
 --Strengthen credit assessment for customers with weaker CIBIL profiles who meet eligibility criteria.
 
@@ -270,20 +270,20 @@ Based on the analysis:
 
 ## Data Limitations
 
--The dataset is synthetic and was generated for analytical practice.
--It does not represent actual banking customers or transactions.
--Some values were intentionally modified to simulate data quality problems.
--January 2024 contains incomplete data and should not be used for full-year trend conclusions.
--Default-risk observations are based on the synthetic dataset and should not be interpreted as actual banking risk estimates.
+- The dataset is synthetic and was generated for analytical practice.
+- It does not represent actual banking customers or transactions.
+- Some values were intentionally modified to simulate data quality problems.
+- January 2024 contains incomplete data and should not be used for full-year trend conclusions.
+- Default-risk observations are based on the synthetic dataset and should not be interpreted as actual banking risk estimates.
 
 ---
 
 ## Tools & Technologies
 
-Excel — Data cleaning, transformation and exploratory analysis
-Power Query — Data integration and transformation
-SQL / PostgreSQL — Data analysis and business queries
-Power BI — Data visualization and dashboard development
-DAX — Measures and analytical calculations
-GitHub — Project versioning and portfolio presentationtion 
+- Excel — Data cleaning, transformation and exploratory analysis
+- Power Query — Data integration and transformation
+- SQL / PostgreSQL — Data analysis and business queries
+- Power BI — Data visualization and dashboard development
+- DAX — Measures and analytical calculations
+- GitHub — Project versioning and portfolio presentationtion 
 
