@@ -1,0 +1,2331 @@
+transaction_id,customer_id,Card Type,Card Type2,Card Limit,card_id,purchase_date,purchase_amount,merchant_category,Payment_status,Applied_but_rejected,Rejection_reason
+1,655,NA,NA,,,,,,,Y,Low Salary
+2,26,NA,NA,,,,,,,Y,High Debt
+3,251,Silver,Silver,50000,2,22-02-2023,1345,Fuel,Paid,N,
+4,90,NA,NA,,,,,,,Y,Unstable Employment
+5,33,Silver,Silver,50000,2,30-04-2023,34432,Fuel,Default,N,
+6,617,Silver,Silver,50000,2,29-11-2023,46222,Fuel,Paid,N,
+7,430,NA,NA,,,,,,,Y,Low CIBIL
+8,460,Silver,Silver,50000,2,04-01-2023,39172,Travel,Paid,N,
+9,715,NA,NA,,,,,,,Y,Unstable Employment
+10,349,NA,NA,,,,,,,Y,High Debt
+11,160,Silver,Silver,50000,2,22-06-2023,14231,Groceries,Paid,N,
+12,95,Gold,Gold,100000,3,26-06-2023,33622,Fuel,Paid,N,
+13,271,NA,NA,,,,,,,Y,Low Salary
+14,748,Gold,Gold,100000,3,13-07-2023,36085,Groceries,Paid,N,
+15,566,NA,NA,,,,,,,Y,High Debt
+16,850,Silver,Silver,50000,2,27-12-2023,4332,Groceries,Paid,N,
+17,47,NA,NA,,,,,,,Y,Low CIBIL
+18,792,Platinum,Platinum,300000,4,30-04-2023,32832,Groceries,Paid,N,
+19,390,NA,NA,,,,,,,Y,High Debt
+20,465,NA,NA,,,,,,,Y,High Debt
+21,167,NA,NA,,,,,,,Y,High Debt
+22,364,Silver,Silver,50000,2,26-12-2023,12967,Groceries,Paid,N,
+23,624,Silver,Silver,50000,2,06-05-2023,41525,Travel,Paid,N,
+24,474,NA,NA,,,,,,,Y,Unstable Employment
+25,277,NA,NA,,,,,,,Y,Low CIBIL
+26,702,NA,NA,,,,,,,Y,High Debt
+27,864,NA,NA,,,,,,,Y,Low Salary
+28,235,Gold,Gold,100000,3,25-07-2023,13607,Dining,Paid,N,
+29,68,NA,NA,,,,,,,Y,Low CIBIL
+30,581,NA,NA,,,,,,,Y,High Debt
+31,218,NA,NA,,,,,,,Y,Unstable Employment
+32,406,Platinum,Platinum,300000,4,13-03-2023,12958,Travel,Paid,N,
+33,763,Gold,Gold,100000,3,08-08-2023,29166,Fuel,Paid,N,
+34,409,Gold,Gold,100000,3,12-03-2023,43981,Fuel,Paid,N,
+35,506,NA,NA,,,,,,,Y,Low Salary
+36,774,NA,NA,,,,,,,Y,Low Salary
+37,882,Gold,Gold,100000,3,23-03-2023,3081,Electronics,Paid,N,
+38,611,Gold,Gold,100000,3,02-11-2023,10082,Electronics,Paid,N,
+39,542,Gold,Gold,100000,3,06-01-2023,8918,Groceries,Paid,N,
+40,699,Platinum,Platinum,300000,4,24-06-2023,28591,Groceries,Paid,N,
+41,301,NA,NA,,,,,,,Y,Unstable Employment
+42,162,NA,NA,,,,,,,Y,Unstable Employment
+43,4,Gold,Gold,100000,3,02-04-2023,29613,Fuel,Paid,N,
+44,109,NA,NA,,,,,,,Y,High Debt
+45,862,NA,NA,,,,,,,Y,Low CIBIL
+46,157,Gold,Gold,100000,3,04-10-2023,19327,Fuel,Paid,N,
+47,1,NA,NA,,,,,,,Y,High Debt
+48,501,NA,NA,,,,,,,Y,Low Salary
+49,115,NA,NA,,,,,,,Y,High Debt
+50,900,Silver,Silver,50000,2,04-05-2023,14919,Fuel,Paid,N,
+51,81,Silver,Silver,50000,2,05-02-2023,12314,Fuel,Paid,N,
+52,785,NA,NA,,,,,,,Y,Low CIBIL
+53,132,NA,NA,,,,,,,Y,Unstable Employment
+54,563,Silver,Silver,50000,2,07-11-2023,34304,Electronics,Paid,N,
+55,217,NA,NA,,,,,,,Y,Low CIBIL
+56,731,Platinum,Platinum,300000,4,10-12-2023,10524,Dining,Paid,N,
+57,449,Gold,Gold,100000,3,26-04-2023,44200,Groceries,Paid,N,
+58,347,Gold,Gold,100000,3,28-04-2023,7935,Fuel,Paid,N,
+59,226,Gold,Gold,100000,3,20-11-2023,2048,Groceries,Paid,N,
+60,235,Gold,Gold,100000,3,19-06-2023,5565,Groceries,Paid,N,
+61,527,Silver,Silver,50000,2,06-09-2023,23380,Travel,Paid,N,
+62,553,Gold,Gold,100000,3,20-10-2023,3907,Fuel,Paid,N,
+63,485,NA,NA,,,,,,,Y,Low CIBIL
+64,804,NA,NA,,,,,,,Y,Unstable Employment
+65,827,Gold,Gold,100000,3,19-02-2023,33907,Electronics,Paid,N,
+66,363,NA,NA,,,,,,,Y,Unstable Employment
+67,421,NA,NA,,,,,,,Y,Unstable Employment
+68,885,NA,NA,,,,,,,Y,Low Salary
+69,690,Silver,Silver,50000,2,23-06-2023,33440,Groceries,Paid,N,
+70,255,NA,NA,,,,,,,Y,Low CIBIL
+71,195,NA,NA,,,,,,,Y,Unstable Employment
+72,144,Platinum,Platinum,300000,4,25-08-2023,6166,Travel,Paid,N,
+73,896,Silver,Silver,50000,2,09-10-2023,37622,Groceries,Paid,N,
+74,52,Silver,Silver,50000,2,02-05-2023,25592,Travel,Paid,N,
+75,417,NA,NA,,,,,,,Y,Unstable Employment
+76,493,Silver,Silver,50000,2,31-01-2023,10609,Travel,Paid,N,
+77,389,NA,NA,,,,,,,Y,Low Salary
+78,400,NA,NA,,,,,,,Y,High Debt
+79,803,Gold,Gold,100000,3,23-12-2023,36154,Fuel,Paid,N,
+80,678,Platinum,Platinum,300000,4,01-06-2023,35432,Travel,Paid,N,
+81,60,Gold,Gold,100000,3,30-01-2023,27005,Groceries,Paid,N,
+82,599,NA,NA,,,,,,,Y,Unstable Employment
+83,515,NA,NA,,,,,,,Y,Low CIBIL
+84,59,NA,NA,,,,,,,Y,Low Salary
+85,872,NA,NA,,,,,,,Y,Low CIBIL
+86,71,NA,NA,,,,,,,Y,Low Salary
+87,692,card_type,card_type,credit_limit,1,19-10-2023,37213,Travel,Paid,N,
+88,593,NA,NA,,,,,,,Y,Low Salary
+89,635,NA,NA,,,,,,,Y,Low Salary
+90,430,NA,NA,,,,,,,Y,High Debt
+91,268,Gold,Gold,100000,3,10-06-2023,43669,Travel,Paid,N,
+92,272,Gold,Gold,100000,3,27-11-2023,8246,Dining,Paid,N,
+93,469,Gold,Gold,100000,3,07-02-2023,12475,Groceries,Paid,N,
+94,470,Gold,Gold,100000,3,20-04-2023,41022,Fuel,Paid,N,
+95,272,Silver,Silver,50000,2,05-02-2023,16096,Travel,Paid,N,
+96,379,NA,NA,,,,,,,Y,High Debt
+97,162,NA,NA,,,,,,,Y,Unstable Employment
+98,854,Silver,Silver,50000,2,01-12-2023,38453,Fuel,Paid,N,
+99,9,NA,NA,,,,,,,Y,High Debt
+100,680,NA,NA,,,,,,,Y,Low Salary
+101,900,card_type,card_type,credit_limit,1,24-02-2023,34361,Fuel,Paid,N,
+102,160,Gold,Gold,100000,3,18-04-2023,4380,Dining,Paid,N,
+103,209,NA,NA,,,,,,,Y,High Debt
+104,518,NA,NA,,,,,,,Y,Unstable Employment
+105,258,NA,NA,,,,,,,Y,Low Salary
+106,95,Gold,Gold,100000,3,23-01-2023,43954,Groceries,Paid,N,
+107,342,Gold,Gold,100000,3,15-05-2023,44039,Travel,Paid,N,
+108,760,Gold,Gold,100000,3,07-08-2023,43948,Fuel,Paid,N,
+109,10,Gold,Gold,100000,3,20-12-2023,3285,Travel,Paid,N,
+110,559,card_type,card_type,credit_limit,1,26-10-2023,22949,Fuel,Paid,N,
+111,152,NA,NA,,,,,,,Y,Unstable Employment
+112,131,Gold,Gold,100000,3,21-01-2023,15299,Dining,Paid,N,
+113,216,Silver,Silver,50000,2,01-07-2023,49548,Fuel,Paid,N,
+114,896,Gold,Gold,100000,3,21-03-2023,39807,Travel,Paid,N,
+115,886,NA,NA,,,,,,,Y,Low CIBIL
+116,820,Silver,Silver,50000,2,13-01-2023,49284,Travel,Paid,N,
+117,755,Gold,Gold,100000,3,30-07-2023,47998,Travel,Paid,N,
+118,274,Silver,Silver,50000,2,25-02-2023,43833,Electronics,Paid,N,
+119,894,NA,NA,,,,,,,Y,Low Salary
+120,880,Gold,Gold,100000,3,24-08-2023,41328,Dining,Paid,N,
+121,313,NA,NA,,,,,,,Y,Low CIBIL
+122,229,card_type,card_type,credit_limit,1,24-07-2023,4490,Dining,Paid,N,
+123,286,Silver,Silver,50000,2,23-05-2023,19573,Dining,Paid,N,
+124,657,Platinum,Platinum,300000,4,02-10-2023,37363,Dining,Paid,N,
+125,29,Silver,Silver,50000,2,14-05-2023,15049,Travel,Paid,N,
+126,595,Gold,Gold,100000,3,02-11-2023,18759,Electronics,Default,N,
+127,354,NA,NA,,,,,,,Y,High Debt
+128,447,card_type,card_type,credit_limit,1,23-10-2023,20290,Travel,Paid,N,
+129,261,Gold,Gold,100000,3,01-01-2023,10479,Fuel,Paid,N,
+130,826,Silver,Silver,50000,2,05-02-2023,20816,Dining,Paid,N,
+131,639,Gold,Gold,100000,3,05-03-2023,26683,Dining,Paid,N,
+132,520,Gold,Gold,100000,3,17-06-2023,28824,Electronics,Paid,N,
+133,714,Platinum,Platinum,300000,4,09-04-2023,25124,Electronics,Paid,N,
+134,681,NA,NA,,,,,,,Y,Unstable Employment
+135,694,Gold,Gold,100000,3,04-06-2023,38676,Electronics,Paid,N,
+136,562,NA,NA,,,,,,,Y,Low Salary
+137,312,Gold,Gold,100000,3,24-10-2023,20745,Fuel,Paid,N,
+138,671,Silver,Silver,50000,2,15-08-2023,47205,Travel,Paid,N,
+139,524,Gold,Gold,100000,3,28-03-2023,24290,Groceries,Paid,N,
+140,291,NA,NA,,,,,,,Y,High Debt
+141,96,Silver,Silver,50000,2,26-04-2023,27256,Travel,Paid,N,
+142,151,Gold,Gold,100000,3,01-09-2023,3333,Fuel,Paid,N,
+143,871,NA,NA,,,,,,,Y,Low Salary
+144,467,NA,NA,,,,,,,Y,Unstable Employment
+145,645,Gold,Gold,100000,3,16-07-2023,5785,Electronics,Paid,N,
+146,410,Silver,Silver,50000,2,19-12-2023,10089,Groceries,Paid,N,
+147,769,card_type,card_type,credit_limit,1,23-04-2023,47976,Travel,Paid,N,
+148,824,Gold,Gold,100000,3,08-05-2023,14616,Groceries,Paid,N,
+149,468,Gold,Gold,100000,3,08-12-2023,8145,Fuel,Paid,N,
+150,573,NA,NA,,,,,,,Y,High Debt
+151,774,NA,NA,,,,,,,Y,Unstable Employment
+152,628,Gold,Gold,100000,3,08-10-2023,45286,Electronics,Paid,N,
+153,163,Gold,Gold,100000,3,07-05-2023,29650,Dining,Paid,N,
+154,785,NA,NA,,,,,,,Y,Unstable Employment
+155,642,NA,NA,,,,,,,Y,Low CIBIL
+156,282,Gold,Gold,100000,3,27-05-2023,11389,Travel,Paid,N,
+157,279,NA,NA,,,,,,,Y,High Debt
+158,328,Silver,Silver,50000,2,29-04-2023,30786,Electronics,Paid,N,
+159,711,NA,NA,,,,,,,Y,Low CIBIL
+160,724,Gold,Gold,100000,3,28-07-2023,38045,Dining,Paid,N,
+161,556,NA,NA,,,,,,,Y,Unstable Employment
+162,426,Silver,Silver,50000,2,04-08-2023,16494,Electronics,Paid,N,
+163,789,Silver,Silver,50000,2,22-10-2023,36003,Electronics,Paid,N,
+164,489,Gold,Gold,100000,3,02-06-2023,46879,Electronics,Paid,N,
+165,874,NA,NA,,,,,,,Y,Unstable Employment
+166,552,card_type,card_type,credit_limit,1,20-05-2023,25162,Electronics,Paid,N,
+167,498,card_type,card_type,credit_limit,1,09-12-2023,39636,Electronics,Paid,N,
+168,742,NA,NA,,,,,,,Y,Low CIBIL
+169,861,NA,NA,,,,,,,Y,Unstable Employment
+170,131,Gold,Gold,100000,3,31-10-2023,27139,Fuel,Paid,N,
+171,679,Gold,Gold,100000,3,08-08-2023,17705,Travel,Paid,N,
+172,888,NA,NA,,,,,,,Y,Unstable Employment
+173,187,NA,NA,,,,,,,Y,Low Salary
+174,267,NA,NA,,,,,,,Y,Unstable Employment
+175,336,Silver,Silver,50000,2,22-06-2023,33430,Electronics,Paid,N,
+176,285,Gold,Gold,100000,3,11-02-2023,8277,Electronics,Paid,N,
+177,20,NA,NA,,,,,,,Y,Low Salary
+178,359,NA,NA,,,,,,,Y,Low CIBIL
+179,666,Silver,Silver,50000,2,30-11-2023,28815,Groceries,Paid,N,
+180,773,NA,NA,,,,,,,Y,Low Salary
+181,254,NA,NA,,,,,,,Y,Low CIBIL
+182,860,Gold,Gold,100000,3,03-05-2023,48117,Travel,Paid,N,
+183,485,NA,NA,,,,,,,Y,Low Salary
+184,578,Silver,Silver,50000,2,12-05-2023,27473,Dining,Paid,N,
+185,172,Silver,Silver,50000,2,25-03-2023,18816,Dining,Paid,N,
+186,111,NA,NA,,,,,,,Y,Low Salary
+187,320,Silver,Silver,50000,2,12-04-2023,27804,Groceries,Paid,N,
+188,607,Silver,Silver,50000,2,04-06-2023,36803,Fuel,Paid,N,
+189,825,Silver,Silver,50000,2,17-10-2023,31022,Groceries,Paid,N,
+190,356,Platinum,Platinum,300000,4,05-02-2023,22840,Fuel,Paid,N,
+191,664,NA,NA,,,,,,,Y,High Debt
+192,13,NA,NA,,,,,,,Y,Unstable Employment
+193,843,NA,NA,,,,,,,Y,Unstable Employment
+194,109,NA,NA,,,,,,,Y,Unstable Employment
+195,371,NA,NA,,,,,,,Y,Unstable Employment
+196,725,NA,NA,,,,,,,Y,Low CIBIL
+197,446,card_type,card_type,credit_limit,1,30-11-2023,20330,Dining,Paid,N,
+198,631,Gold,Gold,100000,3,31-10-2023,13903,Dining,Paid,N,
+199,331,Silver,Silver,50000,2,14-02-2023,15016,Dining,Paid,N,
+200,462,NA,NA,,,,,,,Y,Low CIBIL
+201,769,Silver,Silver,50000,2,09-12-2023,19591,Electronics,Paid,N,
+202,345,Silver,Silver,50000,2,16-06-2023,8459,Travel,Paid,N,
+203,500,NA,NA,,,,,,,Y,Low CIBIL
+204,364,Gold,Gold,100000,3,02-11-2023,32432,Dining,Paid,N,
+205,570,Silver,Silver,50000,2,08-04-2023,31054,Groceries,Paid,N,
+206,248,Silver,Silver,50000,2,04-05-2023,37201,Electronics,Paid,N,
+207,662,NA,NA,,,,,,,Y,Unstable Employment
+208,459,Gold,Gold,100000,3,24-04-2023,3885,Electronics,Paid,N,
+209,709,Gold,Gold,100000,3,25-10-2023,34190,Dining,Paid,N,
+210,485,NA,NA,,,,,,,Y,High Debt
+211,436,NA,NA,,,,,,,Y,High Debt
+212,361,Gold,Gold,100000,3,09-05-2023,10867,Travel,Paid,N,
+213,124,Silver,Silver,50000,2,02-10-2023,47005,Travel,Paid,N,
+214,197,Silver,Silver,50000,2,22-05-2023,33832,Fuel,Paid,N,
+215,779,NA,NA,,,,,,,Y,High Debt
+216,103,Gold,Gold,100000,3,04-07-2023,20142,Travel,Paid,N,
+217,310,NA,NA,,,,,,,Y,Low Salary
+218,726,Silver,Silver,50000,2,28-01-2023,11289,Fuel,Paid,N,
+219,300,Silver,Silver,50000,2,09-09-2023,35768,Groceries,Paid,N,
+220,894,NA,NA,,,,,,,Y,Low Salary
+221,588,Gold,Gold,100000,3,14-08-2023,21450,Dining,Paid,N,
+222,189,NA,NA,,,,,,,Y,Low Salary
+223,259,Platinum,Platinum,300000,4,03-02-2023,26063,Electronics,Paid,N,
+224,504,Silver,Silver,50000,2,18-12-2023,40149,Groceries,Paid,N,
+225,156,NA,NA,,,,,,,Y,Low CIBIL
+226,831,NA,NA,,,,,,,Y,High Debt
+227,88,Silver,Silver,50000,2,02-08-2023,36904,Fuel,Paid,N,
+228,611,Gold,Gold,100000,3,14-07-2023,33491,Electronics,Paid,N,
+229,454,NA,NA,,,,,,,Y,High Debt
+230,881,NA,NA,,,,,,,Y,Unstable Employment
+231,313,NA,NA,,,,,,,Y,Low Salary
+232,625,Silver,Silver,50000,2,17-04-2023,39565,Travel,Paid,N,
+233,271,NA,NA,,,,,,,Y,Low Salary
+234,161,Silver,Silver,50000,2,08-02-2023,48163,Travel,Paid,N,
+235,3,NA,NA,,,,,,,Y,Unstable Employment
+236,462,NA,NA,,,,,,,Y,Unstable Employment
+237,299,Gold,Gold,100000,3,28-12-2023,850,Dining,Paid,N,
+238,720,Silver,Silver,50000,2,30-04-2023,18812,Dining,Default,N,
+239,807,Silver,Silver,50000,2,06-10-2023,24627,Travel,Paid,N,
+240,664,NA,NA,,,,,,,Y,Low CIBIL
+241,273,Gold,Gold,100000,3,26-03-2023,29353,Dining,Paid,N,
+242,610,NA,NA,,,,,,,Y,High Debt
+243,450,Gold,Gold,100000,3,05-06-2023,38000,Electronics,Paid,N,
+244,279,NA,NA,,,,,,,Y,Unstable Employment
+245,449,Silver,Silver,50000,2,10-08-2023,34285,Dining,Paid,N,
+246,619,NA,NA,,,,,,,Y,High Debt
+247,27,Silver,Silver,50000,2,12-12-2023,19110,Fuel,Paid,N,
+248,602,NA,NA,,,,,,,Y,Low Salary
+249,784,NA,NA,,,,,,,Y,High Debt
+250,591,NA,NA,,,,,,,Y,Low Salary
+251,782,Silver,Silver,50000,2,30-11-2023,24090,Electronics,Paid,N,
+252,285,Silver,Silver,50000,2,12-08-2023,29943,Electronics,Paid,N,
+253,94,NA,NA,,,,,,,Y,Unstable Employment
+254,357,Platinum,Platinum,300000,4,10-12-2023,48497,Groceries,Paid,N,
+255,879,Silver,Silver,50000,2,22-12-2023,7670,Electronics,Paid,N,
+256,296,Gold,Gold,100000,3,09-10-2023,13803,Groceries,Paid,N,
+257,466,NA,NA,,,,,,,Y,Low Salary
+258,323,NA,NA,,,,,,,Y,High Debt
+259,332,Silver,Silver,50000,2,26-07-2023,6707,Fuel,Paid,N,
+260,845,NA,NA,,,,,,,Y,Low Salary
+261,674,NA,NA,,,,,,,Y,Unstable Employment
+262,424,NA,NA,,,,,,,Y,Low Salary
+263,193,NA,NA,,,,,,,Y,High Debt
+264,638,NA,NA,,,,,,,Y,Unstable Employment
+265,641,Silver,Silver,50000,2,15-04-2023,12816,Dining,Paid,N,
+266,563,Silver,Silver,50000,2,13-08-2023,35687,Electronics,Paid,N,
+267,125,Gold,Gold,100000,3,08-11-2023,6740,Travel,Paid,N,
+268,727,card_type,card_type,credit_limit,1,08-01-2023,2393,Fuel,Paid,N,
+269,418,NA,NA,,,,,,,Y,Low Salary
+270,231,NA,NA,,,,,,,Y,Low Salary
+271,473,NA,NA,,,,,,,Y,Low Salary
+272,664,NA,NA,,,,,,,Y,Low CIBIL
+273,511,Gold,Gold,100000,3,20-05-2023,14253,Electronics,Paid,N,
+274,855,NA,NA,,,,,,,Y,Unstable Employment
+275,484,Silver,Silver,50000,2,16-03-2023,38590,Electronics,Paid,N,
+276,196,NA,NA,,,,,,,Y,Low CIBIL
+277,885,NA,NA,,,,,,,Y,Low Salary
+278,283,NA,NA,,,,,,,Y,Unstable Employment
+279,349,NA,NA,,,,,,,Y,High Debt
+280,841,Gold,Gold,100000,3,02-06-2023,11732,Fuel,Paid,N,
+281,594,NA,NA,,,,,,,Y,Unstable Employment
+282,887,Silver,Silver,50000,2,05-09-2023,18009,Dining,Paid,N,
+283,341,NA,NA,,,,,,,Y,Unstable Employment
+284,467,NA,NA,,,,,,,Y,High Debt
+285,891,Silver,Silver,50000,2,03-05-2023,3617,Fuel,Paid,N,
+286,393,NA,NA,,,,,,,Y,Low CIBIL
+287,877,Silver,Silver,50000,2,31-08-2023,37429,Electronics,Default,N,
+288,396,Silver,Silver,50000,2,19-01-2023,48791,Travel,Paid,N,
+289,515,NA,NA,,,,,,,Y,High Debt
+290,891,Silver,Silver,50000,2,14-08-2023,4542,Groceries,Paid,N,
+291,539,Silver,Silver,50000,2,15-03-2023,37701,Electronics,Default,N,
+292,892,NA,NA,,,,,,,Y,Low CIBIL
+293,77,Platinum,Platinum,300000,4,16-05-2023,27246,Dining,Paid,N,
+294,639,Gold,Gold,100000,3,18-06-2023,14516,Fuel,Paid,N,
+295,390,NA,NA,,,,,,,Y,High Debt
+296,642,NA,NA,,,,,,,Y,Unstable Employment
+297,894,NA,NA,,,,,,,Y,Low Salary
+298,633,Silver,Silver,50000,2,17-12-2023,25522,Dining,Paid,N,
+299,233,NA,NA,,,,,,,Y,Low Salary
+300,445,Gold,Gold,100000,3,27-12-2023,35926,Groceries,Paid,N,
+301,455,Silver,Silver,50000,2,15-01-2023,28438,Groceries,Paid,N,
+302,333,NA,NA,,,,,,,Y,Low Salary
+303,301,NA,NA,,,,,,,Y,High Debt
+304,384,Platinum,Platinum,300000,4,29-09-2023,44178,Electronics,Paid,N,
+305,580,NA,NA,,,,,,,Y,Low CIBIL
+306,175,NA,NA,,,,,,,Y,Low CIBIL
+307,81,Gold,Gold,100000,3,04-05-2023,36212,Electronics,Paid,N,
+308,598,NA,NA,,,,,,,Y,Low CIBIL
+309,238,NA,NA,,,,,,,Y,Unstable Employment
+310,654,Silver,Silver,50000,2,08-12-2023,40478,Groceries,Paid,N,
+311,824,Gold,Gold,100000,3,13-12-2023,9287,Fuel,Paid,N,
+312,162,NA,NA,,,,,,,Y,Low Salary
+313,453,NA,NA,,,,,,,Y,High Debt
+314,602,NA,NA,,,,,,,Y,High Debt
+315,655,NA,NA,,,,,,,Y,Unstable Employment
+316,707,Silver,Silver,50000,2,04-06-2023,2486,Travel,Paid,N,
+317,394,Platinum,Platinum,300000,4,15-07-2023,11442,Fuel,Paid,N,
+318,368,NA,NA,,,,,,,Y,High Debt
+319,717,NA,NA,,,,,,,Y,High Debt
+320,23,Platinum,Platinum,300000,4,17-10-2023,17958,Groceries,Paid,N,
+321,621,Gold,Gold,100000,3,27-05-2023,12661,Travel,Paid,N,
+322,622,NA,NA,,,,,,,Y,High Debt
+323,225,NA,NA,,,,,,,Y,Low CIBIL
+324,636,Gold,Gold,100000,3,04-12-2023,21189,Travel,Paid,N,
+325,644,NA,NA,,,,,,,Y,Low Salary
+326,643,Gold,Gold,100000,3,14-08-2023,29663,Groceries,Paid,N,
+327,594,NA,NA,,,,,,,Y,High Debt
+328,750,NA,NA,,,,,,,Y,Low CIBIL
+329,93,NA,NA,,,,,,,Y,High Debt
+330,335,Gold,Gold,100000,3,09-03-2023,36275,Fuel,Paid,N,
+331,898,Platinum,Platinum,300000,4,20-05-2023,34237,Travel,Paid,N,
+332,264,NA,NA,,,,,,,Y,Unstable Employment
+333,826,Gold,Gold,100000,3,23-06-2023,9272,Groceries,Paid,N,
+334,480,Silver,Silver,50000,2,26-04-2023,36092,Electronics,Paid,N,
+335,867,Gold,Gold,100000,3,22-07-2023,1711,Groceries,Paid,N,
+336,271,NA,NA,,,,,,,Y,Low Salary
+337,466,NA,NA,,,,,,,Y,High Debt
+338,689,NA,NA,,,,,,,Y,High Debt
+339,599,NA,NA,,,,,,,Y,Unstable Employment
+340,843,NA,NA,,,,,,,Y,High Debt
+341,111,NA,NA,,,,,,,Y,Low CIBIL
+342,483,Gold,Gold,100000,3,15-10-2023,729,Dining,Paid,N,
+343,625,Silver,Silver,50000,2,22-11-2023,49042,Electronics,Paid,N,
+344,718,Platinum,Platinum,300000,4,01-03-2023,14845,Travel,Paid,N,
+345,47,NA,NA,,,,,,,Y,Low Salary
+346,312,Gold,Gold,100000,3,01-05-2023,36453,Fuel,Paid,N,
+347,139,Platinum,Platinum,300000,4,10-12-2023,32319,Fuel,Paid,N,
+348,430,NA,NA,,,,,,,Y,Low CIBIL
+349,425,NA,NA,,,,,,,Y,Low Salary
+350,854,Silver,Silver,50000,2,24-05-2023,48279,Groceries,Paid,N,
+351,707,Silver,Silver,50000,2,16-08-2023,17385,Travel,Paid,N,
+352,876,Gold,Gold,100000,3,18-12-2023,27208,Dining,Paid,N,
+353,558,NA,NA,,,,,,,Y,High Debt
+354,63,NA,NA,,,,,,,Y,Unstable Employment
+355,283,NA,NA,,,,,,,Y,Low CIBIL
+356,126,Platinum,Platinum,300000,4,19-04-2023,548,Fuel,Paid,N,
+357,22,card_type,card_type,credit_limit,1,05-05-2023,20450,Travel,Paid,N,
+358,806,NA,NA,,,,,,,Y,Low CIBIL
+359,71,NA,NA,,,,,,,Y,Low CIBIL
+360,601,Gold,Gold,100000,3,30-04-2023,15673,Dining,Paid,N,
+361,793,NA,NA,,,,,,,Y,Low CIBIL
+362,808,NA,NA,,,,,,,Y,Low Salary
+363,284,NA,NA,,,,,,,Y,Low CIBIL
+364,134,NA,NA,,,,,,,Y,High Debt
+365,818,NA,NA,,,,,,,Y,Low CIBIL
+366,113,NA,NA,,,,,,,Y,Low Salary
+367,135,NA,NA,,,,,,,Y,Low Salary
+368,367,Gold,Gold,100000,3,09-01-2023,34237,Travel,Paid,N,
+369,272,Silver,Silver,50000,2,04-08-2023,28536,Fuel,Paid,N,
+370,117,Silver,Silver,50000,2,05-07-2023,47821,Fuel,Paid,N,
+371,608,Gold,Gold,100000,3,24-04-2023,6320,Fuel,Paid,N,
+372,45,Gold,Gold,100000,3,16-01-2023,14792,Groceries,Paid,N,
+373,491,NA,NA,,,,,,,Y,Unstable Employment
+374,437,NA,NA,,,,,,,Y,Low Salary
+375,503,NA,NA,,,,,,,Y,Unstable Employment
+376,76,Silver,Silver,50000,2,17-03-2023,3552,Groceries,Paid,N,
+377,130,NA,NA,,,,,,,Y,High Debt
+378,640,NA,NA,,,,,,,Y,High Debt
+379,391,Gold,Gold,100000,3,06-11-2023,44877,Electronics,Paid,N,
+380,102,NA,NA,,,,,,,Y,Low Salary
+381,874,NA,NA,,,,,,,Y,Low CIBIL
+382,441,NA,NA,,,,,,,Y,Unstable Employment
+383,234,Gold,Gold,100000,3,21-08-2023,24281,Electronics,Paid,N,
+384,426,Silver,Silver,50000,2,10-06-2023,2802,Dining,Paid,N,
+385,384,Gold,Gold,100000,3,31-08-2023,2783,Groceries,Paid,N,
+386,94,NA,NA,,,,,,,Y,Low Salary
+387,96,Gold,Gold,100000,3,10-07-2023,48653,Travel,Paid,N,
+388,570,Silver,Silver,50000,2,15-10-2023,43067,Fuel,Paid,N,
+389,338,Gold,Gold,100000,3,07-12-2023,16120,Electronics,Paid,N,
+390,889,Silver,Silver,50000,2,04-11-2023,30961,Dining,Paid,N,
+391,361,Silver,Silver,50000,2,19-04-2023,21250,Travel,Paid,N,
+392,673,Gold,Gold,100000,3,25-02-2023,33390,Dining,Paid,N,
+393,866,Platinum,Platinum,300000,4,23-05-2023,23683,Fuel,Paid,N,
+394,232,Gold,Gold,100000,3,15-11-2023,9972,Fuel,Paid,N,
+395,692,card_type,card_type,credit_limit,1,03-12-2023,4227,Dining,Paid,N,
+396,30,NA,NA,,,,,,,Y,Low CIBIL
+397,280,NA,NA,,,,,,,Y,High Debt
+398,348,Gold,Gold,100000,3,15-03-2023,47000,Fuel,Default,N,
+399,674,NA,NA,,,,,,,Y,Unstable Employment
+400,72,Silver,Silver,50000,2,16-01-2023,26023,Groceries,Paid,N,
+401,765,NA,NA,,,,,,,Y,Low CIBIL
+402,386,NA,NA,,,,,,,Y,Unstable Employment
+403,465,NA,NA,,,,,,,Y,High Debt
+404,162,NA,NA,,,,,,,Y,High Debt
+405,320,Silver,Silver,50000,2,18-10-2023,31266,Fuel,Paid,N,
+406,87,NA,NA,,,,,,,Y,Low Salary
+407,160,Silver,Silver,50000,2,26-01-2023,38226,Groceries,Paid,N,
+408,279,NA,NA,,,,,,,Y,Unstable Employment
+409,678,Platinum,Platinum,300000,4,15-08-2023,1024,Electronics,Paid,N,
+410,280,NA,NA,,,,,,,Y,Low CIBIL
+411,774,NA,NA,,,,,,,Y,Low Salary
+412,354,NA,NA,,,,,,,Y,Unstable Employment
+413,114,NA,NA,,,,,,,Y,High Debt
+414,695,NA,NA,,,,,,,Y,Unstable Employment
+415,540,Platinum,Platinum,300000,4,22-07-2023,9579,Fuel,Paid,N,
+416,57,Silver,Silver,50000,2,19-04-2023,8899,Travel,Paid,N,
+417,783,NA,NA,,,,,,,Y,High Debt
+418,297,NA,NA,,,,,,,Y,High Debt
+419,123,Gold,Gold,100000,3,09-08-2023,27870,Travel,Paid,N,
+420,133,Gold,Gold,100000,3,28-04-2023,17032,Fuel,Paid,N,
+421,573,NA,NA,,,,,,,Y,High Debt
+422,74,NA,NA,,,,,,,Y,Unstable Employment
+423,883,Silver,Silver,50000,2,24-08-2023,17321,Groceries,Paid,N,
+424,883,Gold,Gold,100000,3,21-10-2023,43662,Electronics,Paid,N,
+425,727,Silver,Silver,50000,2,27-07-2023,4249,Groceries,Paid,N,
+426,333,NA,NA,,,,,,,Y,Low CIBIL
+427,821,Platinum,Platinum,300000,4,05-07-2023,11853,Groceries,Paid,N,
+428,448,card_type,card_type,credit_limit,1,29-10-2023,47277,Electronics,Paid,N,
+429,537,NA,NA,,,,,,,Y,Low Salary
+430,406,Platinum,Platinum,300000,4,24-04-2023,28977,Dining,Paid,N,
+431,798,NA,NA,,,,,,,Y,Low CIBIL
+432,79,Silver,Silver,50000,2,10-04-2023,25070,Dining,Paid,N,
+433,360,Gold,Gold,100000,3,16-03-2023,21337,Dining,Paid,N,
+434,203,Silver,Silver,50000,2,02-12-2023,11937,Groceries,Paid,N,
+435,182,Gold,Gold,100000,3,16-10-2023,38604,Fuel,Paid,N,
+436,460,Silver,Silver,50000,2,18-11-2023,5051,Dining,Paid,N,
+437,155,NA,NA,,,,,,,Y,Unstable Employment
+438,70,Platinum,Platinum,300000,4,05-06-2023,3323,Dining,Paid,N,
+439,606,NA,NA,,,,,,,Y,Low Salary
+440,361,Silver,Silver,50000,2,20-08-2023,13416,Groceries,Paid,N,
+441,59,NA,NA,,,,,,,Y,High Debt
+442,852,Gold,Gold,100000,3,16-02-2023,15667,Fuel,Paid,N,
+443,609,NA,NA,,,,,,,Y,Unstable Employment
+444,474,NA,NA,,,,,,,Y,Low Salary
+445,461,NA,NA,,,,,,,Y,Low CIBIL
+446,330,Gold,Gold,100000,3,01-02-2023,41945,Electronics,Paid,N,
+447,106,Gold,Gold,100000,3,13-02-2023,48136,Fuel,Paid,N,
+448,662,NA,NA,,,,,,,Y,Low CIBIL
+449,41,NA,NA,,,,,,,Y,Low CIBIL
+450,725,NA,NA,,,,,,,Y,Unstable Employment
+451,450,Gold,Gold,100000,3,25-05-2023,8891,Electronics,Paid,N,
+452,419,Gold,Gold,100000,3,27-01-2023,13158,Dining,Paid,N,
+453,68,NA,NA,,,,,,,Y,High Debt
+454,97,Gold,Gold,100000,3,03-12-2023,30185,Fuel,Paid,N,
+455,895,NA,NA,,,,,,,Y,Low CIBIL
+456,342,Gold,Gold,100000,3,14-03-2023,23880,Dining,Paid,N,
+457,318,Silver,Silver,50000,2,29-12-2023,42931,Groceries,Paid,N,
+458,318,Silver,Silver,50000,2,18-06-2023,29419,Travel,Paid,N,
+459,687,NA,NA,,,,,,,Y,Low Salary
+460,662,NA,NA,,,,,,,Y,Unstable Employment
+461,521,Gold,Gold,100000,3,08-06-2023,2811,Travel,Default,N,
+462,220,NA,NA,,,,,,,Y,High Debt
+463,785,NA,NA,,,,,,,Y,Unstable Employment
+464,197,Silver,Silver,50000,2,21-03-2023,40493,Groceries,Paid,N,
+465,303,NA,NA,,,,,,,Y,Low Salary
+466,520,Silver,Silver,50000,2,13-11-2023,44833,Travel,Paid,N,
+467,612,Gold,Gold,100000,3,03-04-2023,43538,Fuel,Paid,N,
+468,829,Silver,Silver,50000,2,23-01-2023,14060,Electronics,Paid,N,
+469,374,Silver,Silver,50000,2,09-11-2023,49233,Dining,Paid,N,
+470,771,NA,NA,,,,,,,Y,Unstable Employment
+471,240,Silver,Silver,50000,2,29-08-2023,39053,Travel,Paid,N,
+472,377,NA,NA,,,,,,,Y,Unstable Employment
+473,473,NA,NA,,,,,,,Y,High Debt
+474,797,NA,NA,,,,,,,Y,Unstable Employment
+475,515,NA,NA,,,,,,,Y,Unstable Employment
+476,166,NA,NA,,,,,,,Y,Low CIBIL
+477,821,Gold,Gold,100000,3,27-01-2023,26493,Electronics,Paid,N,
+478,896,Gold,Gold,100000,3,22-02-2023,30992,Fuel,Paid,N,
+479,872,NA,NA,,,,,,,Y,Low Salary
+480,292,NA,NA,,,,,,,Y,Low Salary
+481,782,Silver,Silver,50000,2,20-09-2023,21481,Travel,Paid,N,
+482,851,NA,NA,,,,,,,Y,Unstable Employment
+483,94,NA,NA,,,,,,,Y,Low CIBIL
+484,837,NA,NA,,,,,,,Y,Unstable Employment
+485,358,NA,NA,,,,,,,Y,Low Salary
+486,425,NA,NA,,,,,,,Y,Low Salary
+487,406,Platinum,Platinum,300000,4,11-02-2023,24643,Dining,Paid,N,
+488,230,NA,NA,,,,,,,Y,Low Salary
+489,327,Silver,Silver,50000,2,29-11-2023,12567,Dining,Paid,N,
+490,811,NA,NA,,,,,,,Y,Low CIBIL
+491,141,Silver,Silver,50000,2,30-08-2023,24416,Travel,Paid,N,
+492,778,Gold,Gold,100000,3,03-01-2023,42008,Groceries,Paid,N,
+493,20,NA,NA,,,,,,,Y,High Debt
+494,221,Silver,Silver,50000,2,08-11-2023,46921,Fuel,Paid,N,
+495,434,NA,NA,,,,,,,Y,Low Salary
+496,795,NA,NA,,,,,,,Y,High Debt
+497,244,Platinum,Platinum,300000,4,03-05-2023,4315,Electronics,Paid,N,
+498,655,NA,NA,,,,,,,Y,Unstable Employment
+499,65,Gold,Gold,100000,3,13-09-2023,32336,Fuel,Paid,N,
+500,549,Gold,Gold,100000,3,22-10-2023,37977,Travel,Paid,N,
+501,736,NA,NA,,,,,,,Y,Low CIBIL
+502,299,Platinum,Platinum,300000,4,30-06-2023,37775,Travel,Default,N,
+503,585,NA,NA,,,,,,,Y,Unstable Employment
+504,192,NA,NA,,,,,,,Y,Low Salary
+505,537,NA,NA,,,,,,,Y,High Debt
+506,70,Gold,Gold,100000,3,29-08-2023,39843,Groceries,Paid,N,
+507,651,Gold,Gold,100000,3,10-05-2023,5273,Groceries,Paid,N,
+508,366,Silver,Silver,50000,2,03-12-2023,12946,Groceries,Paid,N,
+509,791,NA,NA,,,,,,,Y,High Debt
+510,137,card_type,card_type,credit_limit,1,23-06-2023,31233,Travel,Paid,N,
+511,851,NA,NA,,,,,,,Y,Unstable Employment
+512,713,NA,NA,,,,,,,Y,Unstable Employment
+513,647,NA,NA,,,,,,,Y,Low CIBIL
+514,831,NA,NA,,,,,,,Y,Low CIBIL
+515,65,Platinum,Platinum,300000,4,14-04-2023,10964,Groceries,Paid,N,
+516,811,NA,NA,,,,,,,Y,Low CIBIL
+517,43,NA,NA,,,,,,,Y,High Debt
+518,318,Silver,Silver,50000,2,06-10-2023,49132,Electronics,Paid,N,
+519,260,NA,NA,,,,,,,Y,Low Salary
+520,772,Silver,Silver,50000,2,25-01-2023,22076,Dining,Paid,N,
+521,280,NA,NA,,,,,,,Y,Low Salary
+522,819,NA,NA,,,,,,,Y,High Debt
+523,448,Silver,Silver,50000,2,17-07-2023,3820,Dining,Paid,N,
+524,192,NA,NA,,,,,,,Y,Unstable Employment
+525,709,Platinum,Platinum,300000,4,23-09-2023,11250,Dining,Paid,N,
+526,821,Gold,Gold,100000,3,10-02-2023,37966,Electronics,Paid,N,
+527,617,Silver,Silver,50000,2,14-06-2023,27072,Groceries,Paid,N,
+528,82,Platinum,Platinum,300000,4,06-06-2023,18448,Electronics,Paid,N,
+529,618,Gold,Gold,100000,3,16-08-2023,39326,Dining,Paid,N,
+530,458,NA,NA,,,,,,,Y,Low Salary
+531,745,Gold,Gold,100000,3,11-08-2023,24015,Dining,Paid,N,
+532,655,NA,NA,,,,,,,Y,Low Salary
+533,77,Platinum,Platinum,300000,4,14-12-2023,28367,Travel,Paid,N,
+534,32,NA,NA,,,,,,,Y,Low CIBIL
+535,870,Gold,Gold,100000,3,04-02-2023,1226,Travel,Default,N,
+536,798,NA,NA,,,,,,,Y,High Debt
+537,371,NA,NA,,,,,,,Y,Unstable Employment
+538,581,NA,NA,,,,,,,Y,Low Salary
+539,620,NA,NA,,,,,,,Y,Low CIBIL
+540,696,NA,NA,,,,,,,Y,Unstable Employment
+541,380,NA,NA,,,,,,,Y,High Debt
+542,455,Silver,Silver,50000,2,29-09-2023,26320,Dining,Paid,N,
+543,408,NA,NA,,,,,,,Y,High Debt
+544,666,Gold,Gold,100000,3,28-02-2023,7197,Groceries,Paid,N,
+545,754,NA,NA,,,,,,,Y,Low CIBIL
+546,512,Gold,Gold,100000,3,02-03-2023,45178,Dining,Paid,N,
+547,794,Platinum,Platinum,300000,4,20-04-2023,42525,Fuel,Paid,N,
+548,293,NA,NA,,,,,,,Y,Unstable Employment
+549,205,NA,NA,,,,,,,Y,Low Salary
+550,139,Gold,Gold,100000,3,01-01-2024,13463,Electronics,Paid,N,
+551,90,NA,NA,,,,,,,Y,High Debt
+552,684,NA,NA,,,,,,,Y,High Debt
+553,727,card_type,card_type,credit_limit,1,29-05-2023,49934,Dining,Paid,N,
+554,872,NA,NA,,,,,,,Y,Low CIBIL
+555,729,Silver,Silver,50000,2,18-09-2023,1581,Travel,Paid,N,
+556,125,Gold,Gold,100000,3,02-05-2023,20769,Electronics,Paid,N,
+557,27,Gold,Gold,100000,3,08-07-2023,11276,Electronics,Paid,N,
+558,823,NA,NA,,,,,,,Y,Low CIBIL
+559,627,Gold,Gold,100000,3,23-07-2023,32316,Electronics,Paid,N,
+560,539,Silver,Silver,50000,2,22-10-2023,14696,Groceries,Paid,N,
+561,129,Silver,Silver,50000,2,19-08-2023,42612,Electronics,Paid,N,
+562,697,NA,NA,,,,,,,Y,High Debt
+563,132,NA,NA,,,,,,,Y,Low CIBIL
+564,787,NA,NA,,,,,,,Y,Low CIBIL
+565,444,card_type,card_type,credit_limit,1,23-09-2023,16458,Travel,Paid,N,
+566,312,Silver,Silver,50000,2,30-12-2023,23869,Travel,Paid,N,
+567,355,NA,NA,,,,,,,Y,High Debt
+568,867,Silver,Silver,50000,2,22-11-2023,12189,Fuel,Paid,N,
+569,282,Silver,Silver,50000,2,11-11-2023,17831,Fuel,Paid,N,
+570,96,Silver,Silver,50000,2,25-10-2023,38028,Travel,Paid,N,
+571,176,Gold,Gold,100000,3,16-10-2023,13936,Groceries,Paid,N,
+572,846,Silver,Silver,50000,2,25-11-2023,566,Fuel,Paid,N,
+573,272,Silver,Silver,50000,2,02-08-2023,31225,Fuel,Paid,N,
+574,655,NA,NA,,,,,,,Y,Low Salary
+575,510,NA,NA,,,,,,,Y,High Debt
+576,658,Gold,Gold,100000,3,17-12-2023,25712,Electronics,Paid,N,
+577,305,NA,NA,,,,,,,Y,Unstable Employment
+578,75,NA,NA,,,,,,,Y,Low Salary
+579,162,NA,NA,,,,,,,Y,Unstable Employment
+580,426,Gold,Gold,100000,3,24-06-2023,33832,Fuel,Paid,N,
+581,148,Gold,Gold,100000,3,13-06-2023,25901,Dining,Paid,N,
+582,409,Silver,Silver,50000,2,21-09-2023,13893,Fuel,Paid,N,
+583,109,NA,NA,,,,,,,Y,High Debt
+584,248,Silver,Silver,50000,2,19-08-2023,4170,Travel,Paid,N,
+585,145,NA,NA,,,,,,,Y,Low Salary
+586,52,Gold,Gold,100000,3,12-11-2023,26101,Electronics,Paid,N,
+587,255,NA,NA,,,,,,,Y,Low CIBIL
+588,834,NA,NA,,,,,,,Y,High Debt
+589,592,NA,NA,,,,,,,Y,High Debt
+590,195,NA,NA,,,,,,,Y,Low CIBIL
+591,511,Gold,Gold,100000,3,07-06-2023,2751,Electronics,Paid,N,
+592,24,NA,NA,,,,,,,Y,Low Salary
+593,403,Gold,Gold,100000,3,21-04-2023,46217,Fuel,Paid,N,
+594,362,NA,NA,,,,,,,Y,Low Salary
+595,52,Gold,Gold,100000,3,01-12-2023,34072,Electronics,Paid,N,
+596,293,NA,NA,,,,,,,Y,Low Salary
+597,868,Gold,Gold,100000,3,16-05-2023,27527,Dining,Paid,N,
+598,783,NA,NA,,,,,,,Y,Unstable Employment
+599,375,NA,NA,,,,,,,Y,Low Salary
+600,411,NA,NA,,,,,,,Y,Low Salary
+601,584,Silver,Silver,50000,2,28-05-2023,32346,Groceries,Paid,N,
+602,396,Gold,Gold,100000,3,24-05-2023,21515,Fuel,Paid,N,
+603,697,NA,NA,,,,,,,Y,Low Salary
+604,132,NA,NA,,,,,,,Y,Low Salary
+605,404,NA,NA,,,,,,,Y,High Debt
+606,814,NA,NA,,,,,,,Y,High Debt
+607,572,Gold,Gold,100000,3,12-04-2023,10083,Fuel,Paid,N,
+608,522,NA,NA,,,,,,,Y,Unstable Employment
+609,513,Silver,Silver,50000,2,12-03-2023,23604,Dining,Default,N,
+610,824,Gold,Gold,100000,3,18-03-2023,12724,Fuel,Paid,N,
+611,528,Silver,Silver,50000,2,10-11-2023,39284,Dining,Paid,N,
+612,167,NA,NA,,,,,,,Y,Unstable Employment
+613,632,Gold,Gold,100000,3,17-09-2023,31336,Fuel,Paid,N,
+614,546,Gold,Gold,100000,3,03-06-2023,29799,Electronics,Paid,N,
+615,836,Silver,Silver,50000,2,11-12-2023,13536,Groceries,Paid,N,
+616,427,NA,NA,,,,,,,Y,High Debt
+617,816,Silver,Silver,50000,2,16-05-2023,20433,Fuel,Paid,N,
+618,592,NA,NA,,,,,,,Y,Low CIBIL
+619,739,Silver,Silver,50000,2,29-03-2023,12892,Fuel,Paid,N,
+620,645,Platinum,Platinum,300000,4,15-12-2023,8438,Travel,Paid,N,
+621,33,Silver,Silver,50000,2,14-08-2023,4641,Dining,Paid,N,
+622,429,Silver,Silver,50000,2,15-04-2023,23850,Electronics,Paid,N,
+623,514,NA,NA,,,,,,,Y,Unstable Employment
+624,894,NA,NA,,,,,,,Y,Low Salary
+625,723,Silver,Silver,50000,2,15-10-2023,10046,Dining,Paid,N,
+626,679,Platinum,Platinum,300000,4,10-06-2023,5835,Travel,Paid,N,
+627,471,Silver,Silver,50000,2,13-12-2023,5577,Dining,Paid,N,
+628,625,Gold,Gold,100000,3,07-05-2023,46515,Dining,Paid,N,
+629,572,Gold,Gold,100000,3,02-06-2023,6111,Dining,Paid,N,
+630,722,NA,NA,,,,,,,Y,Low CIBIL
+631,707,Silver,Silver,50000,2,28-06-2023,41357,Fuel,Paid,N,
+632,815,NA,NA,,,,,,,Y,High Debt
+633,295,NA,NA,,,,,,,Y,Low Salary
+634,588,Gold,Gold,100000,3,22-07-2023,36160,Dining,Paid,N,
+635,792,Gold,Gold,100000,3,28-05-2023,6077,Groceries,Paid,N,
+636,355,NA,NA,,,,,,,Y,Unstable Employment
+637,672,NA,NA,,,,,,,Y,High Debt
+638,766,Gold,Gold,100000,3,03-10-2023,20502,Dining,Paid,N,
+639,576,NA,NA,,,,,,,Y,High Debt
+640,141,Silver,Silver,50000,2,28-10-2023,39951,Travel,Paid,N,
+641,249,NA,NA,,,,,,,Y,Low Salary
+642,686,NA,NA,,,,,,,Y,Low CIBIL
+643,654,card_type,card_type,credit_limit,1,31-07-2023,34775,Dining,Default,N,
+644,735,NA,NA,,,,,,,Y,Unstable Employment
+645,103,Gold,Gold,100000,3,09-10-2023,49603,Travel,Default,N,
+646,417,NA,NA,,,,,,,Y,Unstable Employment
+647,489,Gold,Gold,100000,3,28-05-2023,29147,Dining,Paid,N,
+648,293,NA,NA,,,,,,,Y,Low Salary
+649,788,NA,NA,,,,,,,Y,Low Salary
+650,668,Silver,Silver,50000,2,20-01-2023,35331,Travel,Paid,N,
+651,428,Silver,Silver,50000,2,19-01-2023,35268,Electronics,Paid,N,
+652,807,Gold,Gold,100000,3,29-05-2023,31462,Groceries,Paid,N,
+653,10,Platinum,Platinum,300000,4,24-02-2023,48834,Dining,Paid,N,
+654,292,NA,NA,,,,,,,Y,Unstable Employment
+655,657,Platinum,Platinum,300000,4,10-03-2023,30083,Fuel,Paid,N,
+656,480,Gold,Gold,100000,3,27-02-2023,1794,Dining,Paid,N,
+657,167,NA,NA,,,,,,,Y,Unstable Employment
+658,664,NA,NA,,,,,,,Y,High Debt
+659,736,NA,NA,,,,,,,Y,Low CIBIL
+660,15,Gold,Gold,100000,3,18-10-2023,15596,Travel,Paid,N,
+661,180,NA,NA,,,,,,,Y,Unstable Employment
+662,847,NA,NA,,,,,,,Y,Unstable Employment
+663,528,Gold,Gold,100000,3,09-12-2023,37333,Groceries,Paid,N,
+664,190,NA,NA,,,,,,,Y,Low CIBIL
+665,489,Platinum,Platinum,300000,4,04-01-2023,47358,Dining,Paid,N,
+666,393,NA,NA,,,,,,,Y,Low CIBIL
+667,458,NA,NA,,,,,,,Y,High Debt
+668,338,Platinum,Platinum,300000,4,21-10-2023,27828,Groceries,Paid,N,
+669,268,Platinum,Platinum,300000,4,01-02-2023,24898,Groceries,Paid,N,
+670,477,Silver,Silver,50000,2,18-12-2023,18206,Fuel,Paid,N,
+671,721,NA,NA,,,,,,,Y,High Debt
+672,707,card_type,card_type,credit_limit,1,01-06-2023,22840,Dining,Paid,N,
+673,630,Silver,Silver,50000,2,10-03-2023,19325,Electronics,Paid,N,
+674,157,Gold,Gold,100000,3,07-11-2023,17982,Dining,Paid,N,
+675,426,Gold,Gold,100000,3,07-12-2023,9818,Travel,Paid,N,
+676,781,Gold,Gold,100000,3,02-11-2023,41756,Groceries,Paid,N,
+677,539,Silver,Silver,50000,2,05-07-2023,44509,Groceries,Paid,N,
+678,578,Silver,Silver,50000,2,08-10-2023,43685,Fuel,Paid,N,
+679,208,NA,NA,,,,,,,Y,Low CIBIL
+680,169,Platinum,Platinum,300000,4,15-08-2023,16074,Groceries,Paid,N,
+681,697,NA,NA,,,,,,,Y,Low CIBIL
+682,735,NA,NA,,,,,,,Y,Unstable Employment
+683,94,NA,NA,,,,,,,Y,Unstable Employment
+684,829,Silver,Silver,50000,2,20-09-2023,48570,Electronics,Paid,N,
+685,468,Gold,Gold,100000,3,11-12-2023,15150,Dining,Paid,N,
+686,741,Silver,Silver,50000,2,02-01-2023,46618,Travel,Paid,N,
+687,593,NA,NA,,,,,,,Y,Low Salary
+688,47,NA,NA,,,,,,,Y,Unstable Employment
+689,353,NA,NA,,,,,,,Y,Low Salary
+690,555,card_type,card_type,credit_limit,1,05-02-2023,29430,Electronics,Paid,N,
+691,33,Gold,Gold,100000,3,11-03-2023,20671,Electronics,Paid,N,
+692,384,Platinum,Platinum,300000,4,13-07-2023,35364,Electronics,Paid,N,
+693,83,NA,NA,,,,,,,Y,Low CIBIL
+694,670,NA,NA,,,,,,,Y,High Debt
+695,122,NA,NA,,,,,,,Y,Low CIBIL
+696,551,Gold,Gold,100000,3,25-04-2023,12301,Groceries,Paid,N,
+697,775,Silver,Silver,50000,2,26-08-2023,22872,Fuel,Paid,N,
+698,435,Gold,Gold,100000,3,07-05-2023,17059,Electronics,Paid,N,
+699,355,NA,NA,,,,,,,Y,Low CIBIL
+700,283,NA,NA,,,,,,,Y,Low CIBIL
+701,897,Silver,Silver,50000,2,05-12-2023,32834,Electronics,Default,N,
+702,630,Silver,Silver,50000,2,04-02-2023,40437,Groceries,Paid,N,
+703,609,NA,NA,,,,,,,Y,Low Salary
+704,458,NA,NA,,,,,,,Y,Low Salary
+705,251,Silver,Silver,50000,2,30-04-2023,13788,Fuel,Paid,N,
+706,223,Silver,Silver,50000,2,29-05-2023,22898,Travel,Paid,N,
+707,836,Gold,Gold,100000,3,11-12-2023,11194,Dining,Paid,N,
+708,243,NA,NA,,,,,,,Y,High Debt
+709,898,Gold,Gold,100000,3,24-09-2023,12691,Travel,Paid,N,
+710,424,NA,NA,,,,,,,Y,High Debt
+711,282,Silver,Silver,50000,2,30-10-2023,18551,Travel,Paid,N,
+712,642,NA,NA,,,,,,,Y,Unstable Employment
+713,570,Gold,Gold,100000,3,26-06-2023,11237,Electronics,Paid,N,
+714,805,NA,NA,,,,,,,Y,High Debt
+715,714,Platinum,Platinum,300000,4,03-06-2023,25751,Electronics,Paid,N,
+716,189,NA,NA,,,,,,,Y,Unstable Employment
+717,247,Gold,Gold,100000,3,29-12-2023,5647,Travel,Paid,N,
+718,826,Gold,Gold,100000,3,15-10-2023,20143,Electronics,Paid,N,
+719,427,NA,NA,,,,,,,Y,Low CIBIL
+720,398,Gold,Gold,100000,3,19-06-2023,39467,Groceries,Paid,N,
+721,461,NA,NA,,,,,,,Y,High Debt
+722,95,Silver,Silver,50000,2,13-07-2023,33814,Fuel,Paid,N,
+723,618,Silver,Silver,50000,2,07-04-2023,38499,Fuel,Paid,N,
+724,742,NA,NA,,,,,,,Y,Low CIBIL
+725,491,NA,NA,,,,,,,Y,Low CIBIL
+726,891,Gold,Gold,100000,3,08-01-2023,41233,Travel,Paid,N,
+727,195,NA,NA,,,,,,,Y,Low Salary
+728,765,NA,NA,,,,,,,Y,Unstable Employment
+729,249,NA,NA,,,,,,,Y,Low CIBIL
+730,407,card_type,card_type,credit_limit,1,25-05-2023,18967,Electronics,Paid,N,
+731,478,NA,NA,,,,,,,Y,High Debt
+732,316,Gold,Gold,100000,3,12-09-2023,35308,Electronics,Paid,N,
+733,101,Gold,Gold,100000,3,13-06-2023,2252,Travel,Paid,N,
+734,380,NA,NA,,,,,,,Y,High Debt
+735,424,NA,NA,,,,,,,Y,Low Salary
+736,577,Gold,Gold,100000,3,09-01-2023,2349,Dining,Paid,N,
+737,567,NA,NA,,,,,,,Y,Unstable Employment
+738,303,NA,NA,,,,,,,Y,Low CIBIL
+739,201,Platinum,Platinum,300000,4,19-10-2023,3142,Travel,Paid,N,
+740,512,Gold,Gold,100000,3,08-09-2023,2100,Electronics,Paid,N,
+741,472,NA,NA,,,,,,,Y,Low CIBIL
+742,751,Platinum,Platinum,300000,4,07-10-2023,47219,Electronics,Paid,N,
+743,189,NA,NA,,,,,,,Y,Low Salary
+744,537,NA,NA,,,,,,,Y,Low Salary
+745,860,Gold,Gold,100000,3,09-12-2023,21286,Groceries,Paid,N,
+746,783,NA,NA,,,,,,,Y,Low Salary
+747,423,NA,NA,,,,,,,Y,Low CIBIL
+748,863,NA,NA,,,,,,,Y,Low CIBIL
+749,70,Gold,Gold,100000,3,16-09-2023,45065,Electronics,Default,N,
+750,383,Silver,Silver,50000,2,08-12-2023,20683,Fuel,Paid,N,
+751,495,NA,NA,,,,,,,Y,Unstable Employment
+752,17,Silver,Silver,50000,2,30-07-2023,1632,Groceries,Paid,N,
+753,18,NA,NA,,,,,,,Y,High Debt
+754,549,Platinum,Platinum,300000,4,24-12-2023,38759,Electronics,Default,N,
+755,826,Silver,Silver,50000,2,19-02-2023,31576,Fuel,Paid,N,
+756,153,NA,NA,,,,,,,Y,Low CIBIL
+757,197,Gold,Gold,100000,3,17-05-2023,39063,Electronics,Paid,N,
+758,81,Gold,Gold,100000,3,24-08-2023,27191,Fuel,Paid,N,
+759,250,Silver,Silver,50000,2,11-02-2023,43799,Groceries,Paid,N,
+760,96,Gold,Gold,100000,3,10-10-2023,11431,Electronics,Paid,N,
+761,58,Gold,Gold,100000,3,12-02-2023,8133,Electronics,Paid,N,
+762,866,Platinum,Platinum,300000,4,19-06-2023,38277,Fuel,Paid,N,
+763,879,Silver,Silver,50000,2,22-01-2023,35381,Travel,Paid,N,
+764,217,NA,NA,,,,,,,Y,Unstable Employment
+765,278,Gold,Gold,100000,3,17-12-2023,1544,Dining,Paid,N,
+766,557,Silver,Silver,50000,2,11-06-2023,47191,Groceries,Paid,N,
+767,213,Silver,Silver,50000,2,31-12-2023,35699,Electronics,Paid,N,
+768,79,Gold,Gold,100000,3,04-05-2023,24863,Fuel,Paid,N,
+769,855,NA,NA,,,,,,,Y,Unstable Employment
+770,694,Platinum,Platinum,300000,4,13-03-2023,47194,Groceries,Paid,N,
+771,513,Gold,Gold,100000,3,12-08-2023,2082,Travel,Default,N,
+772,859,card_type,card_type,credit_limit,1,11-11-2023,14874,Fuel,Paid,N,
+773,407,Silver,Silver,50000,2,20-05-2023,1808,Electronics,Default,N,
+774,503,NA,NA,,,,,,,Y,Low CIBIL
+775,365,NA,NA,,,,,,,Y,Unstable Employment
+776,443,NA,NA,,,,,,,Y,Low CIBIL
+777,697,NA,NA,,,,,,,Y,Unstable Employment
+778,88,Gold,Gold,100000,3,01-01-2024,21801,Groceries,Paid,N,
+779,85,NA,NA,,,,,,,Y,High Debt
+780,158,NA,NA,,,,,,,Y,Unstable Employment
+781,729,Silver,Silver,50000,2,12-06-2023,9293,Dining,Paid,N,
+782,110,NA,NA,,,,,,,Y,Low Salary
+783,6,NA,NA,,,,,,,Y,High Debt
+784,456,NA,NA,,,,,,,Y,High Debt
+785,780,Silver,Silver,50000,2,14-02-2023,2120,Travel,Paid,N,
+786,442,Gold,Gold,100000,3,20-09-2023,30383,Electronics,Paid,N,
+787,106,Silver,Silver,50000,2,11-10-2023,38034,Groceries,Paid,N,
+788,612,Gold,Gold,100000,3,07-01-2023,38460,Dining,Paid,N,
+789,424,NA,NA,,,,,,,Y,Unstable Employment
+790,798,NA,NA,,,,,,,Y,Low Salary
+791,743,NA,NA,,,,,,,Y,Low CIBIL
+792,586,NA,NA,,,,,,,Y,Low CIBIL
+793,702,NA,NA,,,,,,,Y,Unstable Employment
+794,174,NA,NA,,,,,,,Y,Low CIBIL
+795,276,Platinum,Platinum,300000,4,16-03-2023,39890,Groceries,Paid,N,
+796,172,Gold,Gold,100000,3,03-06-2023,6593,Electronics,Paid,N,
+797,802,NA,NA,,,,,,,Y,Low Salary
+798,370,Gold,Gold,100000,3,17-11-2023,49752,Electronics,Paid,N,
+799,609,NA,NA,,,,,,,Y,Low CIBIL
+800,469,Silver,Silver,50000,2,04-01-2023,22759,Electronics,Paid,N,
+801,341,NA,NA,,,,,,,Y,Unstable Employment
+802,824,Gold,Gold,100000,3,09-08-2023,21155,Fuel,Paid,N,
+803,140,NA,NA,,,,,,,Y,High Debt
+804,329,Silver,Silver,50000,2,01-04-2023,33505,Electronics,Paid,N,
+805,327,Gold,Gold,100000,3,21-11-2023,32129,Electronics,Paid,N,
+806,590,Silver,Silver,50000,2,24-05-2023,24110,Electronics,Paid,N,
+807,374,Silver,Silver,50000,2,13-04-2023,22102,Fuel,Paid,N,
+808,559,card_type,card_type,credit_limit,1,09-10-2023,20909,Groceries,Paid,N,
+809,745,Gold,Gold,100000,3,18-04-2023,11610,Electronics,Paid,N,
+810,817,Platinum,Platinum,300000,4,05-02-2023,6573,Electronics,Paid,N,
+811,690,Gold,Gold,100000,3,05-06-2023,35810,Travel,Paid,N,
+812,259,Gold,Gold,100000,3,13-07-2023,15782,Groceries,Paid,N,
+813,460,Silver,Silver,50000,2,01-10-2023,10695,Fuel,Paid,N,
+814,891,Gold,Gold,100000,3,04-07-2023,2037,Fuel,Paid,N,
+815,609,NA,NA,,,,,,,Y,Low Salary
+816,112,NA,NA,,,,,,,Y,Low CIBIL
+817,674,NA,NA,,,,,,,Y,High Debt
+818,171,NA,NA,,,,,,,Y,Low Salary
+819,577,Platinum,Platinum,300000,4,19-06-2023,17638,Electronics,Paid,N,
+820,109,NA,NA,,,,,,,Y,Low Salary
+821,101,Gold,Gold,100000,3,23-09-2023,44828,Fuel,Paid,N,
+822,595,Silver,Silver,50000,2,20-07-2023,46702,Electronics,Paid,N,
+823,791,NA,NA,,,,,,,Y,Low CIBIL
+824,354,NA,NA,,,,,,,Y,Low Salary
+825,495,NA,NA,,,,,,,Y,Low Salary
+826,303,NA,NA,,,,,,,Y,Unstable Employment
+827,88,Silver,Silver,50000,2,14-03-2023,40664,Dining,Paid,N,
+828,320,Silver,Silver,50000,2,16-04-2023,24707,Fuel,Paid,N,
+829,495,NA,NA,,,,,,,Y,High Debt
+830,488,NA,NA,,,,,,,Y,Low Salary
+831,449,Gold,Gold,100000,3,03-06-2023,21119,Groceries,Paid,N,
+832,830,NA,NA,,,,,,,Y,Low Salary
+833,24,NA,NA,,,,,,,Y,High Debt
+834,664,NA,NA,,,,,,,Y,Low Salary
+835,694,Gold,Gold,100000,3,05-05-2023,25345,Fuel,Paid,N,
+836,179,NA,NA,,,,,,,Y,Low CIBIL
+837,339,NA,NA,,,,,,,Y,Unstable Employment
+838,474,NA,NA,,,,,,,Y,Low CIBIL
+839,817,Platinum,Platinum,300000,4,06-04-2023,24810,Electronics,Paid,N,
+840,406,Gold,Gold,100000,3,12-04-2023,38399,Electronics,Paid,N,
+841,607,Gold,Gold,100000,3,27-12-2023,31062,Travel,Paid,N,
+842,211,Gold,Gold,100000,3,02-02-2023,28536,Fuel,Paid,N,
+843,105,Gold,Gold,100000,3,11-04-2023,9197,Electronics,Paid,N,
+844,117,Gold,Gold,100000,3,08-09-2023,18013,Fuel,Paid,N,
+845,655,NA,NA,,,,,,,Y,High Debt
+846,612,Gold,Gold,100000,3,28-10-2023,43539,Groceries,Paid,N,
+847,357,Platinum,Platinum,300000,4,13-11-2023,3645,Travel,Paid,N,
+848,834,NA,NA,,,,,,,Y,High Debt
+849,630,Silver,Silver,50000,2,10-06-2023,28318,Groceries,Paid,N,
+850,245,Platinum,Platinum,300000,4,11-07-2023,31044,Travel,Paid,N,
+851,524,Gold,Gold,100000,3,12-03-2023,13600,Fuel,Paid,N,
+852,393,NA,NA,,,,,,,Y,Unstable Employment
+853,191,NA,NA,,,,,,,Y,Unstable Employment
+854,651,Silver,Silver,50000,2,08-09-2023,20604,Dining,Paid,N,
+855,144,Gold,Gold,100000,3,19-08-2023,4567,Fuel,Paid,N,
+856,55,Gold,Gold,100000,3,06-09-2023,37463,Travel,Paid,N,
+857,200,NA,NA,,,,,,,Y,Unstable Employment
+858,576,NA,NA,,,,,,,Y,Unstable Employment
+859,419,Gold,Gold,100000,3,16-08-2023,31228,Electronics,Paid,N,
+860,172,Silver,Silver,50000,2,23-04-2023,32817,Dining,Paid,N,
+861,34,Platinum,Platinum,300000,4,28-05-2023,31916,Travel,Paid,N,
+862,800,Gold,Gold,100000,3,11-09-2023,42512,Fuel,Paid,N,
+863,524,Silver,Silver,50000,2,18-05-2023,40549,Fuel,Paid,N,
+864,844,Gold,Gold,100000,3,22-01-2023,3009,Electronics,Paid,N,
+865,560,NA,NA,,,,,,,Y,Low CIBIL
+866,436,NA,NA,,,,,,,Y,Low Salary
+867,754,NA,NA,,,,,,,Y,Low CIBIL
+868,305,NA,NA,,,,,,,Y,Low Salary
+869,461,NA,NA,,,,,,,Y,High Debt
+870,357,Gold,Gold,100000,3,02-03-2023,21900,Travel,Paid,N,
+871,215,NA,NA,,,,,,,Y,High Debt
+872,882,Platinum,Platinum,300000,4,13-03-2023,48770,Travel,Paid,N,
+873,834,NA,NA,,,,,,,Y,Low CIBIL
+874,825,Silver,Silver,50000,2,30-09-2023,7033,Dining,Paid,N,
+875,612,Silver,Silver,50000,2,27-12-2023,15170,Dining,Paid,N,
+876,297,NA,NA,,,,,,,Y,High Debt
+877,879,Silver,Silver,50000,2,30-07-2023,4432,Groceries,Paid,N,
+878,284,NA,NA,,,,,,,Y,Low CIBIL
+879,719,Silver,Silver,50000,2,31-12-2023,47863,Dining,Paid,N,
+880,849,Silver,Silver,50000,2,13-12-2023,46309,Electronics,Paid,N,
+881,502,card_type,card_type,credit_limit,1,18-05-2023,38828,Electronics,Paid,N,
+882,385,Gold,Gold,100000,3,17-02-2023,37284,Electronics,Default,N,
+883,528,Gold,Gold,100000,3,08-07-2023,24223,Electronics,Paid,N,
+884,500,NA,NA,,,,,,,Y,High Debt
+885,596,card_type,card_type,credit_limit,1,17-02-2023,1219,Electronics,Paid,N,
+886,651,Gold,Gold,100000,3,01-10-2023,574,Electronics,Paid,N,
+887,224,NA,NA,,,,,,,Y,Unstable Employment
+888,845,NA,NA,,,,,,,Y,Low CIBIL
+889,507,NA,NA,,,,,,,Y,High Debt
+890,331,Gold,Gold,100000,3,23-10-2023,26998,Travel,Paid,N,
+891,580,NA,NA,,,,,,,Y,Unstable Employment
+892,808,NA,NA,,,,,,,Y,High Debt
+893,699,Gold,Gold,100000,3,17-11-2023,31845,Electronics,Paid,N,
+894,17,Silver,Silver,50000,2,22-03-2023,21041,Electronics,Paid,N,
+895,468,Gold,Gold,100000,3,08-08-2023,46429,Travel,Paid,N,
+896,706,Silver,Silver,50000,2,04-06-2023,35417,Travel,Paid,N,
+897,896,Gold,Gold,100000,3,04-07-2023,26528,Dining,Paid,N,
+898,85,NA,NA,,,,,,,Y,High Debt
+899,681,NA,NA,,,,,,,Y,Low CIBIL
+900,54,NA,NA,,,,,,,Y,Unstable Employment
+901,641,Silver,Silver,50000,2,30-04-2023,30045,Electronics,Paid,N,
+902,672,NA,NA,,,,,,,Y,Low Salary
+903,721,NA,NA,,,,,,,Y,Low Salary
+904,2,Silver,Silver,50000,2,09-03-2023,14533,Fuel,Paid,N,
+905,232,Gold,Gold,100000,3,23-12-2023,32173,Dining,Default,N,
+906,837,NA,NA,,,,,,,Y,Low Salary
+907,881,NA,NA,,,,,,,Y,Unstable Employment
+908,711,NA,NA,,,,,,,Y,Low CIBIL
+909,490,NA,NA,,,,,,,Y,Low Salary
+910,235,Platinum,Platinum,300000,4,22-02-2023,31474,Groceries,Paid,N,
+911,321,Silver,Silver,50000,2,12-03-2023,23597,Electronics,Paid,N,
+912,793,NA,NA,,,,,,,Y,Low CIBIL
+913,657,Gold,Gold,100000,3,16-10-2023,37475,Groceries,Paid,N,
+914,625,Silver,Silver,50000,2,20-04-2023,28108,Travel,Paid,N,
+915,422,NA,NA,,,,,,,Y,Unstable Employment
+916,881,NA,NA,,,,,,,Y,Low CIBIL
+917,89,Gold,Gold,100000,3,05-03-2023,24025,Fuel,Paid,N,
+918,748,Gold,Gold,100000,3,08-08-2023,15543,Dining,Paid,N,
+919,811,NA,NA,,,,,,,Y,Low CIBIL
+920,254,NA,NA,,,,,,,Y,High Debt
+921,661,NA,NA,,,,,,,Y,Low Salary
+922,255,NA,NA,,,,,,,Y,High Debt
+923,798,NA,NA,,,,,,,Y,Low Salary
+924,869,Platinum,Platinum,300000,4,07-11-2023,42346,Fuel,Paid,N,
+925,194,NA,NA,,,,,,,Y,Unstable Employment
+926,303,NA,NA,,,,,,,Y,Low Salary
+927,803,Silver,Silver,50000,2,27-02-2023,12225,Travel,Paid,N,
+928,512,Silver,Silver,50000,2,07-01-2023,37204,Dining,Paid,N,
+929,325,Silver,Silver,50000,2,19-10-2023,42575,Electronics,Paid,N,
+930,375,NA,NA,,,,,,,Y,Low CIBIL
+931,782,Gold,Gold,100000,3,07-02-2023,37883,Groceries,Paid,N,
+932,602,NA,NA,,,,,,,Y,Low Salary
+933,15,Gold,Gold,100000,3,31-01-2023,29983,Electronics,Paid,N,
+934,519,Gold,Gold,100000,3,14-09-2023,7765,Electronics,Paid,N,
+935,434,NA,NA,,,,,,,Y,Unstable Employment
+936,85,NA,NA,,,,,,,Y,Low CIBIL
+937,285,Silver,Silver,50000,2,19-09-2023,23263,Travel,Paid,N,
+938,828,Gold,Gold,100000,3,20-07-2023,10616,Fuel,Paid,N,
+939,650,Silver,Silver,50000,2,12-08-2023,16233,Travel,Paid,N,
+940,60,Gold,Gold,100000,3,11-08-2023,47160,Groceries,Paid,N,
+941,465,NA,NA,,,,,,,Y,Low Salary
+942,317,NA,NA,,,,,,,Y,Low CIBIL
+943,123,Gold,Gold,100000,3,26-12-2023,26002,Groceries,Paid,N,
+944,168,Gold,Gold,100000,3,25-09-2023,37920,Fuel,Paid,N,
+945,802,NA,NA,,,,,,,Y,High Debt
+946,171,NA,NA,,,,,,,Y,High Debt
+947,130,NA,NA,,,,,,,Y,High Debt
+948,751,Gold,Gold,100000,3,16-01-2023,43741,Dining,Paid,N,
+949,827,Gold,Gold,100000,3,02-02-2023,9747,Dining,Paid,N,
+950,730,NA,NA,,,,,,,Y,Low Salary
+951,509,Gold,Gold,100000,3,29-01-2023,24340,Electronics,Paid,N,
+952,880,Silver,Silver,50000,2,11-05-2023,21558,Groceries,Paid,N,
+953,588,Silver,Silver,50000,2,18-09-2023,35429,Groceries,Paid,N,
+954,46,NA,NA,,,,,,,Y,Low Salary
+955,251,Silver,Silver,50000,2,16-07-2023,19135,Travel,Paid,N,
+956,184,Gold,Gold,100000,3,01-01-2024,26128,Electronics,Paid,N,
+957,230,NA,NA,,,,,,,Y,High Debt
+958,255,NA,NA,,,,,,,Y,Unstable Employment
+959,738,Platinum,Platinum,300000,4,09-02-2023,31862,Fuel,Paid,N,
+960,382,NA,NA,,,,,,,Y,Low Salary
+961,515,NA,NA,,,,,,,Y,Low Salary
+962,184,Gold,Gold,100000,3,24-01-2023,21453,Electronics,Paid,N,
+963,71,NA,NA,,,,,,,Y,Unstable Employment
+964,887,Gold,Gold,100000,3,09-06-2023,19628,Dining,Paid,N,
+965,89,Platinum,Platinum,300000,4,13-04-2023,47856,Dining,Default,N,
+966,578,Gold,Gold,100000,3,05-05-2023,12561,Electronics,Paid,N,
+967,378,Gold,Gold,100000,3,11-04-2023,6541,Fuel,Paid,N,
+968,779,NA,NA,,,,,,,Y,Low CIBIL
+969,155,NA,NA,,,,,,,Y,Low Salary
+970,420,NA,NA,,,,,,,Y,Low Salary
+971,239,NA,NA,,,,,,,Y,High Debt
+972,652,NA,NA,,,,,,,Y,Low Salary
+973,344,Silver,Silver,50000,2,12-07-2023,13173,Dining,Paid,N,
+974,107,NA,NA,,,,,,,Y,Low CIBIL
+975,543,Gold,Gold,100000,3,31-01-2023,21559,Travel,Paid,N,
+976,729,Gold,Gold,100000,3,29-04-2023,34828,Fuel,Paid,N,
+977,423,NA,NA,,,,,,,Y,High Debt
+978,470,Gold,Gold,100000,3,16-09-2023,45222,Travel,Paid,N,
+979,653,NA,NA,,,,,,,Y,Unstable Employment
+980,77,Gold,Gold,100000,3,08-03-2023,18048,Travel,Paid,N,
+981,299,Platinum,Platinum,300000,4,21-07-2023,15578,Dining,Paid,N,
+982,326,NA,NA,,,,,,,Y,Unstable Employment
+983,279,NA,NA,,,,,,,Y,Low CIBIL
+984,77,Gold,Gold,100000,3,27-10-2023,5919,Groceries,Paid,N,
+985,160,Silver,Silver,50000,2,27-08-2023,35990,Dining,Paid,N,
+986,417,NA,NA,,,,,,,Y,Low Salary
+987,549,Platinum,Platinum,300000,4,17-04-2023,11050,Electronics,Paid,N,
+988,316,Gold,Gold,100000,3,03-03-2023,30837,Groceries,Paid,N,
+989,162,NA,NA,,,,,,,Y,High Debt
+990,847,NA,NA,,,,,,,Y,Low Salary
+991,221,Gold,Gold,100000,3,31-12-2023,1968,Travel,Paid,N,
+992,365,NA,NA,,,,,,,Y,Unstable Employment
+993,526,Silver,Silver,50000,2,14-05-2023,24809,Travel,Paid,N,
+994,32,NA,NA,,,,,,,Y,Unstable Employment
+995,876,Gold,Gold,100000,3,09-10-2023,1308,Travel,Paid,N,
+996,97,Gold,Gold,100000,3,13-03-2023,25247,Groceries,Paid,N,
+997,13,NA,NA,,,,,,,Y,Low Salary
+998,851,NA,NA,,,,,,,Y,Low CIBIL
+999,134,NA,NA,,,,,,,Y,Low CIBIL
+1000,844,Gold,Gold,100000,3,19-11-2023,7219,Groceries,Paid,N,
+1001,597,Gold,Gold,100000,3,08-02-2023,16863,Groceries,Paid,N,
+1002,67,NA,NA,,,,,,,Y,Low CIBIL
+1003,662,NA,NA,,,,,,,Y,Unstable Employment
+1004,829,Silver,Silver,50000,2,19-06-2023,29218,Groceries,Paid,N,
+1005,44,NA,NA,,,,,,,Y,Unstable Employment
+1006,52,Silver,Silver,50000,2,10-08-2023,29301,Electronics,Paid,N,
+1007,509,Silver,Silver,50000,2,07-08-2023,43859,Travel,Paid,N,
+1008,363,NA,NA,,,,,,,Y,Low CIBIL
+1009,192,NA,NA,,,,,,,Y,High Debt
+1010,287,Gold,Gold,100000,3,18-01-2023,38341,Fuel,Paid,N,
+1011,635,NA,NA,,,,,,,Y,Low CIBIL
+1012,663,NA,NA,,,,,,,Y,High Debt
+1013,511,Gold,Gold,100000,3,03-09-2023,8512,Groceries,Paid,N,
+1014,90,NA,NA,,,,,,,Y,High Debt
+1015,393,NA,NA,,,,,,,Y,Low CIBIL
+1016,430,NA,NA,,,,,,,Y,Low CIBIL
+1017,659,NA,NA,,,,,,,Y,Low CIBIL
+1018,646,NA,NA,,,,,,,Y,Low Salary
+1019,392,Gold,Gold,100000,3,06-09-2023,18529,Dining,Paid,N,
+1020,580,NA,NA,,,,,,,Y,High Debt
+1021,398,Platinum,Platinum,300000,4,13-06-2023,47160,Fuel,Paid,N,
+1022,225,NA,NA,,,,,,,Y,Low Salary
+1023,831,NA,NA,,,,,,,Y,High Debt
+1024,60,Platinum,Platinum,300000,4,27-10-2023,41517,Travel,Paid,N,
+1025,164,NA,NA,,,,,,,Y,Low Salary
+1026,254,NA,NA,,,,,,,Y,Low CIBIL
+1027,273,Gold,Gold,100000,3,23-04-2023,48415,Fuel,Paid,N,
+1028,867,Gold,Gold,100000,3,30-03-2023,1267,Travel,Paid,N,
+1029,243,NA,NA,,,,,,,Y,High Debt
+1030,826,Gold,Gold,100000,3,15-01-2023,4395,Dining,Paid,N,
+1031,582,Silver,Silver,50000,2,07-04-2023,43468,Electronics,Paid,N,
+1032,556,NA,NA,,,,,,,Y,High Debt
+1033,180,NA,NA,,,,,,,Y,Unstable Employment
+1034,39,NA,NA,,,,,,,Y,Low Salary
+1035,58,Gold,Gold,100000,3,11-01-2023,40597,Fuel,Paid,N,
+1036,490,NA,NA,,,,,,,Y,Low Salary
+1037,340,Silver,Silver,50000,2,24-06-2023,15832,Travel,Paid,N,
+1038,822,NA,NA,,,,,,,Y,High Debt
+1039,61,Silver,Silver,50000,2,27-12-2023,15121,Travel,Paid,N,
+1040,793,NA,NA,,,,,,,Y,Low Salary
+1041,867,Gold,Gold,100000,3,11-07-2023,11834,Electronics,Paid,N,
+1042,601,Gold,Gold,100000,3,15-06-2023,18674,Travel,Paid,N,
+1043,162,NA,NA,,,,,,,Y,Unstable Employment
+1044,811,NA,NA,,,,,,,Y,Unstable Employment
+1045,665,NA,NA,,,,,,,Y,High Debt
+1046,179,NA,NA,,,,,,,Y,High Debt
+1047,229,card_type,card_type,credit_limit,1,19-12-2023,34153,Dining,Paid,N,
+1048,131,Gold,Gold,100000,3,26-12-2023,41002,Fuel,Paid,N,
+1049,401,NA,NA,,,,,,,Y,Low Salary
+1050,187,NA,NA,,,,,,,Y,High Debt
+1051,829,Silver,Silver,50000,2,23-02-2023,37174,Electronics,Paid,N,
+1052,145,NA,NA,,,,,,,Y,High Debt
+1053,764,Gold,Gold,100000,3,13-06-2023,37760,Travel,Paid,N,
+1054,652,NA,NA,,,,,,,Y,Low Salary
+1055,842,Gold,Gold,100000,3,16-05-2023,42998,Travel,Paid,N,
+1056,256,Gold,Gold,100000,3,25-02-2023,2573,Groceries,Paid,N,
+1057,50,NA,NA,,,,,,,Y,Unstable Employment
+1058,449,Gold,Gold,100000,3,31-07-2023,49964,Electronics,Paid,N,
+1059,388,NA,NA,,,,,,,Y,High Debt
+1060,560,NA,NA,,,,,,,Y,Unstable Employment
+1061,104,Gold,Gold,100000,3,23-10-2023,6769,Travel,Paid,N,
+1062,167,NA,NA,,,,,,,Y,Unstable Employment
+1063,76,Silver,Silver,50000,2,13-06-2023,17694,Dining,Paid,N,
+1064,108,Silver,Silver,50000,2,12-07-2023,27311,Travel,Paid,N,
+1065,750,NA,NA,,,,,,,Y,Low Salary
+1066,561,Gold,Gold,100000,3,11-11-2023,7341,Electronics,Paid,N,
+1067,722,NA,NA,,,,,,,Y,Low Salary
+1068,442,Silver,Silver,50000,2,11-08-2023,44223,Travel,Paid,N,
+1069,55,Silver,Silver,50000,2,08-04-2023,35300,Electronics,Paid,N,
+1070,714,Platinum,Platinum,300000,4,02-06-2023,10199,Travel,Paid,N,
+1071,99,Silver,Silver,50000,2,09-10-2023,46005,Electronics,Paid,N,
+1072,158,NA,NA,,,,,,,Y,Low Salary
+1073,370,Silver,Silver,50000,2,31-05-2023,11262,Fuel,Paid,N,
+1074,492,NA,NA,,,,,,,Y,Low CIBIL
+1075,100,Silver,Silver,50000,2,23-11-2023,40397,Dining,Paid,N,
+1076,84,Gold,Gold,100000,3,07-06-2023,42056,Electronics,Paid,N,
+1077,483,Platinum,Platinum,300000,4,16-05-2023,2647,Groceries,Paid,N,
+1078,658,Gold,Gold,100000,3,15-07-2023,33883,Dining,Paid,N,
+1079,192,NA,NA,,,,,,,Y,Unstable Employment
+1080,46,NA,NA,,,,,,,Y,High Debt
+1081,451,Gold,Gold,100000,3,18-05-2023,34215,Fuel,Paid,N,
+1082,64,NA,NA,,,,,,,Y,Low CIBIL
+1083,771,NA,NA,,,,,,,Y,Low Salary
+1084,88,Gold,Gold,100000,3,31-07-2023,38945,Fuel,Paid,N,
+1085,233,NA,NA,,,,,,,Y,Low Salary
+1086,861,NA,NA,,,,,,,Y,Unstable Employment
+1087,839,NA,NA,,,,,,,Y,Unstable Employment
+1088,549,Platinum,Platinum,300000,4,01-05-2023,41134,Electronics,Paid,N,
+1089,307,Silver,Silver,50000,2,01-01-2024,2513,Groceries,Paid,N,
+1090,515,NA,NA,,,,,,,Y,Low CIBIL
+1091,124,Gold,Gold,100000,3,27-03-2023,20581,Travel,Paid,N,
+1092,828,Gold,Gold,100000,3,05-08-2023,17374,Groceries,Paid,N,
+1093,700,Platinum,Platinum,300000,4,18-11-2023,38255,Travel,Paid,N,
+1094,855,NA,NA,,,,,,,Y,High Debt
+1095,328,Silver,Silver,50000,2,12-10-2023,9233,Electronics,Paid,N,
+1096,566,NA,NA,,,,,,,Y,High Debt
+1097,878,Gold,Gold,100000,3,07-01-2023,9979,Fuel,Paid,N,
+1098,602,NA,NA,,,,,,,Y,Unstable Employment
+1099,116,Gold,Gold,100000,3,18-10-2023,10325,Fuel,Paid,N,
+1100,597,Silver,Silver,50000,2,16-10-2023,21804,Groceries,Paid,N,
+1101,805,NA,NA,,,,,,,Y,High Debt
+1102,889,Gold,Gold,100000,3,16-05-2023,36194,Electronics,Paid,N,
+1103,671,Silver,Silver,50000,2,31-08-2023,40550,Groceries,Paid,N,
+1104,177,Gold,Gold,100000,3,13-11-2023,16135,Fuel,Paid,N,
+1105,698,Gold,Gold,100000,3,19-06-2023,49115,Travel,Paid,N,
+1106,51,NA,NA,,,,,,,Y,Unstable Employment
+1107,276,Platinum,Platinum,300000,4,05-06-2023,21260,Dining,Default,N,
+1108,288,NA,NA,,,,,,,Y,Unstable Employment
+1109,879,Silver,Silver,50000,2,27-04-2023,9990,Travel,Paid,N,
+1110,308,NA,NA,,,,,,,Y,Unstable Employment
+1111,793,NA,NA,,,,,,,Y,High Debt
+1112,276,Platinum,Platinum,300000,4,15-02-2023,21752,Travel,Paid,N,
+1113,453,NA,NA,,,,,,,Y,Low CIBIL
+1114,844,Gold,Gold,100000,3,22-09-2023,40254,Dining,Paid,N,
+1115,841,Gold,Gold,100000,3,23-03-2023,7362,Groceries,Paid,N,
+1116,319,NA,NA,,,,,,,Y,Unstable Employment
+1117,139,Gold,Gold,100000,3,13-04-2023,45427,Groceries,Paid,N,
+1118,256,Gold,Gold,100000,3,04-07-2023,4923,Travel,Paid,N,
+1119,281,Gold,Gold,100000,3,16-09-2023,10950,Electronics,Paid,N,
+1120,651,Silver,Silver,50000,2,04-05-2023,41427,Dining,Paid,N,
+1121,501,NA,NA,,,,,,,Y,Unstable Employment
+1122,182,Gold,Gold,100000,3,29-06-2023,35341,Dining,Paid,N,
+1123,168,Gold,Gold,100000,3,19-12-2023,23054,Groceries,Paid,N,
+1124,292,NA,NA,,,,,,,Y,Low Salary
+1125,396,Silver,Silver,50000,2,20-10-2023,32326,Travel,Paid,N,
+1126,878,Silver,Silver,50000,2,13-12-2023,43379,Travel,Paid,N,
+1127,276,Platinum,Platinum,300000,4,16-12-2023,7325,Groceries,Paid,N,
+1128,486,Silver,Silver,50000,2,04-11-2023,43920,Groceries,Paid,N,
+1129,230,NA,NA,,,,,,,Y,High Debt
+1130,623,NA,NA,,,,,,,Y,High Debt
+1131,730,NA,NA,,,,,,,Y,High Debt
+1132,434,NA,NA,,,,,,,Y,Unstable Employment
+1133,873,NA,NA,,,,,,,Y,High Debt
+1134,471,Silver,Silver,50000,2,04-06-2023,12954,Fuel,Paid,N,
+1135,845,NA,NA,,,,,,,Y,Unstable Employment
+1136,599,NA,NA,,,,,,,Y,Low Salary
+1137,8,Platinum,Platinum,300000,4,01-11-2023,24751,Fuel,Paid,N,
+1138,290,Gold,Gold,100000,3,04-09-2023,21148,Groceries,Paid,N,
+1139,345,Gold,Gold,100000,3,22-05-2023,41236,Dining,Paid,N,
+1140,672,NA,NA,,,,,,,Y,High Debt
+1141,193,NA,NA,,,,,,,Y,Low CIBIL
+1142,530,NA,NA,,,,,,,Y,Low CIBIL
+1143,59,NA,NA,,,,,,,Y,Unstable Employment
+1144,677,NA,NA,,,,,,,Y,High Debt
+1145,698,Silver,Silver,50000,2,02-12-2023,25030,Electronics,Paid,N,
+1146,303,NA,NA,,,,,,,Y,High Debt
+1147,429,Gold,Gold,100000,3,19-01-2023,13016,Fuel,Paid,N,
+1148,726,Silver,Silver,50000,2,01-01-2024,47558,Travel,Paid,N,
+1149,703,Gold,Gold,100000,3,10-12-2023,41044,Dining,Paid,N,
+1150,520,Gold,Gold,100000,3,03-12-2023,9058,Fuel,Paid,N,
+1151,186,NA,NA,,,,,,,Y,High Debt
+1152,100,Gold,Gold,100000,3,13-05-2023,9219,Fuel,Paid,N,
+1153,782,Silver,Silver,50000,2,21-06-2023,5386,Groceries,Paid,N,
+1154,228,NA,NA,,,,,,,Y,High Debt
+1155,229,Silver,Silver,50000,2,19-06-2023,28685,Dining,Paid,N,
+1156,267,NA,NA,,,,,,,Y,High Debt
+1157,475,NA,NA,,,,,,,Y,Low Salary
+1158,482,Silver,Silver,50000,2,26-10-2023,37887,Fuel,Paid,N,
+1159,636,Silver,Silver,50000,2,10-04-2023,22075,Fuel,Paid,N,
+1160,123,Platinum,Platinum,300000,4,31-07-2023,47224,Groceries,Paid,N,
+1161,892,NA,NA,,,,,,,Y,Low CIBIL
+1162,141,Silver,Silver,50000,2,19-10-2023,43613,Electronics,Paid,N,
+1163,147,Gold,Gold,100000,3,03-04-2023,40143,Groceries,Paid,N,
+1164,500,NA,NA,,,,,,,Y,High Debt
+1165,647,NA,NA,,,,,,,Y,Low CIBIL
+1166,321,card_type,card_type,credit_limit,1,21-05-2023,10600,Travel,Default,N,
+1167,780,card_type,card_type,credit_limit,1,23-03-2023,8356,Electronics,Paid,N,
+1168,805,NA,NA,,,,,,,Y,Low Salary
+1169,133,Gold,Gold,100000,3,26-07-2023,38669,Electronics,Paid,N,
+1170,489,Platinum,Platinum,300000,4,01-10-2023,29304,Travel,Default,N,
+1171,749,Gold,Gold,100000,3,14-06-2023,36290,Fuel,Paid,N,
+1172,196,NA,NA,,,,,,,Y,Low Salary
+1173,693,NA,NA,,,,,,,Y,Low Salary
+1174,642,NA,NA,,,,,,,Y,Low CIBIL
+1175,232,Gold,Gold,100000,3,22-02-2023,31488,Electronics,Paid,N,
+1176,516,Platinum,Platinum,300000,4,24-01-2023,44943,Dining,Paid,N,
+1177,298,Gold,Gold,100000,3,02-11-2023,11412,Fuel,Paid,N,
+1178,346,NA,NA,,,,,,,Y,Unstable Employment
+1179,704,NA,NA,,,,,,,Y,Low CIBIL
+1180,351,Gold,Gold,100000,3,07-04-2023,39006,Travel,Paid,N,
+1181,832,NA,NA,,,,,,,Y,Unstable Employment
+1182,20,NA,NA,,,,,,,Y,Low CIBIL
+1183,230,NA,NA,,,,,,,Y,Low CIBIL
+1184,217,NA,NA,,,,,,,Y,Low Salary
+1185,604,NA,NA,,,,,,,Y,Low CIBIL
+1186,127,Gold,Gold,100000,3,20-01-2023,48394,Electronics,Paid,N,
+1187,898,Platinum,Platinum,300000,4,16-11-2023,22868,Groceries,Paid,N,
+1188,609,NA,NA,,,,,,,Y,Low Salary
+1189,678,Gold,Gold,100000,3,11-01-2023,2270,Groceries,Paid,N,
+1190,707,card_type,card_type,credit_limit,1,14-07-2023,12805,Groceries,Paid,N,
+1191,561,Platinum,Platinum,300000,4,20-03-2023,10469,Travel,Paid,N,
+1192,712,NA,NA,,,,,,,Y,Low Salary
+1193,309,NA,NA,,,,,,,Y,Unstable Employment
+1194,678,Gold,Gold,100000,3,19-05-2023,12904,Fuel,Paid,N,
+1195,621,Silver,Silver,50000,2,23-02-2023,9489,Fuel,Paid,N,
+1196,737,Silver,Silver,50000,2,24-02-2023,36483,Electronics,Paid,N,
+1197,204,Silver,Silver,50000,2,25-09-2023,45248,Travel,Paid,N,
+1198,367,Platinum,Platinum,300000,4,21-01-2023,39962,Fuel,Paid,N,
+1199,509,Silver,Silver,50000,2,04-09-2023,19860,Dining,Paid,N,
+1200,241,card_type,card_type,credit_limit,1,15-02-2023,20621,Groceries,Default,N,
+1201,856,Silver,Silver,50000,2,16-02-2023,26787,Fuel,Paid,N,
+1202,77,Gold,Gold,100000,3,26-11-2023,43929,Travel,Paid,N,
+1203,468,Platinum,Platinum,300000,4,26-01-2023,34660,Groceries,Paid,N,
+1204,833,NA,NA,,,,,,,Y,Low CIBIL
+1205,896,Silver,Silver,50000,2,04-07-2023,7289,Dining,Paid,N,
+1206,437,NA,NA,,,,,,,Y,Low Salary
+1207,98,Gold,Gold,100000,3,12-03-2023,27681,Travel,Default,N,
+1208,337,Gold,Gold,100000,3,15-11-2023,14885,Dining,Paid,N,
+1209,900,card_type,card_type,credit_limit,1,25-06-2023,17561,Travel,Paid,N,
+1210,117,Gold,Gold,100000,3,22-08-2023,605,Dining,Paid,N,
+1211,856,Silver,Silver,50000,2,02-09-2023,44747,Electronics,Paid,N,
+1212,665,NA,NA,,,,,,,Y,Low CIBIL
+1213,116,Silver,Silver,50000,2,31-01-2023,21637,Travel,Paid,N,
+1214,107,NA,NA,,,,,,,Y,Unstable Employment
+1215,605,NA,NA,,,,,,,Y,Unstable Employment
+1216,822,NA,NA,,,,,,,Y,Unstable Employment
+1217,186,NA,NA,,,,,,,Y,Unstable Employment
+1218,798,NA,NA,,,,,,,Y,High Debt
+1219,627,Gold,Gold,100000,3,08-03-2023,35214,Electronics,Paid,N,
+1220,500,NA,NA,,,,,,,Y,Low Salary
+1221,422,NA,NA,,,,,,,Y,Unstable Employment
+1222,48,Silver,Silver,50000,2,10-06-2023,6044,Groceries,Paid,N,
+1223,722,NA,NA,,,,,,,Y,Low CIBIL
+1224,686,NA,NA,,,,,,,Y,High Debt
+1225,532,Silver,Silver,50000,2,08-05-2023,13775,Electronics,Paid,N,
+1226,355,NA,NA,,,,,,,Y,Unstable Employment
+1227,153,NA,NA,,,,,,,Y,Low Salary
+1228,12,NA,NA,,,,,,,Y,Low CIBIL
+1229,518,NA,NA,,,,,,,Y,Unstable Employment
+1230,873,NA,NA,,,,,,,Y,Unstable Employment
+1231,891,Silver,Silver,50000,2,09-09-2023,40253,Dining,Paid,N,
+1232,247,Platinum,Platinum,300000,4,26-01-2023,35050,Fuel,Paid,N,
+1233,229,Silver,Silver,50000,2,01-05-2023,20141,Groceries,Paid,N,
+1234,471,Silver,Silver,50000,2,18-08-2023,6713,Groceries,Paid,N,
+1235,878,Gold,Gold,100000,3,02-03-2023,14985,Electronics,Paid,N,
+1236,764,Gold,Gold,100000,3,31-07-2023,16105,Groceries,Paid,N,
+1237,571,Silver,Silver,50000,2,06-11-2023,38137,Fuel,Paid,N,
+1238,653,NA,NA,,,,,,,Y,High Debt
+1239,521,Silver,Silver,50000,2,22-08-2023,20890,Dining,Paid,N,
+1240,373,NA,NA,,,,,,,Y,Low Salary
+1241,837,NA,NA,,,,,,,Y,Low CIBIL
+1242,865,Gold,Gold,100000,3,14-11-2023,10367,Fuel,Paid,N,
+1243,485,NA,NA,,,,,,,Y,High Debt
+1244,734,Gold,Gold,100000,3,04-12-2023,4481,Travel,Paid,N,
+1245,3,NA,NA,,,,,,,Y,High Debt
+1246,364,Gold,Gold,100000,3,11-07-2023,9993,Groceries,Paid,N,
+1247,47,NA,NA,,,,,,,Y,Low CIBIL
+1248,505,NA,NA,,,,,,,Y,Low CIBIL
+1249,842,Gold,Gold,100000,3,09-11-2023,6182,Travel,Paid,N,
+1250,193,NA,NA,,,,,,,Y,Low Salary
+1251,873,NA,NA,,,,,,,Y,Unstable Employment
+1252,221,Gold,Gold,100000,3,08-04-2023,6282,Dining,Paid,N,
+1253,111,NA,NA,,,,,,,Y,Unstable Employment
+1254,48,Silver,Silver,50000,2,19-08-2023,30299,Electronics,Paid,N,
+1255,675,card_type,card_type,credit_limit,1,03-01-2023,42405,Fuel,Paid,N,
+1256,754,NA,NA,,,,,,,Y,Low Salary
+1257,567,NA,NA,,,,,,,Y,Unstable Employment
+1258,859,Silver,Silver,50000,2,01-04-2023,17484,Fuel,Paid,N,
+1259,178,NA,NA,,,,,,,Y,Low CIBIL
+1260,107,NA,NA,,,,,,,Y,Unstable Employment
+1261,674,NA,NA,,,,,,,Y,High Debt
+1262,517,NA,NA,,,,,,,Y,Unstable Employment
+1263,429,Silver,Silver,50000,2,25-06-2023,46280,Dining,Paid,N,
+1264,464,Gold,Gold,100000,3,05-11-2023,23260,Fuel,Paid,N,
+1265,307,Gold,Gold,100000,3,11-10-2023,26493,Travel,Paid,N,
+1266,206,NA,NA,,,,,,,Y,Low CIBIL
+1267,640,NA,NA,,,,,,,Y,High Debt
+1268,704,NA,NA,,,,,,,Y,High Debt
+1269,689,NA,NA,,,,,,,Y,Low CIBIL
+1270,728,NA,NA,,,,,,,Y,Low CIBIL
+1271,516,Platinum,Platinum,300000,4,30-06-2023,2024,Fuel,Paid,N,
+1272,492,NA,NA,,,,,,,Y,Unstable Employment
+1273,691,NA,NA,,,,,,,Y,High Debt
+1274,899,NA,NA,,,,,,,Y,Unstable Employment
+1275,828,Gold,Gold,100000,3,13-01-2023,49902,Electronics,Paid,N,
+1276,149,card_type,card_type,credit_limit,1,13-04-2023,26620,Dining,Paid,N,
+1277,769,card_type,card_type,credit_limit,1,16-12-2023,578,Dining,Paid,N,
+1278,150,Silver,Silver,50000,2,01-06-2023,36391,Travel,Paid,N,
+1279,772,Silver,Silver,50000,2,20-08-2023,25973,Groceries,Paid,N,
+1280,631,Silver,Silver,50000,2,15-10-2023,40332,Electronics,Paid,N,
+1281,244,Platinum,Platinum,300000,4,25-01-2023,46336,Electronics,Paid,N,
+1282,397,NA,NA,,,,,,,Y,Unstable Employment
+1283,808,NA,NA,,,,,,,Y,High Debt
+1284,566,NA,NA,,,,,,,Y,Low Salary
+1285,14,NA,NA,,,,,,,Y,High Debt
+1286,208,NA,NA,,,,,,,Y,Unstable Employment
+1287,850,card_type,card_type,credit_limit,1,27-12-2023,8917,Dining,Paid,N,
+1288,774,NA,NA,,,,,,,Y,Low CIBIL
+1289,795,NA,NA,,,,,,,Y,Low CIBIL
+1290,302,Platinum,Platinum,300000,4,16-12-2023,13862,Groceries,Paid,N,
+1291,192,NA,NA,,,,,,,Y,Low CIBIL
+1292,753,Silver,Silver,50000,2,08-08-2023,1709,Dining,Paid,N,
+1293,570,Gold,Gold,100000,3,27-10-2023,38421,Dining,Paid,N,
+1294,6,NA,NA,,,,,,,Y,High Debt
+1295,478,NA,NA,,,,,,,Y,Low CIBIL
+1296,41,NA,NA,,,,,,,Y,Low CIBIL
+1297,331,Silver,Silver,50000,2,17-11-2023,5398,Fuel,Paid,N,
+1298,864,NA,NA,,,,,,,Y,High Debt
+1299,503,NA,NA,,,,,,,Y,High Debt
+1300,75,NA,NA,,,,,,,Y,High Debt
+1301,539,card_type,card_type,credit_limit,1,24-09-2023,19062,Groceries,Paid,N,
+1302,806,NA,NA,,,,,,,Y,Low CIBIL
+1303,426,Gold,Gold,100000,3,24-04-2023,11371,Travel,Default,N,
+1304,680,NA,NA,,,,,,,Y,High Debt
+1305,340,Gold,Gold,100000,3,13-11-2023,8110,Fuel,Paid,N,
+1306,487,Gold,Gold,100000,3,27-06-2023,44345,Electronics,Paid,N,
+1307,247,Gold,Gold,100000,3,16-12-2023,27882,Dining,Paid,N,
+1308,391,Silver,Silver,50000,2,04-10-2023,16291,Dining,Paid,N,
+1309,26,NA,NA,,,,,,,Y,High Debt
+1310,527,Gold,Gold,100000,3,01-06-2023,35812,Travel,Paid,N,
+1311,329,Silver,Silver,50000,2,27-03-2023,38790,Fuel,Paid,N,
+1312,547,Silver,Silver,50000,2,18-04-2023,2870,Travel,Paid,N,
+1313,886,NA,NA,,,,,,,Y,Unstable Employment
+1314,856,card_type,card_type,credit_limit,1,26-12-2023,20165,Electronics,Paid,N,
+1315,663,NA,NA,,,,,,,Y,Low Salary
+1316,765,NA,NA,,,,,,,Y,Low CIBIL
+1317,25,NA,NA,,,,,,,Y,Unstable Employment
+1318,735,NA,NA,,,,,,,Y,High Debt
+1319,39,NA,NA,,,,,,,Y,Low Salary
+1320,76,Silver,Silver,50000,2,09-05-2023,5210,Fuel,Paid,N,
+1321,73,Silver,Silver,50000,2,28-07-2023,828,Electronics,Paid,N,
+1322,462,NA,NA,,,,,,,Y,Unstable Employment
+1323,444,Silver,Silver,50000,2,11-12-2023,46951,Groceries,Default,N,
+1324,548,NA,NA,,,,,,,Y,Low Salary
+1325,657,Gold,Gold,100000,3,27-10-2023,38847,Groceries,Paid,N,
+1326,718,Gold,Gold,100000,3,15-09-2023,21112,Groceries,Paid,N,
+1327,297,NA,NA,,,,,,,Y,High Debt
+1328,622,NA,NA,,,,,,,Y,Low Salary
+1329,289,NA,NA,,,,,,,Y,Unstable Employment
+1330,391,Gold,Gold,100000,3,16-01-2023,46390,Electronics,Paid,N,
+1331,161,Silver,Silver,50000,2,20-07-2023,7294,Fuel,Paid,N,
+1332,303,NA,NA,,,,,,,Y,Low CIBIL
+1333,306,NA,NA,,,,,,,Y,High Debt
+1334,12,NA,NA,,,,,,,Y,Low CIBIL
+1335,127,Silver,Silver,50000,2,02-11-2023,33388,Electronics,Default,N,
+1336,551,Silver,Silver,50000,2,26-06-2023,7249,Travel,Paid,N,
+1337,423,NA,NA,,,,,,,Y,Low CIBIL
+1338,165,Silver,Silver,50000,2,10-05-2023,47031,Travel,Paid,N,
+1339,118,NA,NA,,,,,,,Y,Low CIBIL
+1340,688,Silver,Silver,50000,2,09-10-2023,21108,Electronics,Paid,N,
+1341,661,NA,NA,,,,,,,Y,Low Salary
+1342,298,Silver,Silver,50000,2,12-04-2023,15950,Fuel,Paid,N,
+1343,499,NA,NA,,,,,,,Y,High Debt
+1344,366,Silver,Silver,50000,2,01-05-2023,4175,Groceries,Paid,N,
+1345,292,NA,NA,,,,,,,Y,Low Salary
+1346,199,Gold,Gold,100000,3,18-06-2023,18960,Fuel,Paid,N,
+1347,676,Gold,Gold,100000,3,20-03-2023,38911,Fuel,Paid,N,
+1348,581,NA,NA,,,,,,,Y,High Debt
+1349,828,Platinum,Platinum,300000,4,28-03-2023,12060,Groceries,Paid,N,
+1350,321,card_type,card_type,credit_limit,1,31-12-2023,32963,Electronics,Paid,N,
+1351,284,NA,NA,,,,,,,Y,High Debt
+1352,138,NA,NA,,,,,,,Y,High Debt
+1353,899,NA,NA,,,,,,,Y,Unstable Employment
+1354,474,NA,NA,,,,,,,Y,Unstable Employment
+1355,368,NA,NA,,,,,,,Y,High Debt
+1356,499,NA,NA,,,,,,,Y,Low Salary
+1357,180,NA,NA,,,,,,,Y,Low Salary
+1358,862,NA,NA,,,,,,,Y,High Debt
+1359,880,Silver,Silver,50000,2,11-04-2023,32163,Dining,Paid,N,
+1360,752,NA,NA,,,,,,,Y,Low Salary
+1361,745,Silver,Silver,50000,2,17-09-2023,48651,Groceries,Paid,N,
+1362,833,NA,NA,,,,,,,Y,Unstable Employment
+1363,788,NA,NA,,,,,,,Y,Low CIBIL
+1364,38,NA,NA,,,,,,,Y,High Debt
+1365,557,Gold,Gold,100000,3,18-03-2023,3670,Dining,Paid,N,
+1366,402,Gold,Gold,100000,3,29-10-2023,33623,Dining,Paid,N,
+1367,138,NA,NA,,,,,,,Y,Unstable Employment
+1368,514,NA,NA,,,,,,,Y,Low Salary
+1369,407,Silver,Silver,50000,2,06-12-2023,29310,Travel,Paid,N,
+1370,869,Gold,Gold,100000,3,13-03-2023,10218,Electronics,Paid,N,
+1371,164,NA,NA,,,,,,,Y,Low CIBIL
+1372,580,NA,NA,,,,,,,Y,Low CIBIL
+1373,754,NA,NA,,,,,,,Y,Unstable Employment
+1374,368,NA,NA,,,,,,,Y,Low Salary
+1375,225,NA,NA,,,,,,,Y,Unstable Employment
+1376,238,NA,NA,,,,,,,Y,Low Salary
+1377,271,NA,NA,,,,,,,Y,High Debt
+1378,240,Silver,Silver,50000,2,23-09-2023,528,Dining,Paid,N,
+1379,398,Platinum,Platinum,300000,4,24-01-2023,48099,Groceries,Paid,N,
+1380,665,NA,NA,,,,,,,Y,High Debt
+1381,106,Gold,Gold,100000,3,15-05-2023,17897,Fuel,Paid,N,
+1382,558,NA,NA,,,,,,,Y,Low CIBIL
+1383,386,NA,NA,,,,,,,Y,Unstable Employment
+1384,375,NA,NA,,,,,,,Y,Low Salary
+1385,530,NA,NA,,,,,,,Y,High Debt
+1386,386,NA,NA,,,,,,,Y,Low CIBIL
+1387,529,NA,NA,,,,,,,Y,Unstable Employment
+1388,362,NA,NA,,,,,,,Y,High Debt
+1389,499,NA,NA,,,,,,,Y,Unstable Employment
+1390,619,NA,NA,,,,,,,Y,Low Salary
+1391,514,NA,NA,,,,,,,Y,Low CIBIL
+1392,451,Silver,Silver,50000,2,21-09-2023,44162,Dining,Paid,N,
+1393,217,NA,NA,,,,,,,Y,Low CIBIL
+1394,192,NA,NA,,,,,,,Y,Low CIBIL
+1395,371,NA,NA,,,,,,,Y,Low Salary
+1396,677,NA,NA,,,,,,,Y,Low CIBIL
+1397,425,NA,NA,,,,,,,Y,High Debt
+1398,738,Gold,Gold,100000,3,03-09-2023,42287,Electronics,Paid,N,
+1399,216,Silver,Silver,50000,2,30-07-2023,45906,Groceries,Paid,N,
+1400,250,Silver,Silver,50000,2,31-10-2023,48157,Travel,Paid,N,
+1401,138,NA,NA,,,,,,,Y,Low Salary
+1402,587,NA,NA,,,,,,,Y,Low CIBIL
+1403,58,Gold,Gold,100000,3,03-04-2023,2524,Fuel,Paid,N,
+1404,416,Silver,Silver,50000,2,05-12-2023,39107,Dining,Paid,N,
+1405,88,Silver,Silver,50000,2,30-08-2023,14003,Electronics,Paid,N,
+1406,175,NA,NA,,,,,,,Y,Low CIBIL
+1407,851,NA,NA,,,,,,,Y,Unstable Employment
+1408,616,Silver,Silver,50000,2,04-04-2023,10803,Fuel,Paid,N,
+1409,676,Gold,Gold,100000,3,18-12-2023,17638,Dining,Paid,N,
+1410,465,NA,NA,,,,,,,Y,Low Salary
+1411,236,NA,NA,,,,,,,Y,Unstable Employment
+1412,395,Silver,Silver,50000,2,14-04-2023,25845,Fuel,Paid,N,
+1413,881,NA,NA,,,,,,,Y,Unstable Employment
+1414,847,NA,NA,,,,,,,Y,Low CIBIL
+1415,621,Silver,Silver,50000,2,11-11-2023,30005,Fuel,Paid,N,
+1416,40,Silver,Silver,50000,2,04-12-2023,2406,Travel,Default,N,
+1417,618,Silver,Silver,50000,2,14-12-2023,40667,Electronics,Paid,N,
+1418,535,NA,NA,,,,,,,Y,Unstable Employment
+1419,380,NA,NA,,,,,,,Y,Low Salary
+1420,715,NA,NA,,,,,,,Y,Unstable Employment
+1421,235,Platinum,Platinum,300000,4,15-07-2023,8461,Dining,Paid,N,
+1422,604,NA,NA,,,,,,,Y,Low Salary
+1423,436,NA,NA,,,,,,,Y,Low CIBIL
+1424,261,Platinum,Platinum,300000,4,12-02-2023,26640,Dining,Paid,N,
+1425,613,Gold,Gold,100000,3,03-01-2023,12531,Groceries,Paid,N,
+1426,592,NA,NA,,,,,,,Y,Low Salary
+1427,533,card_type,card_type,credit_limit,1,16-04-2023,15628,Dining,Paid,N,
+1428,419,Gold,Gold,100000,3,07-08-2023,16163,Fuel,Paid,N,
+1429,260,NA,NA,,,,,,,Y,High Debt
+1430,876,Gold,Gold,100000,3,10-11-2023,34728,Dining,Paid,N,
+1431,697,NA,NA,,,,,,,Y,Unstable Employment
+1432,774,NA,NA,,,,,,,Y,Low CIBIL
+1433,424,NA,NA,,,,,,,Y,Unstable Employment
+1434,184,Platinum,Platinum,300000,4,05-09-2023,16182,Dining,Paid,N,
+1435,315,Gold,Gold,100000,3,23-07-2023,15693,Travel,Paid,N,
+1436,876,Silver,Silver,50000,2,17-08-2023,29061,Travel,Paid,N,
+1437,103,Gold,Gold,100000,3,23-06-2023,44313,Fuel,Paid,N,
+1438,629,Silver,Silver,50000,2,22-11-2023,8266,Groceries,Paid,N,
+1439,824,Silver,Silver,50000,2,30-08-2023,30344,Fuel,Paid,N,
+1440,446,card_type,card_type,credit_limit,1,24-04-2023,29932,Dining,Default,N,
+1441,82,Gold,Gold,100000,3,25-07-2023,30004,Fuel,Paid,N,
+1442,672,NA,NA,,,,,,,Y,High Debt
+1443,729,Silver,Silver,50000,2,31-03-2023,37646,Electronics,Paid,N,
+1444,450,Gold,Gold,100000,3,03-12-2023,40797,Fuel,Paid,N,
+1445,293,NA,NA,,,,,,,Y,Low CIBIL
+1446,35,Silver,Silver,50000,2,12-12-2023,21358,Groceries,Paid,N,
+1447,369,NA,NA,,,,,,,Y,Low CIBIL
+1448,671,card_type,card_type,credit_limit,1,14-02-2023,3571,Dining,Paid,N,
+1449,799,NA,NA,,,,,,,Y,Unstable Employment
+1450,362,NA,NA,,,,,,,Y,Unstable Employment
+1451,416,Silver,Silver,50000,2,27-12-2023,17439,Groceries,Paid,N,
+1452,93,NA,NA,,,,,,,Y,High Debt
+1453,744,NA,NA,,,,,,,Y,High Debt
+1454,356,Platinum,Platinum,300000,4,10-04-2023,25431,Electronics,Paid,N,
+1455,414,Silver,Silver,50000,2,28-07-2023,44960,Fuel,Paid,N,
+1456,110,NA,NA,,,,,,,Y,Low Salary
+1457,516,Platinum,Platinum,300000,4,01-03-2023,1540,Fuel,Paid,N,
+1458,264,NA,NA,,,,,,,Y,High Debt
+1459,711,NA,NA,,,,,,,Y,Unstable Employment
+1460,387,Gold,Gold,100000,3,23-06-2023,3186,Electronics,Paid,N,
+1461,698,Gold,Gold,100000,3,15-01-2023,13166,Electronics,Paid,N,
+1462,120,Gold,Gold,100000,3,21-11-2023,35821,Travel,Default,N,
+1463,694,Gold,Gold,100000,3,31-07-2023,2279,Dining,Paid,N,
+1464,529,NA,NA,,,,,,,Y,Low Salary
+1465,718,Platinum,Platinum,300000,4,17-02-2023,13686,Electronics,Paid,N,
+1466,690,Gold,Gold,100000,3,02-04-2023,16959,Electronics,Paid,N,
+1467,322,NA,NA,,,,,,,Y,High Debt
+1468,224,NA,NA,,,,,,,Y,High Debt
+1469,188,Silver,Silver,50000,2,13-04-2023,21210,Travel,Paid,N,
+1470,754,NA,NA,,,,,,,Y,Low CIBIL
+1471,894,NA,NA,,,,,,,Y,High Debt
+1472,212,Silver,Silver,50000,2,08-05-2023,22719,Fuel,Paid,N,
+1473,365,NA,NA,,,,,,,Y,Low CIBIL
+1474,798,NA,NA,,,,,,,Y,Low Salary
+1475,123,Gold,Gold,100000,3,06-12-2023,5557,Electronics,Paid,N,
+1476,629,Silver,Silver,50000,2,05-10-2023,19233,Groceries,Paid,N,
+1477,869,Platinum,Platinum,300000,4,11-06-2023,19657,Electronics,Paid,N,
+1478,589,NA,NA,,,,,,,Y,High Debt
+1479,503,NA,NA,,,,,,,Y,Low CIBIL
+1480,783,NA,NA,,,,,,,Y,High Debt
+1481,408,NA,NA,,,,,,,Y,Low CIBIL
+1482,769,card_type,card_type,credit_limit,1,05-08-2023,35530,Electronics,Paid,N,
+1483,554,Silver,Silver,50000,2,21-07-2023,20113,Travel,Paid,N,
+1484,469,Silver,Silver,50000,2,24-08-2023,43576,Dining,Paid,N,
+1485,706,Silver,Silver,50000,2,18-04-2023,17992,Electronics,Default,N,
+1486,595,Silver,Silver,50000,2,10-11-2023,21246,Dining,Paid,N,
+1487,192,NA,NA,,,,,,,Y,High Debt
+1488,243,NA,NA,,,,,,,Y,High Debt
+1489,483,Platinum,Platinum,300000,4,13-09-2023,5688,Electronics,Paid,N,
+1490,216,Gold,Gold,100000,3,10-07-2023,42070,Dining,Paid,N,
+1491,875,NA,NA,,,,,,,Y,Unstable Employment
+1492,287,Gold,Gold,100000,3,09-03-2023,30180,Fuel,Paid,N,
+1493,703,Silver,Silver,50000,2,19-05-2023,38325,Travel,Paid,N,
+1494,569,NA,NA,,,,,,,Y,Unstable Employment
+1495,877,Silver,Silver,50000,2,18-03-2023,37266,Electronics,Paid,N,
+1496,826,Silver,Silver,50000,2,13-09-2023,9364,Travel,Paid,N,
+1497,870,Gold,Gold,100000,3,03-06-2023,36945,Dining,Paid,N,
+1498,576,NA,NA,,,,,,,Y,Low Salary
+1499,408,NA,NA,,,,,,,Y,Low Salary
+1500,708,NA,NA,,,,,,,Y,Low CIBIL
+1501,62,NA,NA,,,,,,,Y,Low CIBIL
+1502,834,NA,NA,,,,,,,Y,High Debt
+1503,488,NA,NA,,,,,,,Y,Low Salary
+1504,461,NA,NA,,,,,,,Y,High Debt
+1505,267,NA,NA,,,,,,,Y,High Debt
+1506,369,NA,NA,,,,,,,Y,High Debt
+1507,353,NA,NA,,,,,,,Y,Low Salary
+1508,422,NA,NA,,,,,,,Y,Low Salary
+1509,360,Gold,Gold,100000,3,29-11-2023,6296,Fuel,Paid,N,
+1510,179,NA,NA,,,,,,,Y,High Debt
+1511,364,Gold,Gold,100000,3,07-09-2023,47718,Electronics,Paid,N,
+1512,81,Gold,Gold,100000,3,26-08-2023,39631,Travel,Paid,N,
+1513,890,NA,NA,,,,,,,Y,Low CIBIL
+1514,656,NA,NA,,,,,,,Y,High Debt
+1515,432,Gold,Gold,100000,3,06-02-2023,8623,Groceries,Paid,N,
+1516,166,NA,NA,,,,,,,Y,High Debt
+1517,234,Gold,Gold,100000,3,30-05-2023,8722,Dining,Paid,N,
+1518,620,NA,NA,,,,,,,Y,Unstable Employment
+1519,278,Platinum,Platinum,300000,4,05-07-2023,24574,Fuel,Paid,N,
+1520,534,NA,NA,,,,,,,Y,Unstable Employment
+1521,424,NA,NA,,,,,,,Y,Low CIBIL
+1522,189,NA,NA,,,,,,,Y,Low Salary
+1523,129,card_type,card_type,credit_limit,1,25-12-2023,46922,Groceries,Paid,N,
+1524,216,Silver,Silver,50000,2,18-02-2023,30325,Groceries,Paid,N,
+1525,900,Silver,Silver,50000,2,14-01-2023,37339,Electronics,Paid,N,
+1526,537,NA,NA,,,,,,,Y,Low Salary
+1527,107,NA,NA,,,,,,,Y,High Debt
+1528,633,Silver,Silver,50000,2,19-07-2023,42076,Dining,Paid,N,
+1529,235,Gold,Gold,100000,3,15-08-2023,3286,Travel,Paid,N,
+1530,135,NA,NA,,,,,,,Y,Low CIBIL
+1531,30,NA,NA,,,,,,,Y,Low Salary
+1532,680,NA,NA,,,,,,,Y,High Debt
+1533,882,Platinum,Platinum,300000,4,28-08-2023,34138,Fuel,Paid,N,
+1534,279,NA,NA,,,,,,,Y,Unstable Employment
+1535,139,Gold,Gold,100000,3,22-08-2023,37464,Fuel,Paid,N,
+1536,446,Silver,Silver,50000,2,04-09-2023,45064,Fuel,Paid,N,
+1537,233,NA,NA,,,,,,,Y,Low Salary
+1538,453,NA,NA,,,,,,,Y,High Debt
+1539,375,NA,NA,,,,,,,Y,Unstable Employment
+1540,267,NA,NA,,,,,,,Y,Low CIBIL
+1541,311,NA,NA,,,,,,,Y,Low Salary
+1542,1,NA,NA,,,,,,,Y,Low CIBIL
+1543,353,NA,NA,,,,,,,Y,High Debt
+1544,481,Gold,Gold,100000,3,09-09-2023,26488,Electronics,Paid,N,
+1545,307,Silver,Silver,50000,2,30-05-2023,36007,Fuel,Paid,N,
+1546,237,NA,NA,,,,,,,Y,Low Salary
+1547,562,NA,NA,,,,,,,Y,High Debt
+1548,194,NA,NA,,,,,,,Y,Unstable Employment
+1549,575,Gold,Gold,100000,3,25-03-2023,34208,Electronics,Paid,N,
+1550,849,Gold,Gold,100000,3,10-02-2023,33608,Electronics,Paid,N,
+1551,641,card_type,card_type,credit_limit,1,10-11-2023,30215,Dining,Paid,N,
+1552,292,NA,NA,,,,,,,Y,High Debt
+1553,423,NA,NA,,,,,,,Y,Low CIBIL
+1554,874,NA,NA,,,,,,,Y,Low Salary
+1555,187,NA,NA,,,,,,,Y,Low CIBIL
+1556,297,NA,NA,,,,,,,Y,Low Salary
+1557,653,NA,NA,,,,,,,Y,Unstable Employment
+1558,633,Gold,Gold,100000,3,15-11-2023,24306,Electronics,Paid,N,
+1559,193,NA,NA,,,,,,,Y,High Debt
+1560,20,NA,NA,,,,,,,Y,Low CIBIL
+1561,51,NA,NA,,,,,,,Y,Low Salary
+1562,191,NA,NA,,,,,,,Y,Low Salary
+1563,289,NA,NA,,,,,,,Y,High Debt
+1564,129,Silver,Silver,50000,2,30-04-2023,37401,Groceries,Paid,N,
+1565,155,NA,NA,,,,,,,Y,Low Salary
+1566,506,NA,NA,,,,,,,Y,Low CIBIL
+1567,351,Gold,Gold,100000,3,13-09-2023,17543,Dining,Paid,N,
+1568,475,NA,NA,,,,,,,Y,Low Salary
+1569,339,NA,NA,,,,,,,Y,Low Salary
+1570,864,NA,NA,,,,,,,Y,Low CIBIL
+1571,58,Platinum,Platinum,300000,4,06-02-2023,10725,Fuel,Paid,N,
+1572,482,Silver,Silver,50000,2,09-05-2023,10252,Electronics,Paid,N,
+1573,849,Silver,Silver,50000,2,01-01-2024,3957,Travel,Paid,N,
+1574,395,Gold,Gold,100000,3,18-01-2023,43116,Travel,Paid,N,
+1575,472,NA,NA,,,,,,,Y,Low Salary
+1576,534,NA,NA,,,,,,,Y,Low CIBIL
+1577,485,NA,NA,,,,,,,Y,Unstable Employment
+1578,698,Gold,Gold,100000,3,23-03-2023,9741,Groceries,Paid,N,
+1579,763,Silver,Silver,50000,2,23-11-2023,953,Dining,Paid,N,
+1580,204,Gold,Gold,100000,3,08-12-2023,10396,Travel,Paid,N,
+1581,116,Silver,Silver,50000,2,16-06-2023,22326,Groceries,Paid,N,
+1582,172,Gold,Gold,100000,3,22-07-2023,11476,Travel,Paid,N,
+1583,10,Gold,Gold,100000,3,20-12-2023,49140,Electronics,Paid,N,
+1584,705,NA,NA,,,,,,,Y,Low CIBIL
+1585,381,Silver,Silver,50000,2,13-09-2023,34086,Groceries,Paid,N,
+1586,703,Gold,Gold,100000,3,17-11-2023,5368,Groceries,Paid,N,
+1587,62,NA,NA,,,,,,,Y,High Debt
+1588,661,NA,NA,,,,,,,Y,Low CIBIL
+1589,719,Silver,Silver,50000,2,30-04-2023,16896,Dining,Paid,N,
+1590,572,Gold,Gold,100000,3,13-08-2023,32134,Travel,Paid,N,
+1591,22,Silver,Silver,50000,2,10-03-2023,12671,Dining,Paid,N,
+1592,41,NA,NA,,,,,,,Y,Unstable Employment
+1593,724,Platinum,Platinum,300000,4,05-10-2023,24611,Electronics,Paid,N,
+1594,195,NA,NA,,,,,,,Y,Low CIBIL
+1595,557,Gold,Gold,100000,3,28-08-2023,34188,Dining,Paid,N,
+1596,889,Silver,Silver,50000,2,21-03-2023,21804,Electronics,Paid,N,
+1597,303,NA,NA,,,,,,,Y,High Debt
+1598,555,Silver,Silver,50000,2,23-11-2023,42774,Fuel,Paid,N,
+1599,389,NA,NA,,,,,,,Y,Low CIBIL
+1600,20,NA,NA,,,,,,,Y,High Debt
+1601,795,NA,NA,,,,,,,Y,Low CIBIL
+1602,329,Silver,Silver,50000,2,03-10-2023,39743,Electronics,Paid,N,
+1603,195,NA,NA,,,,,,,Y,Unstable Employment
+1604,785,NA,NA,,,,,,,Y,Low CIBIL
+1605,628,Gold,Gold,100000,3,25-11-2023,28753,Dining,Paid,N,
+1606,114,NA,NA,,,,,,,Y,Low Salary
+1607,536,Silver,Silver,50000,2,08-03-2023,31480,Travel,Paid,N,
+1608,895,NA,NA,,,,,,,Y,Low Salary
+1609,207,NA,NA,,,,,,,Y,Low Salary
+1610,498,card_type,card_type,credit_limit,1,20-10-2023,2517,Electronics,Default,N,
+1611,674,NA,NA,,,,,,,Y,Unstable Employment
+1612,539,Silver,Silver,50000,2,24-04-2023,8457,Fuel,Default,N,
+1613,736,NA,NA,,,,,,,Y,Low Salary
+1614,14,NA,NA,,,,,,,Y,Low CIBIL
+1615,672,NA,NA,,,,,,,Y,Unstable Employment
+1616,853,NA,NA,,,,,,,Y,Low Salary
+1617,480,Silver,Silver,50000,2,01-08-2023,49498,Dining,Paid,N,
+1618,814,NA,NA,,,,,,,Y,Low Salary
+1619,844,Gold,Gold,100000,3,06-02-2023,42688,Dining,Paid,N,
+1620,80,NA,NA,,,,,,,Y,Low CIBIL
+1621,532,Silver,Silver,50000,2,29-04-2023,5292,Fuel,Paid,N,
+1622,395,Silver,Silver,50000,2,03-12-2023,13737,Travel,Paid,N,
+1623,584,Silver,Silver,50000,2,13-10-2023,16751,Electronics,Paid,N,
+1624,765,NA,NA,,,,,,,Y,Low Salary
+1625,785,NA,NA,,,,,,,Y,High Debt
+1626,691,NA,NA,,,,,,,Y,Unstable Employment
+1627,720,Silver,Silver,50000,2,27-03-2023,19752,Travel,Paid,N,
+1628,564,Gold,Gold,100000,3,03-12-2023,11207,Travel,Paid,N,
+1629,547,Gold,Gold,100000,3,11-06-2023,34706,Fuel,Paid,N,
+1630,333,NA,NA,,,,,,,Y,High Debt
+1631,423,NA,NA,,,,,,,Y,Unstable Employment
+1632,846,Gold,Gold,100000,3,16-10-2023,29240,Fuel,Paid,N,
+1633,220,NA,NA,,,,,,,Y,Unstable Employment
+1634,785,NA,NA,,,,,,,Y,High Debt
+1635,369,NA,NA,,,,,,,Y,Unstable Employment
+1636,459,Platinum,Platinum,300000,4,18-01-2023,4043,Dining,Default,N,
+1637,611,Gold,Gold,100000,3,04-06-2023,44635,Groceries,Paid,N,
+1638,308,NA,NA,,,,,,,Y,Low CIBIL
+1639,220,NA,NA,,,,,,,Y,High Debt
+1640,23,Platinum,Platinum,300000,4,19-09-2023,48788,Fuel,Paid,N,
+1641,585,NA,NA,,,,,,,Y,Low CIBIL
+1642,97,Silver,Silver,50000,2,21-03-2023,39611,Travel,Paid,N,
+1643,272,Gold,Gold,100000,3,08-05-2023,35531,Travel,Paid,N,
+1644,263,NA,NA,,,,,,,Y,High Debt
+1645,95,Gold,Gold,100000,3,22-04-2023,43429,Groceries,Paid,N,
+1646,741,Gold,Gold,100000,3,30-03-2023,711,Electronics,Paid,N,
+1647,846,Silver,Silver,50000,2,03-06-2023,47077,Groceries,Paid,N,
+1648,749,Gold,Gold,100000,3,29-01-2023,40295,Dining,Paid,N,
+1649,357,Platinum,Platinum,300000,4,03-03-2023,831,Travel,Paid,N,
+1650,766,Silver,Silver,50000,2,20-11-2023,23744,Electronics,Paid,N,
+1651,56,Platinum,Platinum,300000,4,13-06-2023,8669,Fuel,Paid,N,
+1652,579,Silver,Silver,50000,2,24-12-2023,22604,Travel,Paid,N,
+1653,157,Silver,Silver,50000,2,21-07-2023,42401,Electronics,Paid,N,
+1654,771,NA,NA,,,,,,,Y,Low Salary
+1655,228,NA,NA,,,,,,,Y,Unstable Employment
+1656,297,NA,NA,,,,,,,Y,Unstable Employment
+1657,152,NA,NA,,,,,,,Y,Low CIBIL
+1658,345,Silver,Silver,50000,2,26-01-2023,15091,Fuel,Paid,N,
+1659,409,Gold,Gold,100000,3,14-09-2023,32211,Electronics,Paid,N,
+1660,793,NA,NA,,,,,,,Y,Low CIBIL
+1661,781,Gold,Gold,100000,3,12-04-2023,49393,Electronics,Paid,N,
+1662,405,NA,NA,,,,,,,Y,Low CIBIL
+1663,575,Silver,Silver,50000,2,17-05-2023,1227,Electronics,Paid,N,
+1664,332,Silver,Silver,50000,2,31-07-2023,21859,Electronics,Paid,N,
+1665,375,NA,NA,,,,,,,Y,High Debt
+1666,196,NA,NA,,,,,,,Y,High Debt
+1667,353,NA,NA,,,,,,,Y,Low Salary
+1668,789,Gold,Gold,100000,3,29-06-2023,44322,Fuel,Paid,N,
+1669,842,Gold,Gold,100000,3,14-08-2023,36511,Groceries,Paid,N,
+1670,838,Silver,Silver,50000,2,11-07-2023,38363,Travel,Paid,N,
+1671,776,NA,NA,,,,,,,Y,Low Salary
+1672,116,Silver,Silver,50000,2,14-11-2023,47077,Travel,Paid,N,
+1673,890,NA,NA,,,,,,,Y,High Debt
+1674,15,Gold,Gold,100000,3,26-02-2023,23498,Dining,Paid,N,
+1675,461,NA,NA,,,,,,,Y,Unstable Employment
+1676,24,NA,NA,,,,,,,Y,High Debt
+1677,215,NA,NA,,,,,,,Y,Low CIBIL
+1678,209,NA,NA,,,,,,,Y,High Debt
+1679,562,NA,NA,,,,,,,Y,Unstable Employment
+1680,638,NA,NA,,,,,,,Y,Low CIBIL
+1681,712,NA,NA,,,,,,,Y,Low Salary
+1682,386,NA,NA,,,,,,,Y,Low Salary
+1683,262,Silver,Silver,50000,2,13-04-2023,11429,Fuel,Default,N,
+1684,278,Gold,Gold,100000,3,05-01-2023,15342,Groceries,Paid,N,
+1685,398,Platinum,Platinum,300000,4,04-12-2023,24019,Dining,Paid,N,
+1686,886,NA,NA,,,,,,,Y,Low Salary
+1687,20,NA,NA,,,,,,,Y,High Debt
+1688,889,Gold,Gold,100000,3,14-07-2023,17893,Fuel,Paid,N,
+1689,727,card_type,card_type,credit_limit,1,06-09-2023,34818,Fuel,Paid,N,
+1690,545,NA,NA,,,,,,,Y,Low Salary
+1691,191,NA,NA,,,,,,,Y,Low CIBIL
+1692,513,Gold,Gold,100000,3,31-12-2023,9495,Groceries,Paid,N,
+1693,41,NA,NA,,,,,,,Y,Low CIBIL
+1694,543,Platinum,Platinum,300000,4,21-07-2023,29156,Travel,Paid,N,
+1695,19,NA,NA,,,,,,,Y,High Debt
+1696,701,NA,NA,,,,,,,Y,High Debt
+1697,364,Gold,Gold,100000,3,14-09-2023,48434,Dining,Paid,N,
+1698,832,NA,NA,,,,,,,Y,Low Salary
+1699,641,Silver,Silver,50000,2,16-01-2023,40760,Fuel,Paid,N,
+1700,287,Silver,Silver,50000,2,21-07-2023,45769,Travel,Paid,N,
+1701,90,NA,NA,,,,,,,Y,Unstable Employment
+1702,534,NA,NA,,,,,,,Y,Low CIBIL
+1703,428,Silver,Silver,50000,2,07-08-2023,16067,Dining,Paid,N,
+1704,620,NA,NA,,,,,,,Y,High Debt
+1705,460,card_type,card_type,credit_limit,1,12-03-2023,29340,Fuel,Paid,N,
+1706,555,card_type,card_type,credit_limit,1,08-06-2023,24331,Fuel,Paid,N,
+1707,139,Platinum,Platinum,300000,4,16-03-2023,13765,Fuel,Paid,N,
+1708,162,NA,NA,,,,,,,Y,High Debt
+1709,70,Gold,Gold,100000,3,16-03-2023,5924,Groceries,Paid,N,
+1710,784,NA,NA,,,,,,,Y,High Debt
+1711,424,NA,NA,,,,,,,Y,Unstable Employment
+1712,311,NA,NA,,,,,,,Y,Unstable Employment
+1713,764,Platinum,Platinum,300000,4,07-04-2023,21125,Groceries,Paid,N,
+1714,135,NA,NA,,,,,,,Y,Low CIBIL
+1715,27,Gold,Gold,100000,3,10-11-2023,14586,Travel,Paid,N,
+1716,611,Gold,Gold,100000,3,14-01-2023,29687,Dining,Paid,N,
+1717,82,Platinum,Platinum,300000,4,06-11-2023,36429,Electronics,Paid,N,
+1718,730,NA,NA,,,,,,,Y,High Debt
+1719,189,NA,NA,,,,,,,Y,Unstable Employment
+1720,504,Gold,Gold,100000,3,09-04-2023,21039,Travel,Paid,N,
+1721,34,Platinum,Platinum,300000,4,08-01-2023,25603,Dining,Paid,N,
+1722,423,NA,NA,,,,,,,Y,Low CIBIL
+1723,761,NA,NA,,,,,,,Y,Low CIBIL
+1724,776,NA,NA,,,,,,,Y,Low CIBIL
+1725,68,NA,NA,,,,,,,Y,Low CIBIL
+1726,450,Platinum,Platinum,300000,4,23-08-2023,28374,Travel,Paid,N,
+1727,438,Gold,Gold,100000,3,08-11-2023,9715,Electronics,Paid,N,
+1728,738,Platinum,Platinum,300000,4,20-10-2023,39885,Fuel,Paid,N,
+1729,550,NA,NA,,,,,,,Y,Low Salary
+1730,534,NA,NA,,,,,,,Y,Low Salary
+1731,463,Gold,Gold,100000,3,22-01-2023,22544,Travel,Paid,N,
+1732,532,Gold,Gold,100000,3,21-01-2023,12426,Fuel,Paid,N,
+1733,397,NA,NA,,,,,,,Y,Low Salary
+1734,195,NA,NA,,,,,,,Y,High Debt
+1735,451,Gold,Gold,100000,3,27-05-2023,48360,Electronics,Paid,N,
+1736,171,NA,NA,,,,,,,Y,Unstable Employment
+1737,302,Gold,Gold,100000,3,14-03-2023,32001,Electronics,Paid,N,
+1738,850,Silver,Silver,50000,2,14-09-2023,30274,Groceries,Default,N,
+1739,185,NA,NA,,,,,,,Y,Low CIBIL
+1740,403,Gold,Gold,100000,3,13-01-2023,25508,Travel,Paid,N,
+1741,465,NA,NA,,,,,,,Y,Low CIBIL
+1742,466,NA,NA,,,,,,,Y,Low Salary
+1743,257,Gold,Gold,100000,3,31-12-2023,49428,Travel,Paid,N,
+1744,736,NA,NA,,,,,,,Y,Low Salary
+1745,94,NA,NA,,,,,,,Y,Low Salary
+1746,724,Platinum,Platinum,300000,4,13-02-2023,18060,Fuel,Paid,N,
+1747,725,NA,NA,,,,,,,Y,Unstable Employment
+1748,745,Silver,Silver,50000,2,14-07-2023,24840,Groceries,Paid,N,
+1749,787,NA,NA,,,,,,,Y,Low CIBIL
+1750,344,Silver,Silver,50000,2,16-03-2023,25476,Travel,Paid,N,
+1751,788,NA,NA,,,,,,,Y,Low Salary
+1752,430,NA,NA,,,,,,,Y,High Debt
+1753,317,NA,NA,,,,,,,Y,Unstable Employment
+1754,296,Silver,Silver,50000,2,09-03-2023,48906,Travel,Paid,N,
+1755,4,Gold,Gold,100000,3,12-09-2023,28126,Electronics,Default,N,
+1756,557,Silver,Silver,50000,2,10-09-2023,33220,Travel,Paid,N,
+1757,223,Gold,Gold,100000,3,15-08-2023,35501,Groceries,Paid,N,
+1758,616,Silver,Silver,50000,2,08-10-2023,5200,Dining,Paid,N,
+1759,635,NA,NA,,,,,,,Y,Low CIBIL
+1760,51,NA,NA,,,,,,,Y,Low CIBIL
+1761,152,NA,NA,,,,,,,Y,Low Salary
+1762,669,NA,NA,,,,,,,Y,High Debt
+1763,38,NA,NA,,,,,,,Y,Low CIBIL
+1764,875,NA,NA,,,,,,,Y,Low Salary
+1765,684,NA,NA,,,,,,,Y,High Debt
+1766,340,Silver,Silver,50000,2,02-08-2023,44295,Travel,Default,N,
+1767,166,NA,NA,,,,,,,Y,High Debt
+1768,626,NA,NA,,,,,,,Y,Low CIBIL
+1769,467,NA,NA,,,,,,,Y,High Debt
+1770,37,NA,NA,,,,,,,Y,Low Salary
+1771,787,NA,NA,,,,,,,Y,High Debt
+1772,331,Gold,Gold,100000,3,04-02-2023,8360,Electronics,Paid,N,
+1773,864,NA,NA,,,,,,,Y,Low Salary
+1774,300,Gold,Gold,100000,3,22-12-2023,8026,Dining,Paid,N,
+1775,338,Platinum,Platinum,300000,4,23-12-2023,38827,Travel,Paid,N,
+1776,627,Gold,Gold,100000,3,19-11-2023,40000,Fuel,Paid,N,
+1777,90,NA,NA,,,,,,,Y,Unstable Employment
+1778,742,NA,NA,,,,,,,Y,High Debt
+1779,438,Gold,Gold,100000,3,22-10-2023,3013,Fuel,Paid,N,
+1780,363,NA,NA,,,,,,,Y,Low CIBIL
+1781,630,Gold,Gold,100000,3,20-11-2023,8330,Electronics,Paid,N,
+1782,505,NA,NA,,,,,,,Y,Low CIBIL
+1783,625,Silver,Silver,50000,2,10-04-2023,15281,Groceries,Paid,N,
+1784,122,NA,NA,,,,,,,Y,Low Salary
+1785,477,card_type,card_type,credit_limit,1,17-04-2023,8410,Fuel,Paid,N,
+1786,425,NA,NA,,,,,,,Y,Unstable Employment
+1787,47,NA,NA,,,,,,,Y,High Debt
+1788,359,NA,NA,,,,,,,Y,Low CIBIL
+1789,12,NA,NA,,,,,,,Y,Low CIBIL
+1790,707,Silver,Silver,50000,2,04-02-2023,16347,Dining,Paid,N,
+1791,308,NA,NA,,,,,,,Y,High Debt
+1792,786,Silver,Silver,50000,2,20-06-2023,6149,Dining,Paid,N,
+1793,406,Gold,Gold,100000,3,10-04-2023,9620,Dining,Paid,N,
+1794,854,Silver,Silver,50000,2,03-09-2023,2451,Electronics,Paid,N,
+1795,817,Gold,Gold,100000,3,04-09-2023,10665,Travel,Paid,N,
+1796,643,Platinum,Platinum,300000,4,02-10-2023,14852,Dining,Paid,N,
+1797,474,NA,NA,,,,,,,Y,Unstable Employment
+1798,761,NA,NA,,,,,,,Y,Low Salary
+1799,856,Silver,Silver,50000,2,14-12-2023,10246,Dining,Paid,N,
+1800,569,NA,NA,,,,,,,Y,Low Salary
+1801,214,NA,NA,,,,,,,Y,High Debt
+1802,819,NA,NA,,,,,,,Y,High Debt
+1803,68,NA,NA,,,,,,,Y,Low CIBIL
+1804,288,NA,NA,,,,,,,Y,Low Salary
+1805,348,Gold,Gold,100000,3,26-03-2023,44238,Fuel,Paid,N,
+1806,621,Gold,Gold,100000,3,01-03-2023,29497,Dining,Paid,N,
+1807,723,Gold,Gold,100000,3,20-05-2023,42454,Electronics,Paid,N,
+1808,89,Platinum,Platinum,300000,4,10-07-2023,24683,Electronics,Paid,N,
+1809,850,Silver,Silver,50000,2,04-06-2023,9304,Travel,Paid,N,
+1810,115,NA,NA,,,,,,,Y,High Debt
+1811,804,NA,NA,,,,,,,Y,Low Salary
+1812,797,NA,NA,,,,,,,Y,Low CIBIL
+1813,95,Gold,Gold,100000,3,05-09-2023,27669,Fuel,Paid,N,
+1814,158,NA,NA,,,,,,,Y,Low CIBIL
+1815,349,NA,NA,,,,,,,Y,Unstable Employment
+1816,751,Platinum,Platinum,300000,4,15-03-2023,1095,Groceries,Paid,N,
+1817,842,Silver,Silver,50000,2,19-01-2023,30092,Electronics,Paid,N,
+1818,397,NA,NA,,,,,,,Y,Low Salary
+1819,5,NA,NA,,,,,,,Y,High Debt
+1820,46,NA,NA,,,,,,,Y,Low Salary
+1821,342,Platinum,Platinum,300000,4,22-02-2023,41143,Fuel,Paid,N,
+1822,785,NA,NA,,,,,,,Y,High Debt
+1823,24,NA,NA,,,,,,,Y,High Debt
+1824,655,NA,NA,,,,,,,Y,Low CIBIL
+1825,329,Silver,Silver,50000,2,22-05-2023,21323,Fuel,Paid,N,
+1826,327,Gold,Gold,100000,3,20-05-2023,6472,Travel,Paid,N,
+1827,162,NA,NA,,,,,,,Y,High Debt
+1828,118,NA,NA,,,,,,,Y,Low Salary
+1829,638,NA,NA,,,,,,,Y,Low Salary
+1830,212,Gold,Gold,100000,3,19-05-2023,16382,Travel,Paid,N,
+1831,722,NA,NA,,,,,,,Y,High Debt
+1832,588,Silver,Silver,50000,2,09-06-2023,1358,Fuel,Paid,N,
+1833,347,Platinum,Platinum,300000,4,15-01-2023,6019,Electronics,Paid,N,
+1834,692,card_type,card_type,credit_limit,1,28-01-2023,24269,Groceries,Paid,N,
+1835,437,NA,NA,,,,,,,Y,Unstable Employment
+1836,184,Platinum,Platinum,300000,4,09-06-2023,25520,Dining,Paid,N,
+1837,838,Silver,Silver,50000,2,10-12-2023,43248,Fuel,Paid,N,
+1838,81,Gold,Gold,100000,3,17-02-2023,37585,Electronics,Paid,N,
+1839,100,Gold,Gold,100000,3,26-11-2023,20338,Electronics,Paid,N,
+1840,482,Silver,Silver,50000,2,15-03-2023,45412,Fuel,Paid,N,
+1841,265,Gold,Gold,100000,3,25-12-2023,13379,Dining,Paid,N,
+1842,808,NA,NA,,,,,,,Y,High Debt
+1843,465,NA,NA,,,,,,,Y,Unstable Employment
+1844,31,NA,NA,,,,,,,Y,Low Salary
+1845,487,Gold,Gold,100000,3,25-08-2023,34298,Travel,Paid,N,
+1846,290,Gold,Gold,100000,3,07-03-2023,42755,Fuel,Paid,N,
+1847,106,Gold,Gold,100000,3,24-02-2023,24790,Dining,Paid,N,
+1848,570,Silver,Silver,50000,2,30-09-2023,46573,Electronics,Paid,N,
+1849,411,NA,NA,,,,,,,Y,Unstable Employment
+1850,245,Gold,Gold,100000,3,04-09-2023,10755,Electronics,Paid,N,
+1851,68,NA,NA,,,,,,,Y,High Debt
+1852,214,NA,NA,,,,,,,Y,Unstable Employment
+1853,804,NA,NA,,,,,,,Y,Unstable Employment
+1854,581,NA,NA,,,,,,,Y,High Debt
+1855,558,NA,NA,,,,,,,Y,Low CIBIL
+1856,178,NA,NA,,,,,,,Y,Low Salary
+1857,758,NA,NA,,,,,,,Y,Unstable Employment
+1858,118,NA,NA,,,,,,,Y,Unstable Employment
+1859,334,NA,NA,,,,,,,Y,Low Salary
+1860,842,Gold,Gold,100000,3,27-07-2023,1947,Groceries,Paid,N,
+1861,613,Silver,Silver,50000,2,02-11-2023,43505,Electronics,Paid,N,
+1862,336,Gold,Gold,100000,3,01-02-2023,29695,Groceries,Paid,N,
+1863,223,Silver,Silver,50000,2,22-11-2023,3350,Groceries,Paid,N,
+1864,776,NA,NA,,,,,,,Y,Low CIBIL
+1865,677,NA,NA,,,,,,,Y,Low CIBIL
+1866,464,Platinum,Platinum,300000,4,23-10-2023,28900,Electronics,Paid,N,
+1867,201,Gold,Gold,100000,3,12-06-2023,12453,Dining,Paid,N,
+1868,584,Gold,Gold,100000,3,11-08-2023,41374,Dining,Paid,N,
+1869,92,NA,NA,,,,,,,Y,Low Salary
+1870,627,Platinum,Platinum,300000,4,31-05-2023,24035,Groceries,Paid,N,
+1871,379,NA,NA,,,,,,,Y,Low Salary
+1872,1,NA,NA,,,,,,,Y,High Debt
+1873,113,NA,NA,,,,,,,Y,High Debt
+1874,887,Silver,Silver,50000,2,26-12-2023,10500,Fuel,Paid,N,
+1875,404,NA,NA,,,,,,,Y,High Debt
+1876,729,Gold,Gold,100000,3,11-08-2023,10003,Fuel,Paid,N,
+1877,217,NA,NA,,,,,,,Y,Low CIBIL
+1878,487,Gold,Gold,100000,3,16-07-2023,15993,Dining,Paid,N,
+1879,861,NA,NA,,,,,,,Y,Unstable Employment
+1880,158,NA,NA,,,,,,,Y,High Debt
+1881,894,NA,NA,,,,,,,Y,Low CIBIL
+1882,138,NA,NA,,,,,,,Y,Low Salary
+1883,74,NA,NA,,,,,,,Y,Low Salary
+1884,148,Gold,Gold,100000,3,11-03-2023,4555,Groceries,Paid,N,
+1885,141,Gold,Gold,100000,3,23-12-2023,38670,Fuel,Paid,N,
+1886,436,NA,NA,,,,,,,Y,Low CIBIL
+1887,466,NA,NA,,,,,,,Y,Unstable Employment
+1888,566,NA,NA,,,,,,,Y,Unstable Employment
+1889,394,Platinum,Platinum,300000,4,06-08-2023,32908,Fuel,Paid,N,
+1890,8,Platinum,Platinum,300000,4,02-05-2023,42549,Fuel,Paid,N,
+1891,276,Platinum,Platinum,300000,4,23-10-2023,34940,Dining,Paid,N,
+1892,35,Silver,Silver,50000,2,27-12-2023,28751,Dining,Paid,N,
+1893,116,Gold,Gold,100000,3,10-02-2023,5032,Travel,Paid,N,
+1894,748,Gold,Gold,100000,3,10-02-2023,5424,Fuel,Paid,N,
+1895,625,Silver,Silver,50000,2,19-11-2023,48537,Groceries,Paid,N,
+1896,701,NA,NA,,,,,,,Y,High Debt
+1897,628,Silver,Silver,50000,2,01-10-2023,13046,Groceries,Paid,N,
+1898,481,Platinum,Platinum,300000,4,29-08-2023,27079,Fuel,Paid,N,
+1899,752,NA,NA,,,,,,,Y,High Debt
+1900,432,Gold,Gold,100000,3,31-05-2023,6585,Dining,Paid,N,
+1901,172,Silver,Silver,50000,2,02-11-2023,12890,Dining,Paid,N,
+1902,745,Gold,Gold,100000,3,31-08-2023,13780,Fuel,Paid,N,
+1903,174,NA,NA,,,,,,,Y,Low Salary
+1904,673,Gold,Gold,100000,3,16-11-2023,24618,Groceries,Paid,N,
+1905,294,NA,NA,,,,,,,Y,Unstable Employment
+1906,85,NA,NA,,,,,,,Y,Low CIBIL
+1907,518,NA,NA,,,,,,,Y,Low Salary
+1908,872,NA,NA,,,,,,,Y,High Debt
+1909,259,Gold,Gold,100000,3,21-05-2023,5364,Dining,Paid,N,
+1910,15,Silver,Silver,50000,2,30-10-2023,42584,Travel,Paid,N,
+1911,675,Silver,Silver,50000,2,31-03-2023,34489,Dining,Paid,N,
+1912,802,NA,NA,,,,,,,Y,Low CIBIL
+1913,497,NA,NA,,,,,,,Y,Low CIBIL
+1914,819,NA,NA,,,,,,,Y,Low Salary
+1915,352,Silver,Silver,50000,2,01-11-2023,36128,Travel,Paid,N,
+1916,858,Gold,Gold,100000,3,31-07-2023,27349,Electronics,Paid,N,
+1917,244,Platinum,Platinum,300000,4,27-03-2023,28066,Travel,Paid,N,
+1918,592,NA,NA,,,,,,,Y,High Debt
+1919,56,Platinum,Platinum,300000,4,01-03-2023,11202,Groceries,Paid,N,
+1920,172,Gold,Gold,100000,3,04-06-2023,41696,Electronics,Paid,N,
+1921,765,NA,NA,,,,,,,Y,Low CIBIL
+1922,389,NA,NA,,,,,,,Y,Unstable Employment
+1923,486,Gold,Gold,100000,3,11-08-2023,15885,Groceries,Paid,N,
+1924,296,Gold,Gold,100000,3,11-06-2023,9836,Fuel,Paid,N,
+1925,700,Gold,Gold,100000,3,30-09-2023,31725,Dining,Paid,N,
+1926,865,Gold,Gold,100000,3,30-11-2023,36521,Dining,Paid,N,
+1927,344,Gold,Gold,100000,3,20-02-2023,4282,Dining,Paid,N,
+1928,671,Silver,Silver,50000,2,12-12-2023,23841,Travel,Paid,N,
+1929,752,NA,NA,,,,,,,Y,Low CIBIL
+1930,533,Silver,Silver,50000,2,03-04-2023,24594,Dining,Paid,N,
+1931,561,Gold,Gold,100000,3,04-02-2023,49611,Groceries,Paid,N,
+1932,422,NA,NA,,,,,,,Y,Low Salary
+1933,538,NA,NA,,,,,,,Y,Low Salary
+1934,702,NA,NA,,,,,,,Y,Unstable Employment
+1935,360,Gold,Gold,100000,3,09-05-2023,24366,Travel,Paid,N,
+1936,35,Silver,Silver,50000,2,30-01-2023,19549,Fuel,Paid,N,
+1937,673,Silver,Silver,50000,2,23-11-2023,43219,Groceries,Paid,N,
+1938,726,Silver,Silver,50000,2,06-11-2023,31492,Travel,Paid,N,
+1939,385,Silver,Silver,50000,2,23-12-2023,49537,Travel,Paid,N,
+1940,260,NA,NA,,,,,,,Y,High Debt
+1941,479,Silver,Silver,50000,2,22-05-2023,15067,Electronics,Paid,N,
+1942,709,Platinum,Platinum,300000,4,07-02-2023,44951,Dining,Paid,N,
+1943,796,NA,NA,,,,,,,Y,Low Salary
+1944,392,Gold,Gold,100000,3,31-01-2023,4013,Dining,Paid,N,
+1945,833,NA,NA,,,,,,,Y,High Debt
+1946,183,Gold,Gold,100000,3,13-04-2023,13835,Fuel,Default,N,
+1947,403,Silver,Silver,50000,2,25-02-2023,44640,Travel,Paid,N,
+1948,554,Gold,Gold,100000,3,26-11-2023,39090,Groceries,Paid,N,
+1949,453,NA,NA,,,,,,,Y,High Debt
+1950,106,Silver,Silver,50000,2,20-10-2023,15337,Dining,Paid,N,
+1951,796,NA,NA,,,,,,,Y,Unstable Employment
+1952,20,NA,NA,,,,,,,Y,Unstable Employment
+1953,153,NA,NA,,,,,,,Y,Low Salary
+1954,39,NA,NA,,,,,,,Y,Unstable Employment
+1955,273,Gold,Gold,100000,3,20-07-2023,12622,Fuel,Paid,N,
+1956,4,Gold,Gold,100000,3,26-07-2023,35340,Groceries,Paid,N,
+1957,554,Silver,Silver,50000,2,19-12-2023,31507,Electronics,Default,N,
+1958,125,Platinum,Platinum,300000,4,05-06-2023,41797,Electronics,Paid,N,
+1959,57,Silver,Silver,50000,2,24-06-2023,28184,Groceries,Paid,N,
+1960,862,NA,NA,,,,,,,Y,Unstable Employment
+1961,779,NA,NA,,,,,,,Y,High Debt
+1962,664,NA,NA,,,,,,,Y,Low CIBIL
+1963,181,Silver,Silver,50000,2,05-12-2023,26893,Travel,Paid,N,
+1964,307,Gold,Gold,100000,3,19-11-2023,23254,Dining,Paid,N,
+1965,499,NA,NA,,,,,,,Y,Low Salary
+1966,648,Gold,Gold,100000,3,13-03-2023,21299,Groceries,Paid,N,
+1967,198,NA,NA,,,,,,,Y,Low Salary
+1968,738,Gold,Gold,100000,3,02-02-2023,39227,Fuel,Paid,N,
+1969,659,NA,NA,,,,,,,Y,High Debt
+1970,512,Gold,Gold,100000,3,09-01-2023,9607,Groceries,Paid,N,
+1971,348,Silver,Silver,50000,2,22-01-2023,6493,Electronics,Paid,N,
+1972,122,NA,NA,,,,,,,Y,Low CIBIL
+1973,827,Gold,Gold,100000,3,02-10-2023,31305,Travel,Paid,N,
+1974,759,Silver,Silver,50000,2,19-01-2023,28614,Travel,Paid,N,
+1975,501,NA,NA,,,,,,,Y,Low Salary
+1976,483,Gold,Gold,100000,3,29-11-2023,38289,Travel,Paid,N,
+1977,15,Silver,Silver,50000,2,07-06-2023,46814,Groceries,Paid,N,
+1978,468,Gold,Gold,100000,3,02-02-2023,43442,Groceries,Paid,N,
+1979,117,Gold,Gold,100000,3,12-11-2023,16638,Travel,Paid,N,
+1980,65,Gold,Gold,100000,3,14-12-2023,45027,Electronics,Paid,N,
+1981,333,NA,NA,,,,,,,Y,Low Salary
+1982,701,NA,NA,,,,,,,Y,Low CIBIL
+1983,330,Silver,Silver,50000,2,31-10-2023,9690,Travel,Paid,N,
+1984,344,Silver,Silver,50000,2,14-03-2023,27223,Electronics,Paid,N,
+1985,173,NA,NA,,,,,,,Y,High Debt
+1986,567,NA,NA,,,,,,,Y,Low CIBIL
+1987,450,Gold,Gold,100000,3,21-01-2023,13386,Travel,Paid,N,
+1988,103,Platinum,Platinum,300000,4,09-01-2023,17279,Electronics,Paid,N,
+1989,83,NA,NA,,,,,,,Y,Low Salary
+1990,8,Gold,Gold,100000,3,28-12-2023,28674,Fuel,Paid,N,
+1991,291,NA,NA,,,,,,,Y,Unstable Employment
+1992,711,NA,NA,,,,,,,Y,Unstable Employment
+1993,709,Gold,Gold,100000,3,24-11-2023,29586,Dining,Paid,N,
+1994,536,Gold,Gold,100000,3,31-03-2023,17822,Fuel,Paid,N,
+1995,709,Gold,Gold,100000,3,13-09-2023,43096,Fuel,Paid,N,
+1996,91,Gold,Gold,100000,3,03-01-2023,35778,Fuel,Paid,N,
+1997,242,card_type,card_type,credit_limit,1,29-09-2023,18533,Groceries,Paid,N,
+1998,634,Gold,Gold,100000,3,04-10-2023,20574,Fuel,Paid,N,
+1999,225,NA,NA,,,,,,,Y,Unstable Employment
+2000,789,Silver,Silver,50000,2,10-04-2023,3935,Groceries,Paid,N,
+2001,816,Silver,Silver,50000,2,31-08-2023,36469,Electronics,Paid,N,
+2002,181,Silver,Silver,50000,2,23-01-2023,29442,Groceries,Paid,N,
+2003,661,NA,NA,,,,,,,Y,High Debt
+2004,292,NA,NA,,,,,,,Y,Low CIBIL
+2005,446,Silver,Silver,50000,2,21-08-2023,29559,Groceries,Paid,N,
+2006,107,NA,NA,,,,,,,Y,Low Salary
+2007,551,Silver,Silver,50000,2,15-01-2023,48421,Electronics,Paid,N,
+2008,528,Silver,Silver,50000,2,01-05-2023,33326,Electronics,Paid,N,
+2009,607,Gold,Gold,100000,3,13-12-2023,30797,Dining,Paid,N,
+2010,236,NA,NA,,,,,,,Y,Low Salary
+2011,334,NA,NA,,,,,,,Y,Low CIBIL
+2012,101,Silver,Silver,50000,2,13-04-2023,44390,Electronics,Paid,N,
+2013,226,Gold,Gold,100000,3,06-09-2023,21822,Groceries,Paid,N,
+2014,447,card_type,card_type,credit_limit,1,09-11-2023,36239,Electronics,Paid,N,
+2015,183,Gold,Gold,100000,3,23-08-2023,10219,Travel,Paid,N,
+2016,648,Gold,Gold,100000,3,14-04-2023,14517,Dining,Paid,N,
+2017,131,Gold,Gold,100000,3,31-01-2023,8814,Dining,Paid,N,
+2018,140,NA,NA,,,,,,,Y,Low Salary
+2019,873,NA,NA,,,,,,,Y,Unstable Employment
+2020,470,Platinum,Platinum,300000,4,25-06-2023,28795,Travel,Paid,N,
+2021,303,NA,NA,,,,,,,Y,Low CIBIL
+2022,809,NA,NA,,,,,,,Y,Low CIBIL
+2023,592,NA,NA,,,,,,,Y,Low CIBIL
+2024,89,Platinum,Platinum,300000,4,08-09-2023,10128,Travel,Paid,N,
+2025,606,NA,NA,,,,,,,Y,Unstable Employment
+2026,858,Gold,Gold,100000,3,08-08-2023,42622,Travel,Paid,N,
+2027,254,NA,NA,,,,,,,Y,High Debt
+2028,445,Gold,Gold,100000,3,30-10-2023,11992,Travel,Paid,N,
+2029,588,Silver,Silver,50000,2,23-01-2023,36613,Groceries,Paid,N,
+2030,482,Silver,Silver,50000,2,21-07-2023,15857,Electronics,Paid,N,
+2031,830,NA,NA,,,,,,,Y,Low Salary
+2032,464,Platinum,Platinum,300000,4,13-10-2023,33829,Groceries,Paid,N,
+2033,710,Gold,Gold,100000,3,09-03-2023,20865,Dining,Paid,N,
+2034,303,NA,NA,,,,,,,Y,Low CIBIL
+2035,664,NA,NA,,,,,,,Y,Low Salary
+2036,17,Gold,Gold,100000,3,24-03-2023,39529,Electronics,Paid,N,
+2037,879,Silver,Silver,50000,2,26-08-2023,2237,Travel,Paid,N,
+2038,896,Gold,Gold,100000,3,09-07-2023,9596,Electronics,Paid,N,
+2039,721,NA,NA,,,,,,,Y,Low Salary
+2040,882,Gold,Gold,100000,3,20-12-2023,20438,Dining,Paid,N,
+2041,544,NA,NA,,,,,,,Y,Low Salary
+2042,304,NA,NA,,,,,,,Y,Unstable Employment
+2043,771,NA,NA,,,,,,,Y,High Debt
+2044,715,NA,NA,,,,,,,Y,Low CIBIL
+2045,807,Silver,Silver,50000,2,21-06-2023,13182,Groceries,Paid,N,
+2046,528,Gold,Gold,100000,3,26-02-2023,27999,Electronics,Paid,N,
+2047,375,NA,NA,,,,,,,Y,Unstable Employment
+2048,634,Silver,Silver,50000,2,31-03-2023,44991,Fuel,Paid,N,
+2049,722,NA,NA,,,,,,,Y,Low Salary
+2050,575,Silver,Silver,50000,2,21-06-2023,45366,Travel,Paid,N,
+2051,553,Gold,Gold,100000,3,25-10-2023,42394,Travel,Paid,N,
+2052,772,Silver,Silver,50000,2,17-05-2023,46657,Fuel,Paid,N,
+2053,697,NA,NA,,,,,,,Y,Unstable Employment
+2054,284,NA,NA,,,,,,,Y,Low Salary
+2055,65,Platinum,Platinum,300000,4,06-09-2023,41534,Fuel,Paid,N,
+2056,540,Gold,Gold,100000,3,30-09-2023,794,Fuel,Paid,N,
+2057,300,Gold,Gold,100000,3,11-12-2023,33036,Groceries,Paid,N,
+2058,193,NA,NA,,,,,,,Y,Unstable Employment
+2059,90,NA,NA,,,,,,,Y,Low Salary
+2060,401,NA,NA,,,,,,,Y,Low CIBIL
+2061,296,Silver,Silver,50000,2,22-05-2023,25096,Groceries,Paid,N,
+2062,714,Gold,Gold,100000,3,15-04-2023,33149,Fuel,Paid,N,
+2063,643,Gold,Gold,100000,3,16-12-2023,11934,Fuel,Paid,N,
+2064,136,NA,NA,,,,,,,Y,Unstable Employment
+2065,356,Platinum,Platinum,300000,4,27-11-2023,38598,Groceries,Paid,N,
+2066,299,Gold,Gold,100000,3,29-04-2023,5155,Fuel,Paid,N,
+2067,661,NA,NA,,,,,,,Y,High Debt
+2068,422,NA,NA,,,,,,,Y,High Debt
+2069,672,NA,NA,,,,,,,Y,High Debt
+2070,498,Silver,Silver,50000,2,18-10-2023,17993,Travel,Paid,N,
+2071,809,NA,NA,,,,,,,Y,High Debt
+2072,176,Gold,Gold,100000,3,10-07-2023,46728,Dining,Paid,N,
+2073,789,Silver,Silver,50000,2,26-05-2023,4271,Electronics,Paid,N,
+2074,171,NA,NA,,,,,,,Y,Low CIBIL
+2075,729,Gold,Gold,100000,3,31-03-2023,9063,Travel,Paid,N,
+2076,166,NA,NA,,,,,,,Y,Low CIBIL
+2077,120,Silver,Silver,50000,2,22-10-2023,18058,Travel,Paid,N,
+2078,452,NA,NA,,,,,,,Y,High Debt
+2079,379,NA,NA,,,,,,,Y,Low CIBIL
+2080,211,Silver,Silver,50000,2,26-06-2023,34432,Travel,Paid,N,
+2081,382,NA,NA,,,,,,,Y,Unstable Employment
+2082,553,Gold,Gold,100000,3,04-03-2023,42743,Groceries,Paid,N,
+2083,415,Gold,Gold,100000,3,23-08-2023,27067,Dining,Paid,N,
+2084,160,Silver,Silver,50000,2,07-10-2023,32876,Fuel,Paid,N,
+2085,340,Gold,Gold,100000,3,29-05-2023,22422,Fuel,Paid,N,
+2086,683,NA,NA,,,,,,,Y,Low CIBIL
+2087,819,NA,NA,,,,,,,Y,Unstable Employment
+2088,347,Gold,Gold,100000,3,21-01-2023,12888,Travel,Paid,N,
+2089,695,NA,NA,,,,,,,Y,Low Salary
+2090,316,Silver,Silver,50000,2,23-04-2023,29832,Electronics,Paid,N,
+2091,366,Silver,Silver,50000,2,08-11-2023,47237,Travel,Paid,N,
+2092,598,NA,NA,,,,,,,Y,Low CIBIL
+2093,801,Gold,Gold,100000,3,12-02-2023,23995,Fuel,Paid,N,
+2094,870,Gold,Gold,100000,3,14-02-2023,8934,Fuel,Paid,N,
+2095,404,NA,NA,,,,,,,Y,Low CIBIL
+2096,503,NA,NA,,,,,,,Y,High Debt
+2097,618,Silver,Silver,50000,2,04-07-2023,21491,Electronics,Paid,N,
+2098,152,NA,NA,,,,,,,Y,Unstable Employment
+2099,379,NA,NA,,,,,,,Y,Unstable Employment
+2100,382,NA,NA,,,,,,,Y,Low Salary
+2101,292,NA,NA,,,,,,,Y,High Debt
+2102,360,Platinum,Platinum,300000,4,15-10-2023,27972,Groceries,Paid,N,
+2103,221,Gold,Gold,100000,3,01-08-2023,40530,Electronics,Paid,N,
+2104,296,Silver,Silver,50000,2,06-08-2023,27349,Electronics,Paid,N,
+2105,143,Silver,Silver,50000,2,05-06-2023,2041,Electronics,Paid,N,
+2106,889,Gold,Gold,100000,3,30-10-2023,3265,Electronics,Paid,N,
+2107,91,Silver,Silver,50000,2,20-05-2023,43574,Electronics,Paid,N,
+2108,180,NA,NA,,,,,,,Y,Unstable Employment
+2109,728,NA,NA,,,,,,,Y,Low CIBIL
+2110,205,NA,NA,,,,,,,Y,Low CIBIL
+2111,853,NA,NA,,,,,,,Y,Unstable Employment
+2112,297,NA,NA,,,,,,,Y,Unstable Employment
+2113,44,NA,NA,,,,,,,Y,High Debt
+2114,855,NA,NA,,,,,,,Y,High Debt
+2115,506,NA,NA,,,,,,,Y,Unstable Employment
+2116,230,NA,NA,,,,,,,Y,Low Salary
+2117,811,NA,NA,,,,,,,Y,Low Salary
+2118,158,NA,NA,,,,,,,Y,High Debt
+2119,308,NA,NA,,,,,,,Y,Unstable Employment
+2120,128,NA,NA,,,,,,,Y,High Debt
+2121,428,Silver,Silver,50000,2,19-12-2023,37759,Travel,Paid,N,
+2122,30,NA,NA,,,,,,,Y,Low Salary
+2123,784,NA,NA,,,,,,,Y,High Debt
+2124,505,NA,NA,,,,,,,Y,Low Salary
+2125,614,Gold,Gold,100000,3,17-10-2023,29783,Electronics,Paid,N,
+2126,890,NA,NA,,,,,,,Y,High Debt
+2127,644,NA,NA,,,,,,,Y,Unstable Employment
+2128,711,NA,NA,,,,,,,Y,Low Salary
+2129,383,Silver,Silver,50000,2,25-03-2023,36351,Fuel,Paid,N,
+2130,60,Gold,Gold,100000,3,21-12-2023,35125,Travel,Paid,N,
+2131,366,Silver,Silver,50000,2,04-07-2023,1269,Electronics,Default,N,
+2132,652,NA,NA,,,,,,,Y,High Debt
+2133,50,NA,NA,,,,,,,Y,High Debt
+2134,299,Gold,Gold,100000,3,18-11-2023,18306,Travel,Paid,N,
+2135,784,NA,NA,,,,,,,Y,Low Salary
+2136,614,Silver,Silver,50000,2,11-06-2023,25482,Dining,Paid,N,
+2137,278,Platinum,Platinum,300000,4,24-10-2023,3472,Dining,Paid,N,
+2138,844,Silver,Silver,50000,2,23-09-2023,18756,Dining,Default,N,
+2139,382,NA,NA,,,,,,,Y,Unstable Employment
+2140,422,NA,NA,,,,,,,Y,High Debt
+2141,167,NA,NA,,,,,,,Y,Low Salary
+2142,224,NA,NA,,,,,,,Y,Low CIBIL
+2143,516,Gold,Gold,100000,3,14-10-2023,38867,Fuel,Paid,N,
+2144,707,card_type,card_type,credit_limit,1,09-02-2023,19153,Groceries,Paid,N,
+2145,839,NA,NA,,,,,,,Y,Low CIBIL
+2146,18,NA,NA,,,,,,,Y,Unstable Employment
+2147,357,Platinum,Platinum,300000,4,13-03-2023,38543,Electronics,Paid,N,
+2148,612,Gold,Gold,100000,3,05-06-2023,21633,Groceries,Paid,N,
+2149,763,Silver,Silver,50000,2,22-12-2023,39839,Travel,Paid,N,
+2150,705,NA,NA,,,,,,,Y,Low CIBIL
+2151,315,Silver,Silver,50000,2,10-02-2023,26257,Electronics,Paid,N,
+2152,708,NA,NA,,,,,,,Y,Low Salary
+2153,80,NA,NA,,,,,,,Y,Low Salary
+2154,794,Platinum,Platinum,300000,4,22-01-2023,38340,Travel,Paid,N,
+2155,111,NA,NA,,,,,,,Y,Low Salary
+2156,813,NA,NA,,,,,,,Y,Low Salary
+2157,481,Gold,Gold,100000,3,23-01-2023,42899,Groceries,Paid,N,
+2158,309,NA,NA,,,,,,,Y,Low Salary
+2159,773,NA,NA,,,,,,,Y,Low Salary
+2160,802,NA,NA,,,,,,,Y,Low Salary
+2161,617,Silver,Silver,50000,2,13-04-2023,44513,Travel,Paid,N,
+2162,687,NA,NA,,,,,,,Y,High Debt
+2163,30,NA,NA,,,,,,,Y,Low Salary
+2164,150,Gold,Gold,100000,3,28-06-2023,32569,Dining,Paid,N,
+2165,165,Silver,Silver,50000,2,04-02-2023,15206,Groceries,Paid,N,
+2166,840,NA,NA,,,,,,,Y,Low Salary
+2167,542,Silver,Silver,50000,2,25-05-2023,38731,Travel,Paid,N,
+2168,773,NA,NA,,,,,,,Y,Low Salary
+2169,743,NA,NA,,,,,,,Y,Low Salary
+2170,220,NA,NA,,,,,,,Y,Unstable Employment
+2171,376,NA,NA,,,,,,,Y,Low CIBIL
+2172,451,Silver,Silver,50000,2,01-07-2023,28409,Electronics,Paid,N,
+2173,435,Silver,Silver,50000,2,28-07-2023,40718,Groceries,Paid,N,
+2174,780,Silver,Silver,50000,2,26-02-2023,11595,Fuel,Paid,N,
+2175,140,NA,NA,,,,,,,Y,Unstable Employment
+2176,781,Platinum,Platinum,300000,4,13-10-2023,20843,Groceries,Paid,N,
+2177,85,NA,NA,,,,,,,Y,High Debt
+2178,506,NA,NA,,,,,,,Y,Low Salary
+2179,395,Gold,Gold,100000,3,09-06-2023,26969,Electronics,Paid,N,
+2180,232,Gold,Gold,100000,3,08-08-2023,1813,Travel,Paid,N,
+2181,878,Silver,Silver,50000,2,01-09-2023,8347,Dining,Paid,N,
+2182,184,Gold,Gold,100000,3,09-09-2023,9666,Groceries,Paid,N,
+2183,406,Platinum,Platinum,300000,4,13-12-2023,10430,Groceries,Paid,N,
+2184,123,Gold,Gold,100000,3,22-12-2023,3785,Fuel,Paid,N,
+2185,105,Gold,Gold,100000,3,12-04-2023,36363,Dining,Paid,N,
+2186,206,NA,NA,,,,,,,Y,Unstable Employment
+2187,126,Gold,Gold,100000,3,13-09-2023,17204,Dining,Paid,N,
+2188,784,NA,NA,,,,,,,Y,High Debt
+2189,775,Gold,Gold,100000,3,08-12-2023,19205,Fuel,Paid,N,
+2190,415,Gold,Gold,100000,3,17-03-2023,1055,Electronics,Paid,N,
+2191,111,NA,NA,,,,,,,Y,Low Salary
+2192,257,Gold,Gold,100000,3,18-11-2023,21823,Travel,Paid,N,
+2193,31,NA,NA,,,,,,,Y,Low Salary
+2194,756,NA,NA,,,,,,,Y,Low Salary
+2195,851,NA,NA,,,,,,,Y,Low Salary
+2196,511,Silver,Silver,50000,2,15-07-2023,5932,Fuel,Paid,N,
+2197,696,NA,NA,,,,,,,Y,High Debt
+2198,157,Gold,Gold,100000,3,19-02-2023,1886,Groceries,Paid,N,
+2199,677,NA,NA,,,,,,,Y,Unstable Employment
+2200,812,Gold,Gold,100000,3,05-12-2023,44507,Electronics,Paid,N,
+2201,503,NA,NA,,,,,,,Y,High Debt
+2202,556,NA,NA,,,,,,,Y,High Debt
+2203,829,Silver,Silver,50000,2,17-01-2023,11119,Electronics,Paid,N,
+2204,122,NA,NA,,,,,,,Y,Unstable Employment
+2205,461,NA,NA,,,,,,,Y,High Debt
+2206,874,NA,NA,,,,,,,Y,Unstable Employment
+2207,454,NA,NA,,,,,,,Y,Unstable Employment
+2208,37,NA,NA,,,,,,,Y,Low Salary
+2209,182,Gold,Gold,100000,3,26-03-2023,7354,Electronics,Paid,N,
+2210,442,Silver,Silver,50000,2,19-07-2023,43464,Electronics,Paid,N,
+2211,783,NA,NA,,,,,,,Y,Low Salary
+2212,583,NA,NA,,,,,,,Y,Unstable Employment
+2213,676,Gold,Gold,100000,3,22-03-2023,49301,Fuel,Paid,N,
+2214,58,Platinum,Platinum,300000,4,30-10-2023,8137,Electronics,Paid,N,
+2215,632,Gold,Gold,100000,3,26-05-2023,21725,Dining,Paid,N,
+2216,63,NA,NA,,,,,,,Y,Low Salary
+2217,605,NA,NA,,,,,,,Y,Low Salary
+2218,132,NA,NA,,,,,,,Y,High Debt
+2219,358,NA,NA,,,,,,,Y,Low Salary
+2220,784,NA,NA,,,,,,,Y,High Debt
+2221,390,NA,NA,,,,,,,Y,Low Salary
+2222,439,Gold,Gold,100000,3,30-07-2023,46230,Dining,Paid,N,
+2223,58,Gold,Gold,100000,3,28-11-2023,27239,Dining,Paid,N,
+2224,607,Silver,Silver,50000,2,03-02-2023,48208,Dining,Paid,N,
+2225,118,NA,NA,,,,,,,Y,High Debt
+2226,174,NA,NA,,,,,,,Y,Low Salary
+2227,552,Silver,Silver,50000,2,03-12-2023,11118,Electronics,Paid,N,
+2228,582,Gold,Gold,100000,3,23-12-2023,37061,Electronics,Paid,N,
+2229,603,Silver,Silver,50000,2,13-07-2023,7873,Fuel,Paid,N,
+2230,400,NA,NA,,,,,,,Y,High Debt
+2231,587,NA,NA,,,,,,,Y,Low Salary
+2232,828,Platinum,Platinum,300000,4,12-12-2023,35781,Travel,Paid,N,
+2233,345,Gold,Gold,100000,3,08-12-2023,20687,Dining,Paid,N,
+2234,171,NA,NA,,,,,,,Y,High Debt
+2235,373,NA,NA,,,,,,,Y,Unstable Employment
+2236,207,NA,NA,,,,,,,Y,Unstable Employment
+2237,651,Silver,Silver,50000,2,02-10-2023,2827,Travel,Paid,N,
+2238,295,NA,NA,,,,,,,Y,High Debt
+2239,49,Gold,Gold,100000,3,25-07-2023,32891,Travel,Paid,N,
+2240,640,NA,NA,,,,,,,Y,Low Salary
+2241,735,NA,NA,,,,,,,Y,Low Salary
+2242,607,Gold,Gold,100000,3,18-10-2023,42077,Fuel,Paid,N,
+2243,487,Platinum,Platinum,300000,4,09-02-2023,19049,Dining,Paid,N,
+2244,517,NA,NA,,,,,,,Y,High Debt
+2245,444,Silver,Silver,50000,2,25-07-2023,39720,Dining,Paid,N,
+2246,640,NA,NA,,,,,,,Y,Unstable Employment
+2247,688,Silver,Silver,50000,2,18-11-2023,8142,Fuel,Paid,N,
+2248,884,Silver,Silver,50000,2,20-04-2023,14935,Electronics,Paid,N,
+2249,275,NA,NA,,,,,,,Y,Unstable Employment
+2250,580,NA,NA,,,,,,,Y,Low Salary
+2251,535,NA,NA,,,,,,,Y,Low CIBIL
+2252,374,Gold,Gold,100000,3,19-03-2023,34260,Dining,Paid,N,
+2253,865,Gold,Gold,100000,3,02-02-2023,38692,Travel,Paid,N,
+2254,867,Gold,Gold,100000,3,27-05-2023,4881,Travel,Paid,N,
+2255,263,NA,NA,,,,,,,Y,Low CIBIL
+2256,416,Silver,Silver,50000,2,09-04-2023,31547,Groceries,Paid,N,
+2257,252,Platinum,Platinum,300000,4,14-10-2023,20058,Electronics,Paid,N,
+2258,433,Silver,Silver,50000,2,20-05-2023,31282,Travel,Paid,N,
+2259,30,NA,NA,,,,,,,Y,High Debt
+2260,809,NA,NA,,,,,,,Y,High Debt
+2261,675,card_type,card_type,credit_limit,1,22-01-2023,5282,Electronics,Paid,N,
+2262,802,NA,NA,,,,,,,Y,Low Salary
+2263,57,Silver,Silver,50000,2,02-06-2023,26381,Groceries,Paid,N,
+2264,417,NA,NA,,,,,,,Y,High Debt
+2265,688,Silver,Silver,50000,2,13-03-2023,40728,Travel,Paid,N,
+2266,115,NA,NA,,,,,,,Y,Low Salary
+2267,535,NA,NA,,,,,,,Y,High Debt
+2268,509,Silver,Silver,50000,2,04-03-2023,29909,Dining,Paid,N,
+2269,338,Platinum,Platinum,300000,4,01-05-2023,19962,Electronics,Paid,N,
+2270,224,NA,NA,,,,,,,Y,Low CIBIL
+2271,110,NA,NA,,,,,,,Y,Low CIBIL
+2272,220,NA,NA,,,,,,,Y,High Debt
+2273,451,Gold,Gold,100000,3,29-10-2023,3483,Groceries,Paid,N,
+2274,503,NA,NA,,,,,,,Y,High Debt
+2275,717,NA,NA,,,,,,,Y,Low Salary
+2276,325,Gold,Gold,100000,3,07-05-2023,32433,Dining,Paid,N,
+2277,804,NA,NA,,,,,,,Y,Low CIBIL
+2278,372,Gold,Gold,100000,3,07-06-2023,47450,Groceries,Paid,N,
+2279,661,NA,NA,,,,,,,Y,Low Salary
+2280,862,NA,NA,,,,,,,Y,Low Salary
+2281,708,NA,NA,,,,,,,Y,Low CIBIL
+2282,260,NA,NA,,,,,,,Y,Unstable Employment
+2283,317,NA,NA,,,,,,,Y,High Debt
+2284,832,NA,NA,,,,,,,Y,Low Salary
+2285,548,NA,NA,,,,,,,Y,Low CIBIL
+2286,879,Gold,Gold,100000,3,21-07-2023,3023,Dining,Paid,N,
+2287,309,NA,NA,,,,,,,Y,Low Salary
+2288,843,NA,NA,,,,,,,Y,Low CIBIL
+2289,305,NA,NA,,,,,,,Y,Low CIBIL
+2290,881,NA,NA,,,,,,,Y,Low CIBIL
+2291,450,Platinum,Platinum,300000,4,26-11-2023,10177,Electronics,Paid,N,
+2292,809,NA,NA,,,,,,,Y,Low Salary
+2293,281,Silver,Silver,50000,2,09-09-2023,10792,Electronics,Paid,N,
+2294,755,Gold,Gold,100000,3,20-06-2023,15589,Electronics,Paid,N,
+2295,898,Gold,Gold,100000,3,24-12-2023,5081,Dining,Paid,N,
+2296,519,Silver,Silver,50000,2,05-11-2023,12407,Fuel,Paid,N,
+2297,756,NA,NA,,,,,,,Y,High Debt
+2298,465,NA,NA,,,,,,,Y,Low Salary
+2299,781,Gold,Gold,100000,3,05-04-2023,6109,Electronics,Paid,N,
+2300,811,NA,NA,,,,,,,Y,Low CIBIL
+1018,646,NA,NA,,,,,,,Y,Low Salary
+1684,278,Gold,Gold,100000,3,05-01-2023,15342,Groceries,Paid,N,
+780,158,NA,NA,,,,,,,Y,Unstable Employment
+960,382,NA,NA,,,,,,,Y,Low Salary
+1546,237,NA,NA,,,,,,,Y,Low Salary
+1168,805,NA,NA,,,,,,,Y,Low Salary
+593,403,Gold,Gold,100000,3,21-04-2023,46217,Fuel,Paid,N,
+432,79,Silver,Silver,50000,2,10-04-2023,25070,Dining,Paid,N,
+1851,68,NA,NA,,,,,,,Y,High Debt
+2,26,NA,NA,,,,,,,Y,High Debt
+79,803,Gold,Gold,100000,3,23-12-2023,36154,Fuel,Paid,N,
+1629,547,Gold,Gold,100000,3,11-06-2023,34706,Fuel,Paid,N,
+608,522,NA,NA,,,,,,,Y,Unstable Employment
+1969,659,NA,NA,,,,,,,Y,High Debt
+261,674,NA,NA,,,,,,,Y,Unstable Employment
+321,621,Gold,Gold,100000,3,27-05-2023,12661,Travel,Paid,N,
+314,602,NA,NA,,,,,,,Y,High Debt
+1555,187,NA,NA,,,,,,,Y,Low CIBIL
+857,200,NA,NA,,,,,,,Y,Unstable Employment
+2225,118,NA,NA,,,,,,,Y,High Debt
+851,524,Gold,Gold,100000,3,12-03-2023,13600,Fuel,Paid,N,
+130,826,Silver,Silver,50000,2,05-02-2023,20816,Dining,Paid,N,
+2051,553,Gold,Gold,100000,3,25-10-2023,42394,Travel,Paid,N,
+1918,592,NA,NA,,,,,,,Y,High Debt
+2223,58,Gold,Gold,100000,3,28-11-2023,27239,Dining,Paid,N,
+971,239,NA,NA,,,,,,,Y,High Debt
+2196,511,Silver,Silver,50000,2,15-07-2023,5932,Fuel,Paid,N,
+1974,759,Silver,Silver,50000,2,19-01-2023,28614,Travel,Paid,N,
+1530,135,NA,NA,,,,,,,Y,Low CIBIL
+1973,827,Gold,Gold,100000,3,02-10-2023,31305,Travel,Paid,N,
