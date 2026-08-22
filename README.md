@@ -179,7 +179,7 @@ The dashboard analyses customer demographics, employment characteristics, credit
 
 **Excel Key Tools: Pivot Tables, Pivot chart, Slicers**
 
-![Excel Dashboard Analysis](datasets/Credit_card_excel_dashboard.png)
+![Excel Dashboard Analysis](Datasets/Credit_card_excel_dashboard.png)
 
 1. Gender Distribution- Distribution of customers across different genders to understand the overall customer composition.
 
