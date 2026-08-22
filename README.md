@@ -221,10 +221,10 @@ Key areas analyzed include:
 
 The final Power BI dashboard contains four analytical pages.
 
---Page 1 - Credit Card Sales Overview
---Page 2 - Customer & Card Analysis
---Page 3 - Transaction & Spending Analysis
---Page 4 - Credit Risk Analysis
+-Page 1 - Credit Card Sales Overview
+-Page 2 - Customer & Card Analysis
+-Page 3 - Transaction & Spending Analysis
+-Page 4 - Credit Risk Analysis
 
 ## Key Insights
 
