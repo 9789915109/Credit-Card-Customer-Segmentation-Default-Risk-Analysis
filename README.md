@@ -140,7 +140,7 @@ IF([@[Cibil_score]]<750,"Average","Good"))
 
 ### 8.Transaction Data Enrichment
 
---Card type information was brought into the transaction table using **INDEX + MATCH**
+Card type information was brought into the transaction table using **INDEX + MATCH**
 
 =IFERROR(
 INDEX(cards.csv!card[#All],
@@ -149,7 +149,7 @@ MATCH([@[card_id]],cards.csv!$A$2:$A$5,0),2),
 
 This enriched transaction records with card type information for further analysis.
 
---Card limits were retrieved using **VLOOKUP**:
+Card limits were retrieved using **VLOOKUP**:
 
 =IFERROR(
 VLOOKUP([@[card_id]],cards.csv!$A$2:$C$5,3,TRUE),
@@ -279,6 +279,7 @@ Based on the analysis:
 ---
 
 ## Tools & Technologies
+
 Excel — Data cleaning, transformation and exploratory analysis
 Power Query — Data integration and transformation
 SQL / PostgreSQL — Data analysis and business queries
