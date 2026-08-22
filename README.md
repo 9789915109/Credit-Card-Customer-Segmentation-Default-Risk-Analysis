@@ -2,7 +2,7 @@
 Credit Card Customer Analysis and Credit Risk Assessment using Excel, SQL and Power BI
 
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes customer, credit card, and transaction data to understand customer eligibility, card adoption, spending behavior, and credit risk.
 
@@ -14,7 +14,7 @@ The project follows an end-to-end analytics workflow:
 
 ---
 
-## 🎯 Business Objectives
+##  Business Objectives
 
 The project aims to answer the following business questions:
 
@@ -29,7 +29,7 @@ The project aims to answer the following business questions:
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The dataset contains three main tables:
 
@@ -80,7 +80,7 @@ Transaction-level information including:
 
 ---
 
-## 🧹 Data Cleaning & Preparation
+##  Data Cleaning & Preparation
 
 Excel was used for initial data cleaning and transformation.
 
@@ -171,6 +171,8 @@ Customers and Transactions were integrated using Power Query.
 
 This created an integrated dataset for customer and transaction-level analysis
 
+--
+
 ### Excel Dashboard Analysis
 
 The dashboard analyses customer demographics, employment characteristics, credit card preferences, and application rejection patterns to identify key trends and customer segments.
@@ -188,6 +190,8 @@ The dashboard analyses customer demographics, employment characteristics, credit
 5. Card Type Analysis- Analyses the customer preferences over credit card usage
 
 6. Employment Analysis- Examines customer distribution based on employment category
+
+--
 
 ## SQL Analysis
 
@@ -210,6 +214,8 @@ Key areas analyzed include:
 --Salary-based risk segmentation
 --Existing-loan-based risk segmentation
 --High-value customers
+
+--
 
 ## Power BI Dashboard
 
@@ -249,8 +255,9 @@ The final Power BI dashboard contains four analytical pages.
 --Risk patterns varied across employment, age, salary, and geographic segments.
 --Poor-CIBIL customers were generally not eligible for credit card approval under the defined eligibility criteria; therefore, their observed default rate should not be interpreted as a meaningful card-default comparison.
 
+--
 
-##Business Recommendations
+## Business Recommendations
 
 Based on the analysis:
 
@@ -259,7 +266,7 @@ Based on the analysis:
 --Monitor customers with multiple existing loans as a potentially higher-risk segment.
 --Strengthen credit assessment for customers with weaker CIBIL profiles who meet eligibility criteria.
 
-
+--
 
 ## Data Limitations
 
@@ -268,6 +275,8 @@ Based on the analysis:
 -Some values were intentionally modified to simulate data quality problems.
 -January 2024 contains incomplete data and should not be used for full-year trend conclusions.
 -Default-risk observations are based on the synthetic dataset and should not be interpreted as actual banking risk estimates.
+
+--
 
 ## Tools & Technologies
 Excel — Data cleaning, transformation and exploratory analysis
