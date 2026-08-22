@@ -138,9 +138,9 @@ Good: ≥ 750
 =IF([@[Cibil_score]]<650,"Poor",
 IF([@[Cibil_score]]<750,"Average","Good"))
 
-### Transaction Data Enrichment
+### 8.Transaction Data Enrichment
 
-Card type information was brought into the transaction table using INDEX + MATCH
+--Card type information was brought into the transaction table using **INDEX + MATCH**
 
 =IFERROR(
 INDEX(cards.csv!card[#All],
@@ -149,7 +149,7 @@ MATCH([@[card_id]],cards.csv!$A$2:$A$5,0),2),
 
 This enriched transaction records with card type information for further analysis.
 
-Card limits were retrieved using VLOOKUP:
+--Card limits were retrieved using **VLOOKUP**:
 
 =IFERROR(
 VLOOKUP([@[card_id]],cards.csv!$A$2:$C$5,3,TRUE),
@@ -171,7 +171,7 @@ Customers and Transactions were integrated using Power Query.
 
 This created an integrated dataset for customer and transaction-level analysis
 
---
+---
 
 ### Excel Dashboard Analysis
 
@@ -191,7 +191,7 @@ The dashboard analyses customer demographics, employment characteristics, credit
 
 6. Employment Analysis- Examines customer distribution based on employment category
 
---
+---
 
 ## SQL Analysis
 
@@ -215,7 +215,7 @@ Key areas analyzed include:
 --Existing-loan-based risk segmentation
 --High-value customers
 
---
+---
 
 ## Power BI Dashboard
 
@@ -255,7 +255,7 @@ The final Power BI dashboard contains four analytical pages.
 --Risk patterns varied across employment, age, salary, and geographic segments.
 --Poor-CIBIL customers were generally not eligible for credit card approval under the defined eligibility criteria; therefore, their observed default rate should not be interpreted as a meaningful card-default comparison.
 
---
+---
 
 ## Business Recommendations
 
@@ -266,7 +266,7 @@ Based on the analysis:
 --Monitor customers with multiple existing loans as a potentially higher-risk segment.
 --Strengthen credit assessment for customers with weaker CIBIL profiles who meet eligibility criteria.
 
---
+---
 
 ## Data Limitations
 
@@ -276,7 +276,7 @@ Based on the analysis:
 -January 2024 contains incomplete data and should not be used for full-year trend conclusions.
 -Default-risk observations are based on the synthetic dataset and should not be interpreted as actual banking risk estimates.
 
---
+---
 
 ## Tools & Technologies
 Excel — Data cleaning, transformation and exploratory analysis
