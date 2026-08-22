@@ -219,7 +219,7 @@ Key areas analyzed include:
 
 ## Power BI Dashboard
 
-The final Power BI dashboard contains four analytical pages.
+The final Power BI dashboard contains four analytical pages:
 
 -Page 1 - Credit Card Sales Overview
 -Page 2 - Customer & Card Analysis
@@ -228,7 +228,7 @@ The final Power BI dashboard contains four analytical pages.
 
 ## Key Insights
 
-###Customer & Card Adoption
+###Customer & Card Adoption:
 
 -824 customers participated in transactions.
 -418 customers were approved.
@@ -236,7 +236,7 @@ The final Power BI dashboard contains four analytical pages.
 -Hyderabad had the highest customer count.
 -Pune recorded the highest customer adoption rate.
 -Platinum was the most widely used card type.
-- Note: Not only Eligible customers got approval, but some exceptional customers from Ineligible customer data also got approval.
+>Note: Not only Eligible customers got approval, but some exceptional customers from Ineligible customer data also got approval.
 
 
 ### Transaction & Spending
